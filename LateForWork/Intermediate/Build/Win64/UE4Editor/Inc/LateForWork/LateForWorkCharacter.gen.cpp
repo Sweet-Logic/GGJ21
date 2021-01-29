@@ -46,6 +46,10 @@ void EmptyLinkFunctionForGeneratedCodeLateForWorkCharacter() {}
 		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_CursorToWorld_MetaData[];
 #endif
 		static const UE4CodeGen_Private::FObjectPropertyParams NewProp_CursorToWorld;
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_m_movementSpeed_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FFloatPropertyParams NewProp_m_movementSpeed;
 		static const UE4CodeGen_Private::FPropertyParamsBase* const PropPointers[];
 		static const FCppClassTypeInfoStatic StaticCppClassTypeInfo;
 		static const UE4CodeGen_Private::FClassParams ClassParams;
@@ -96,10 +100,19 @@ void EmptyLinkFunctionForGeneratedCodeLateForWorkCharacter() {}
 	};
 #endif
 	const UE4CodeGen_Private::FObjectPropertyParams Z_Construct_UClass_ALateForWorkCharacter_Statics::NewProp_CursorToWorld = { "CursorToWorld", nullptr, (EPropertyFlags)0x00400000000a001d, UE4CodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(ALateForWorkCharacter, CursorToWorld), Z_Construct_UClass_UDecalComponent_NoRegister, METADATA_PARAMS(Z_Construct_UClass_ALateForWorkCharacter_Statics::NewProp_CursorToWorld_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_ALateForWorkCharacter_Statics::NewProp_CursorToWorld_MetaData)) };
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_ALateForWorkCharacter_Statics::NewProp_m_movementSpeed_MetaData[] = {
+		{ "AllowPrivateAccess", "true" },
+		{ "Category", "Movement" },
+		{ "ModuleRelativePath", "LateForWorkCharacter.h" },
+	};
+#endif
+	const UE4CodeGen_Private::FFloatPropertyParams Z_Construct_UClass_ALateForWorkCharacter_Statics::NewProp_m_movementSpeed = { "m_movementSpeed", nullptr, (EPropertyFlags)0x0040000000020015, UE4CodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(ALateForWorkCharacter, m_movementSpeed), METADATA_PARAMS(Z_Construct_UClass_ALateForWorkCharacter_Statics::NewProp_m_movementSpeed_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_ALateForWorkCharacter_Statics::NewProp_m_movementSpeed_MetaData)) };
 	const UE4CodeGen_Private::FPropertyParamsBase* const Z_Construct_UClass_ALateForWorkCharacter_Statics::PropPointers[] = {
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ALateForWorkCharacter_Statics::NewProp_TopDownCameraComponent,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ALateForWorkCharacter_Statics::NewProp_CameraBoom,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ALateForWorkCharacter_Statics::NewProp_CursorToWorld,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ALateForWorkCharacter_Statics::NewProp_m_movementSpeed,
 	};
 	const FCppClassTypeInfoStatic Z_Construct_UClass_ALateForWorkCharacter_Statics::StaticCppClassTypeInfo = {
 		TCppClassTypeTraits<ALateForWorkCharacter>::IsAbstract,
@@ -128,7 +141,7 @@ void EmptyLinkFunctionForGeneratedCodeLateForWorkCharacter() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(ALateForWorkCharacter, 2585298448);
+	IMPLEMENT_CLASS(ALateForWorkCharacter, 1998047627);
 	template<> LATEFORWORK_API UClass* StaticClass<ALateForWorkCharacter>()
 	{
 		return ALateForWorkCharacter::StaticClass();
