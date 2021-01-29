@@ -36,6 +36,7 @@ ALateForWorkCharacter::ALateForWorkCharacter()
 	CameraBoom->SetRelativeRotation(FRotator(-60.f, 0.f, 0.f));
 	CameraBoom->bDoCollisionTest = false; // Don't want to pull camera in when it collides with level
 
+
 	// Create a camera...
 	TopDownCameraComponent = CreateDefaultSubobject<UCameraComponent>(TEXT("TopDownCamera"));
 	TopDownCameraComponent->SetupAttachment(CameraBoom, USpringArmComponent::SocketName);
@@ -55,6 +56,31 @@ ALateForWorkCharacter::ALateForWorkCharacter()
 	// Activate ticking in order to update the cursor every frame.
 	PrimaryActorTick.bCanEverTick = true;
 	PrimaryActorTick.bStartWithTickEnabled = true;
+
+	
+}
+
+void ALateForWorkCharacter::BeginPlay()
+{
+	Super::BeginPlay();
+	m_playerController = Cast<ALateForWorkPlayerController>(GetController());
+
+	m_forwardVector = GetActorForwardVector();
+	m_rightVector = GetActorRightVector();
+}
+
+void ALateForWorkCharacter::SetupPlayerInputComponent(UInputComponent* _inputComponent)
+{
+	Super::SetupPlayerInputComponent(_inputComponent);
+
+	// set up gameplay key bindings
+	_inputComponent->BindAction("InteractPressed", EInputEvent::IE_Pressed, this, &ALateForWorkCharacter::InteractPressed);
+	_inputComponent->BindAction("Pause", EInputEvent::IE_Pressed, this, &ALateForWorkCharacter::PausePressed);
+	_inputComponent->BindAction("DisplayList", EInputEvent::IE_Pressed, this, &ALateForWorkCharacter::DisplayListPressed);
+
+	_inputComponent->BindAxis("MoveForward", this, &ALateForWorkCharacter::OnMoveForwardPressed);
+	_inputComponent->BindAxis("MoveRight", this, &ALateForWorkCharacter::OnMoveRightPressed);
+
 }
 
 void ALateForWorkCharacter::Tick(float DeltaSeconds)
@@ -87,4 +113,48 @@ void ALateForWorkCharacter::Tick(float DeltaSeconds)
 			CursorToWorld->SetWorldRotation(CursorR);
 		}
 	}
+}
+
+
+//Action Mappings
+void ALateForWorkCharacter::InteractPressed()
+{
+	GEngine->AddOnScreenDebugMessage(-1, 5.f, FColor::Cyan, TEXT("Interact Pressed, But there is no functionality yet!"));
+}
+
+//Input handlers for Pause
+void ALateForWorkCharacter::PausePressed()
+{
+	GEngine->AddOnScreenDebugMessage(-1, 5.f, FColor::Cyan, TEXT("Pause Pressed, But there is no functionality yet!"));
+
+}
+
+//Input handlers for Display List
+void ALateForWorkCharacter::DisplayListPressed()
+{
+	GEngine->AddOnScreenDebugMessage(-1, 5.f, FColor::Cyan, TEXT("DisplayListPressed, But there is no functionality yet!"));
+
+}
+
+//Axis Mappings
+//Input handlers for Move Forward
+void ALateForWorkCharacter::OnMoveForwardPressed(float Value)
+{ 
+	if (nullptr != m_playerController)
+	{
+		GetActorForwardVector();
+		AddMovementInput(m_forwardVector, Value* m_movementSpeed);
+	}
+
+}
+
+//Input handlers for Move Right
+void ALateForWorkCharacter::OnMoveRightPressed(float Value)
+{
+	if (nullptr != m_playerController)
+	{
+		GetActorForwardVector();
+		AddMovementInput(m_rightVector, Value* m_movementSpeed);
+	}
+
 }

@@ -15,6 +15,7 @@ public:
 	ALateForWorkPlayerController();
 
 protected:
+
 	/** True if the controlled character should navigate to the mouse cursor. */
 	uint32 bMoveToMouseCursor : 1;
 
@@ -23,21 +24,23 @@ protected:
 	virtual void SetupInputComponent() override;
 	// End PlayerController interface
 
-	/** Resets HMD orientation in VR. */
-	void OnResetVR();
-
-	/** Navigate player to the current mouse cursor location. */
-	void MoveToMouseCursor();
-
-	/** Navigate player to the current touch location. */
-	void MoveToTouchLocation(const ETouchIndex::Type FingerIndex, const FVector Location);
+	//Action Mappings	
+	//Input handlers for UI Back
+	void UIBackPressed();
+	void UIBackReleased();
 	
-	/** Navigate player to the given world location. */
-	void SetNewMoveDestination(const FVector DestLocation);
-
-	/** Input handlers for SetDestination action. */
-	void OnSetDestinationPressed();
-	void OnSetDestinationReleased();
+	//Input handlers for UI Select
+	void UISelectPressed();
+	void UISelectReleased();
+	
+	//Axis Mappings	
+	//Input handlers for UI Up
+	void OnUIUpPressed();
+	void OnUIUpReleased();
+	
+	//Input handlers for UI Right
+	void OnUIRightPressed();
+	void OnUIRightRealease();
 };
 
 

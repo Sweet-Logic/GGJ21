@@ -7,6 +7,9 @@
 #include "LateForWorkCharacter.h"
 #include "Engine/World.h"
 
+#include "Engine/Engine.h"
+
+
 ALateForWorkPlayerController::ALateForWorkPlayerController()
 {
 	bShowMouseCursor = true;
@@ -16,12 +19,6 @@ ALateForWorkPlayerController::ALateForWorkPlayerController()
 void ALateForWorkPlayerController::PlayerTick(float DeltaTime)
 {
 	Super::PlayerTick(DeltaTime);
-
-	// keep updating the destination every tick while desired
-	if (bMoveToMouseCursor)
-	{
-		MoveToMouseCursor();
-	}
 }
 
 void ALateForWorkPlayerController::SetupInputComponent()
@@ -29,84 +26,51 @@ void ALateForWorkPlayerController::SetupInputComponent()
 	// set up gameplay key bindings
 	Super::SetupInputComponent();
 
-	InputComponent->BindAction("SetDestination", IE_Pressed, this, &ALateForWorkPlayerController::OnSetDestinationPressed);
-	InputComponent->BindAction("SetDestination", IE_Released, this, &ALateForWorkPlayerController::OnSetDestinationReleased);
-
-	// support touch devices 
-	InputComponent->BindTouch(EInputEvent::IE_Pressed, this, &ALateForWorkPlayerController::MoveToTouchLocation);
-	InputComponent->BindTouch(EInputEvent::IE_Repeat, this, &ALateForWorkPlayerController::MoveToTouchLocation);
-
-	InputComponent->BindAction("ResetVR", IE_Pressed, this, &ALateForWorkPlayerController::OnResetVR);
 }
 
-void ALateForWorkPlayerController::OnResetVR()
+//Action Mappings
+
+//Input handlers for UI Back
+void ALateForWorkPlayerController::UIBackPressed()
 {
-	UHeadMountedDisplayFunctionLibrary::ResetOrientationAndPosition();
+	GEngine->AddOnScreenDebugMessage(-1, 5.f, FColor::Cyan, TEXT("UI Back, But there is no functionality yet!"));
 }
 
-void ALateForWorkPlayerController::MoveToMouseCursor()
+void ALateForWorkPlayerController::UIBackReleased()
 {
-	if (UHeadMountedDisplayFunctionLibrary::IsHeadMountedDisplayEnabled())
-	{
-		if (ALateForWorkCharacter* MyPawn = Cast<ALateForWorkCharacter>(GetPawn()))
-		{
-			if (MyPawn->GetCursorToWorld())
-			{
-				UAIBlueprintHelperLibrary::SimpleMoveToLocation(this, MyPawn->GetCursorToWorld()->GetComponentLocation());
-			}
-		}
-	}
-	else
-	{
-		// Trace to see what is under the mouse cursor
-		FHitResult Hit;
-		GetHitResultUnderCursor(ECC_Visibility, false, Hit);
-
-		if (Hit.bBlockingHit)
-		{
-			// We hit something, move there
-			SetNewMoveDestination(Hit.ImpactPoint);
-		}
-	}
 }
 
-void ALateForWorkPlayerController::MoveToTouchLocation(const ETouchIndex::Type FingerIndex, const FVector Location)
+//Input handlers for UI Select
+void ALateForWorkPlayerController::UISelectPressed()
 {
-	FVector2D ScreenSpaceLocation(Location);
+	GEngine->AddOnScreenDebugMessage(-1, 5.f, FColor::Cyan, TEXT("UI Select, But there is no functionality yet!"));
 
-	// Trace to see what is under the touch location
-	FHitResult HitResult;
-	GetHitResultAtScreenPosition(ScreenSpaceLocation, CurrentClickTraceChannel, true, HitResult);
-	if (HitResult.bBlockingHit)
-	{
-		// We hit something, move there
-		SetNewMoveDestination(HitResult.ImpactPoint);
-	}
 }
 
-void ALateForWorkPlayerController::SetNewMoveDestination(const FVector DestLocation)
+void ALateForWorkPlayerController::UISelectReleased()
 {
-	APawn* const MyPawn = GetPawn();
-	if (MyPawn)
-	{
-		float const Distance = FVector::Dist(DestLocation, MyPawn->GetActorLocation());
-
-		// We need to issue move command only if far enough in order for walk animation to play correctly
-		if ((Distance > 120.0f))
-		{
-			UAIBlueprintHelperLibrary::SimpleMoveToLocation(this, DestLocation);
-		}
-	}
 }
 
-void ALateForWorkPlayerController::OnSetDestinationPressed()
+//Axis Mappings
+//Input handlers for UI Up
+void ALateForWorkPlayerController::OnUIUpPressed()
 {
-	// set flag to keep updating destination until released
-	bMoveToMouseCursor = true;
+	GEngine->AddOnScreenDebugMessage(-1, 5.f, FColor::Cyan, TEXT("OnUIUpPressed, But there is no functionality yet!"));
+
 }
 
-void ALateForWorkPlayerController::OnSetDestinationReleased()
+void ALateForWorkPlayerController::OnUIUpReleased()
 {
-	// clear flag to indicate we should stop updating the destination
-	bMoveToMouseCursor = false;
+
+}
+
+//Input handlers for UI Right
+void ALateForWorkPlayerController::OnUIRightPressed()
+{
+	GEngine->AddOnScreenDebugMessage(-1, 5.f, FColor::Cyan, TEXT("OnUIRightPressed, But there is no functionality yet!"));
+}
+
+void ALateForWorkPlayerController::OnUIRightRealease()
+{
+
 }
