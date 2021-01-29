@@ -1,0 +1,2 @@
+C:\Users\KIWe\Projects\GGJ\2021\GGJ21\LateForWork\Intermediate\Build\Win64\UE4Editor\Development\LateForWork\Definitions.LateForWork.h
+C:\Users\KIWe\Projects\GGJ\2021\GGJ21\LateForWork\Source\LateForWork\LateForWork.h
