@@ -2,12 +2,12 @@
 	"Targets": [
 		{
 			"Name": "LateForWork",
-			"Path": "C:\\Users\\KIWe\\Projects\\GGJ\\2021\\GGJ21\\LateForWork\\Source\\LateForWork.Target.cs",
+			"Path": "E:\\Users\\ash\\Dev\\Unreal\\GGJ21\\LateForWork\\Source\\LateForWork.Target.cs",
 			"Type": "Game"
 		},
 		{
 			"Name": "LateForWorkEditor",
-			"Path": "C:\\Users\\KIWe\\Projects\\GGJ\\2021\\GGJ21\\LateForWork\\Source\\LateForWorkEditor.Target.cs",
+			"Path": "E:\\Users\\ash\\Dev\\Unreal\\GGJ21\\LateForWork\\Source\\LateForWorkEditor.Target.cs",
 			"Type": "Editor"
 		}
 	]
