@@ -29,6 +29,11 @@ public:
 	/** Returns CursorToWorld subobject **/
 	FORCEINLINE class UDecalComponent* GetCursorToWorld() { return CursorToWorld; }
 
+	UFUNCTION(BlueprintNativeEvent, Category = "C++ Functions")
+		void InteractButtonPressed();
+
+	void InteractButtonPressed_Implementation();
+
 private:
 	/** Top down camera */
 	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = Camera, meta = (AllowPrivateAccess = "true"))
@@ -43,7 +48,11 @@ private:
 	class UDecalComponent* CursorToWorld;
 
 	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = Movement, meta = (AllowPrivateAccess = "true"))
-		float m_movementSpeed = 20.f;
+	float m_movementSpeed = 20.f;
+
+
+
+
 
 	ALateForWorkPlayerController* m_playerController = nullptr;
 

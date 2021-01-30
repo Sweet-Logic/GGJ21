@@ -14,8 +14,19 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #define LATEFORWORK_LateForWorkCharacter_generated_h
 
 #define LateForWork_Source_LateForWork_LateForWorkCharacter_h_14_SPARSE_DATA
-#define LateForWork_Source_LateForWork_LateForWorkCharacter_h_14_RPC_WRAPPERS
-#define LateForWork_Source_LateForWork_LateForWorkCharacter_h_14_RPC_WRAPPERS_NO_PURE_DECLS
+#define LateForWork_Source_LateForWork_LateForWorkCharacter_h_14_RPC_WRAPPERS \
+	virtual void InteractButtonPressed_Implementation(); \
+ \
+	DECLARE_FUNCTION(execInteractButtonPressed);
+
+
+#define LateForWork_Source_LateForWork_LateForWorkCharacter_h_14_RPC_WRAPPERS_NO_PURE_DECLS \
+ \
+	DECLARE_FUNCTION(execInteractButtonPressed);
+
+
+#define LateForWork_Source_LateForWork_LateForWorkCharacter_h_14_EVENT_PARMS
+#define LateForWork_Source_LateForWork_LateForWorkCharacter_h_14_CALLBACK_WRAPPERS
 #define LateForWork_Source_LateForWork_LateForWorkCharacter_h_14_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesALateForWorkCharacter(); \
@@ -65,13 +76,17 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(ALateForWorkCharacter); \
 	FORCEINLINE static uint32 __PPO__m_movementSpeed() { return STRUCT_OFFSET(ALateForWorkCharacter, m_movementSpeed); }
 
 
-#define LateForWork_Source_LateForWork_LateForWorkCharacter_h_11_PROLOG
+#define LateForWork_Source_LateForWork_LateForWorkCharacter_h_11_PROLOG \
+	LateForWork_Source_LateForWork_LateForWorkCharacter_h_14_EVENT_PARMS
+
+
 #define LateForWork_Source_LateForWork_LateForWorkCharacter_h_14_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
 	LateForWork_Source_LateForWork_LateForWorkCharacter_h_14_PRIVATE_PROPERTY_OFFSET \
 	LateForWork_Source_LateForWork_LateForWorkCharacter_h_14_SPARSE_DATA \
 	LateForWork_Source_LateForWork_LateForWorkCharacter_h_14_RPC_WRAPPERS \
+	LateForWork_Source_LateForWork_LateForWorkCharacter_h_14_CALLBACK_WRAPPERS \
 	LateForWork_Source_LateForWork_LateForWorkCharacter_h_14_INCLASS \
 	LateForWork_Source_LateForWork_LateForWorkCharacter_h_14_STANDARD_CONSTRUCTORS \
 public: \
@@ -84,6 +99,7 @@ public: \
 	LateForWork_Source_LateForWork_LateForWorkCharacter_h_14_PRIVATE_PROPERTY_OFFSET \
 	LateForWork_Source_LateForWork_LateForWorkCharacter_h_14_SPARSE_DATA \
 	LateForWork_Source_LateForWork_LateForWorkCharacter_h_14_RPC_WRAPPERS_NO_PURE_DECLS \
+	LateForWork_Source_LateForWork_LateForWorkCharacter_h_14_CALLBACK_WRAPPERS \
 	LateForWork_Source_LateForWork_LateForWorkCharacter_h_14_INCLASS_NO_PURE_DECLS \
 	LateForWork_Source_LateForWork_LateForWorkCharacter_h_14_ENHANCED_CONSTRUCTORS \
 private: \
