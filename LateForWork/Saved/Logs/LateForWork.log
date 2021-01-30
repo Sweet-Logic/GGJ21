@@ -783,3 +783,5 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.01.30-20.40.49:999][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
 [2021.01.30-20.40.50:000][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2021.01.30-20.40.51:308][  4]LogSlate: Took 0.000262 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.01.30-20.57.26:091][575]LogLinker: Warning: Failed to read package file summary, the file "C:/Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/Pickups/BP_PickupTest.uasset" is too small (0 bytes, expected at least 32 bytes)
+[2021.01.30-20.57.26:091][575]LogAssetRegistry: Error: Package C:/Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/Pickups/BP_PickupTest.uasset has malformed tag
