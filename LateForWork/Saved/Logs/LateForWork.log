@@ -1021,3 +1021,1099 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.01.30-12.56.19:206][433]AssetCheck: New page: Asset Save: multiple assets
 [2021.01.30-12.56.19:206][433]LogContentValidation: Display: Validating World /Game/Levels/HouseTest.HouseTest
 [2021.01.30-12.56.19:206][433]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/HouseTest_BuiltData.HouseTest_BuiltData
+[2021.01.30-13.00.57:739][560]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_House_InteriorWall_8)
+[2021.01.30-13.01.18:390][525]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_House_ExteriorWall_GroundFloor_7)
+[2021.01.30-13.01.22:149][868]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_House_InteriorWall_8)
+[2021.01.30-13.01.25:818][139]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_House_ExteriorWall_GroundFloor_8)
+[2021.01.30-13.01.29:235][395]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_House_InteriorWall_8)
+[2021.01.30-13.01.32:506][637]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_House_ExteriorWall_GroundFloor_8)
+[2021.01.30-13.01.45:933][888]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_House_InteriorWall_11)
+[2021.01.30-13.01.46:541][954]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_House_InteriorWall_8)
+[2021.01.30-13.01.48:483][164]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_House_ExteriorWall_GroundFloor_8)
+[2021.01.30-13.01.51:517][465]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_House_InteriorWall_8)
+[2021.01.30-13.01.53:266][641]Cmd: DELETE
+[2021.01.30-13.01.53:266][641]Cmd: ACTOR DELETE
+[2021.01.30-13.01.53:268][641]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.01.30-13.01.53:290][641]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2021.01.30-13.01.53:291][641]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2021.01.30-13.01.54:369][750]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_House_ExteriorWall_GroundFloor_8)
+[2021.01.30-13.02.11:048][567]Cmd: TRANSACTION UNDO
+[2021.01.30-13.02.11:048][567]LogEditorTransaction: Undo Move Actors
+[2021.01.30-13.02.12:215][626]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.01.30-13.02.21:575][668]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_House_ExteriorWall_GroundFloor_8)
+[2021.01.30-13.02.36:818][376]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_House_ExteriorWall_GroundFloor_Corner_6)
+[2021.01.30-13.02.48:820][568]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.01.30-13.02.49:601][654]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_House_ExteriorWall_GroundFloor_Corner_7)
+[2021.01.30-13.03.01:397][973]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.01.30-13.03.03:740][206]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_House_ExteriorWall_GroundFloor_Corner_7)
+[2021.01.30-13.03.06:586][517]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_House_ExteriorWall_GroundFloor_8)
+[2021.01.30-13.03.12:465][181]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.01.30-13.03.26:355][644]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_House_ExteriorWall_GroundFloor_6)
+[2021.01.30-13.03.30:003][959]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_House_InteriorWall_7)
+[2021.01.30-13.03.32:419][134]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_House_ExteriorWall_GroundFloor_9)
+[2021.01.30-13.03.38:095][601]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_House_InteriorWall_7)
+[2021.01.30-13.03.40:421][758]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_House_ExteriorWall_GroundFloor_9)
+[2021.01.30-13.03.49:323][536]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_House_InteriorWall_7)
+[2021.01.30-13.03.49:786][585]Cmd: DELETE
+[2021.01.30-13.03.49:786][585]Cmd: ACTOR DELETE
+[2021.01.30-13.03.49:788][585]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.01.30-13.03.49:809][585]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2021.01.30-13.03.49:811][585]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2021.01.30-13.03.52:727][899]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_House_ExteriorWall_GroundFloor_9)
+[2021.01.30-13.04.13:623][157]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.01.30-13.04.16:871][481]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.30-13.04.16:878][481]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.30-13.04.16:878][481]PIE: New page: PIE session: HouseTest (30 Jan 2021, 13:04:16)
+[2021.01.30-13.04.16:905][481]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_HouseTest
+[2021.01.30-13.04.16:912][481]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006374s)
+[2021.01.30-13.04.16:913][481]LogAIModule: Creating AISystem for world HouseTest
+[2021.01.30-13.04.16:913][481]LogPlayLevel: PIE: World Init took: (0.001142s)
+[2021.01.30-13.04.16:913][481]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/HouseTest.HouseTest to /Game/Levels/UEDPIE_0_HouseTest.HouseTest (0.007685s)
+[2021.01.30-13.04.16:934][481]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2021.01.30-13.04.16:936][481]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.01.30-13.04.16:936][481]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.30-13.04.16:936][481]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.30-13.04.16:936][481]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.30-13.04.16:936][481]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.30-13.04.16:936][481]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.30-13.04.16:936][481]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.30-13.04.16:936][481]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.30-13.04.16:936][481]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.30-13.04.16:936][481]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.30-13.04.16:936][481]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.30-13.04.16:940][481]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.30-13.04.16:940][481]LogAudioMixer: Display: 1: FrontRight
+[2021.01.30-13.04.16:950][481]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2021.01.30-13.04.16:950][481]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.30-13.04.16:950][481]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.30-13.04.16:950][481]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.30-13.04.16:951][481]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.30-13.04.16:951][481]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.30-13.04.16:951][481]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.30-13.04.16:964][481]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.30-13.04.16:964][481]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.30-13.04.16:964][481]LogInit: FAudioDevice initialized.
+[2021.01.30-13.04.16:964][481]LogAudio: Display: Audio Device (ID: 3) registered with world 'HouseTest'.
+[2021.01.30-13.04.16:970][481]LogLoad: Game class is 'GMBP_MainGame_C'
+[2021.01.30-13.04.16:973][481]LogWorld: Bringing World /Game/Levels/UEDPIE_0_HouseTest.HouseTest up for play (max tick rate 0) at 2021.01.30-13.04.16
+[2021.01.30-13.04.16:974][481]LogWorld: Bringing up level for play took: 0.003017
+[2021.01.30-13.04.16:974][481]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2021.01.30-13.04.16:978][481]PIE: Server logged in
+[2021.01.30-13.04.16:979][481]PIE: Play in editor total start time 0.102 seconds.
+[2021.01.30-13.04.16:979][481]LogInput: Error: Duplicate mapping of key Gamepad_LeftX for axis MoveRight
+[2021.01.30-13.04.16:979][481]LogInput: Error: Duplicate mapping of key Gamepad_LeftY for axis MoveForward
+[2021.01.30-13.04.16:979][481]LogInput: Error: Duplicate mapping of key Gamepad_LeftY for axis UIUp
+[2021.01.30-13.04.16:979][481]LogInput: Error: Duplicate mapping of key Gamepad_LeftX for axis UIRight
+[2021.01.30-13.04.20:193][862]LogBlueprintUserMessages: [BP_PickupTest_C_0] Player collided
+[2021.01.30-13.04.42:436][528]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.30-13.04.42:436][528]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_HouseTest
+[2021.01.30-13.04.42:437][528]LogWorld: UWorld::CleanupWorld for HouseTest, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-13.04.42:437][528]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-13.04.42:446][528]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.30-13.04.42:458][528]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-13.04.42:475][528]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.30-13.04.42:476][528]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.30-13.04.42:477][528]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.30-13.04.42:496][528]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2021.01.30-13.04.42:533][529]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2021.01.30-13.04.53:085][736]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_House_ExteriorWall_GroundFloor_Corner_7)
+[2021.01.30-13.05.13:266][941]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_House_ExteriorWall_GroundFloor_9)
+[2021.01.30-13.05.34:636][304]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_House_ExteriorWall_GroundFloor_Corner_4)
+[2021.01.30-13.05.37:457][587]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_House_ExteriorWall_GroundFloor_Corner_2)
+[2021.01.30-13.05.39:062][765]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_House_ExteriorWall_GroundFloor_5)
+[2021.01.30-13.05.39:689][830]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_House_ExteriorWall_GroundFloor_9)
+[2021.01.30-13.05.42:450][131]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_House_ExteriorWall_GroundFloor_8)
+[2021.01.30-13.05.44:079][287]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_House_ExteriorWall_GroundFloor_Corner_8)
+[2021.01.30-13.05.51:786][145]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_House_ExteriorWall_GroundFloor_8)
+[2021.01.30-13.06.15:827][ 23]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.01.30-13.06.18:921][329]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_House_ExteriorWall_GroundFloor_8)
+[2021.01.30-13.06.25:276][707]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.01.30-13.06.32:301][426]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_House_ExteriorWall_GroundFloor_8)
+[2021.01.30-13.06.41:004][198]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.01.30-13.06.48:213][982]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_House_ExteriorWall_GroundFloor_9)
+[2021.01.30-13.06.49:863][130]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_House_ExteriorWall_GroundFloor_Corner_8)
+[2021.01.30-13.06.59:196][155]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.01.30-13.07.06:763][ 14]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_House_ExteriorWall_GroundFloor_8)
+[2021.01.30-13.07.14:439][879]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.01.30-13.07.17:630][221]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_House_ExteriorWall_GroundFloor_Corner_7)
+[2021.01.30-13.07.19:371][422]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.01.30-13.07.20:993][591]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_House_ExteriorWall_GroundFloor_7)
+[2021.01.30-13.07.35:056][628]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.01.30-13.07.47:073][918]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_House_ExteriorWall_GroundFloor_Door_2)
+[2021.01.30-13.07.49:947][166]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/HouseTest" FILE="../../../../../../Users/ash/Dev/Unreal/GGJ21/LateForWork/Content/Levels/HouseTest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.01.30-13.07.49:969][166]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2021.01.30-13.07.50:003][166]LogSavePackage: Moving '../../../../../../Users/ash/Dev/Unreal/GGJ21/LateForWork/Saved/HouseTest7C4B0E7D4B1F7787725D3898DB46580B.tmp' to '../../../../../../Users/ash/Dev/Unreal/GGJ21/LateForWork/Content/Levels/HouseTest.umap'
+[2021.01.30-13.07.50:017][166]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/HouseTest_BuiltData" FILE="../../../../../../Users/ash/Dev/Unreal/GGJ21/LateForWork/Content/Levels/HouseTest_BuiltData.uasset" SILENT=true
+[2021.01.30-13.07.50:031][166]LogSavePackage: Moving '../../../../../../Users/ash/Dev/Unreal/GGJ21/LateForWork/Saved/HouseTest_BuiltDataC78190E84D44B7884199D8BB58751BC9.tmp' to '../../../../../../Users/ash/Dev/Unreal/GGJ21/LateForWork/Content/Levels/HouseTest_BuiltData.uasset'
+[2021.01.30-13.07.50:080][166]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.30-13.07.50:080][166]LogContentValidation: Display: Validating World /Game/Levels/HouseTest.HouseTest
+[2021.01.30-13.07.50:080][166]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/HouseTest_BuiltData.HouseTest_BuiltData
+[2021.01.30-13.08.00:141][125]Cmd: DELETE
+[2021.01.30-13.08.00:141][125]Cmd: ACTOR DELETE
+[2021.01.30-13.08.00:143][125]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.01.30-13.08.00:168][125]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2021.01.30-13.08.00:170][125]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2021.01.30-13.08.06:911][866]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_House_InteriorWall_13)
+[2021.01.30-13.08.38:500][240]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.01.30-13.08.43:186][765]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_House_InteriorWall_DoorFrame_01)
+[2021.01.30-13.08.48:630][313]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_House_InteriorWall_14)
+[2021.01.30-13.08.53:896][879]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.01.30-13.09.02:066][789]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_House_InteriorWall_DoorFrame_01)
+[2021.01.30-13.09.08:680][278]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_House_InteriorWall_DoorFrame_6)
+[2021.01.30-13.09.11:483][497]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_House_InteriorWall_13)
+[2021.01.30-13.09.25:435][ 11]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_House_InteriorWall_9)
+[2021.01.30-13.09.28:781][289]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_House_InteriorWall_DoorFrame_2)
+[2021.01.30-13.09.31:753][551]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_House_InteriorWall_12)
+[2021.01.30-13.09.34:592][779]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_House_InteriorWall_DoorFrame_4)
+[2021.01.30-13.09.45:558][914]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_House_InteriorWall_10)
+[2021.01.30-13.09.48:302][128]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_House_InteriorWall_11)
+[2021.01.30-13.09.51:313][391]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_House_InteriorWall_11)
+[2021.01.30-13.09.53:245][589]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_House_InteriorWall_DoorFrame_5)
+[2021.01.30-13.10.17:568][368]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_House_InteriorWall_12)
+[2021.01.30-13.10.24:782][184]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_House_InteriorWall_DoorFrame_5)
+[2021.01.30-13.10.37:049][350]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_House_InteriorWall_15)
+[2021.01.30-13.10.41:452][849]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.01.30-13.10.44:168][114]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_House_InteriorWall_16)
+[2021.01.30-13.10.46:573][317]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.01.30-13.10.50:775][735]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.30-13.10.50:783][735]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.30-13.10.50:783][735]PIE: New page: PIE session: HouseTest (30 Jan 2021, 13:10:50)
+[2021.01.30-13.10.50:805][735]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_HouseTest
+[2021.01.30-13.10.50:812][735]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006717s)
+[2021.01.30-13.10.50:813][735]LogAIModule: Creating AISystem for world HouseTest
+[2021.01.30-13.10.50:813][735]LogPlayLevel: PIE: World Init took: (0.001132s)
+[2021.01.30-13.10.50:813][735]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/HouseTest.HouseTest to /Game/Levels/UEDPIE_0_HouseTest.HouseTest (0.008016s)
+[2021.01.30-13.10.50:834][735]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2021.01.30-13.10.50:836][735]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.01.30-13.10.50:836][735]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.30-13.10.50:836][735]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.30-13.10.50:836][735]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.30-13.10.50:836][735]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.30-13.10.50:836][735]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.30-13.10.50:836][735]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.30-13.10.50:836][735]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.30-13.10.50:836][735]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.30-13.10.50:837][735]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.30-13.10.50:837][735]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.30-13.10.50:840][735]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.30-13.10.50:840][735]LogAudioMixer: Display: 1: FrontRight
+[2021.01.30-13.10.50:851][735]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2021.01.30-13.10.50:851][735]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.30-13.10.50:851][735]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.30-13.10.50:851][735]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.30-13.10.50:851][735]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.30-13.10.50:851][735]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.30-13.10.50:851][735]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.30-13.10.50:864][735]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.30-13.10.50:864][735]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.30-13.10.50:864][735]LogInit: FAudioDevice initialized.
+[2021.01.30-13.10.50:864][735]LogAudio: Display: Audio Device (ID: 4) registered with world 'HouseTest'.
+[2021.01.30-13.10.50:874][735]LogLoad: Game class is 'GMBP_MainGame_C'
+[2021.01.30-13.10.50:878][735]LogWorld: Bringing World /Game/Levels/UEDPIE_0_HouseTest.HouseTest up for play (max tick rate 0) at 2021.01.30-13.10.50
+[2021.01.30-13.10.50:878][735]LogWorld: Bringing up level for play took: 0.003423
+[2021.01.30-13.10.50:879][735]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2021.01.30-13.10.50:882][735]PIE: Server logged in
+[2021.01.30-13.10.50:883][735]PIE: Play in editor total start time 0.101 seconds.
+[2021.01.30-13.10.50:884][735]LogInput: Error: Duplicate mapping of key Gamepad_LeftX for axis MoveRight
+[2021.01.30-13.10.50:884][735]LogInput: Error: Duplicate mapping of key Gamepad_LeftY for axis MoveForward
+[2021.01.30-13.10.50:884][735]LogInput: Error: Duplicate mapping of key Gamepad_LeftY for axis UIUp
+[2021.01.30-13.10.50:884][735]LogInput: Error: Duplicate mapping of key Gamepad_LeftX for axis UIRight
+[2021.01.30-13.10.52:472][908]LogBlueprintUserMessages: [BP_PickupTest_C_0] Player collided
+[2021.01.30-13.11.02:557][113]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.30-13.11.02:557][113]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_HouseTest
+[2021.01.30-13.11.02:557][113]LogWorld: UWorld::CleanupWorld for HouseTest, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-13.11.02:558][113]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-13.11.02:565][113]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.30-13.11.02:576][113]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-13.11.02:594][113]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.30-13.11.02:594][113]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.30-13.11.02:595][113]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.30-13.11.02:610][113]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.30-13.11.02:614][113]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2021.01.30-13.11.02:648][114]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2021.01.30-13.11.03:799][238]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_House_InteriorWall_9)
+[2021.01.30-13.11.17:228][569]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.01.30-13.11.20:518][934]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_House_InteriorWall_9)
+[2021.01.30-13.11.26:475][462]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.01.30-13.11.28:201][648]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.30-13.11.28:208][648]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.30-13.11.28:208][648]PIE: New page: PIE session: HouseTest (30 Jan 2021, 13:11:28)
+[2021.01.30-13.11.28:208][648]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_HouseTest
+[2021.01.30-13.11.28:215][648]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006629s)
+[2021.01.30-13.11.28:216][648]LogAIModule: Creating AISystem for world HouseTest
+[2021.01.30-13.11.28:216][648]LogPlayLevel: PIE: World Init took: (0.001110s)
+[2021.01.30-13.11.28:216][648]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/HouseTest.HouseTest to /Game/Levels/UEDPIE_0_HouseTest.HouseTest (0.007882s)
+[2021.01.30-13.11.28:237][648]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2021.01.30-13.11.28:238][648]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2021.01.30-13.11.28:238][648]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.30-13.11.28:238][648]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.30-13.11.28:238][648]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.30-13.11.28:238][648]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.30-13.11.28:238][648]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.30-13.11.28:239][648]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.30-13.11.28:239][648]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.30-13.11.28:239][648]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.30-13.11.28:239][648]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.30-13.11.28:239][648]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.30-13.11.28:242][648]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.30-13.11.28:242][648]LogAudioMixer: Display: 1: FrontRight
+[2021.01.30-13.11.28:251][648]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2021.01.30-13.11.28:252][648]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.30-13.11.28:252][648]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.30-13.11.28:252][648]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.30-13.11.28:252][648]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.30-13.11.28:252][648]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.30-13.11.28:252][648]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.30-13.11.28:266][648]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.30-13.11.28:266][648]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.30-13.11.28:266][648]LogInit: FAudioDevice initialized.
+[2021.01.30-13.11.28:266][648]LogAudio: Display: Audio Device (ID: 5) registered with world 'HouseTest'.
+[2021.01.30-13.11.28:275][648]LogLoad: Game class is 'GMBP_MainGame_C'
+[2021.01.30-13.11.28:279][648]LogWorld: Bringing World /Game/Levels/UEDPIE_0_HouseTest.HouseTest up for play (max tick rate 0) at 2021.01.30-13.11.28
+[2021.01.30-13.11.28:279][648]LogWorld: Bringing up level for play took: 0.003051
+[2021.01.30-13.11.28:279][648]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2021.01.30-13.11.28:283][648]PIE: Server logged in
+[2021.01.30-13.11.28:283][648]PIE: Play in editor total start time 0.076 seconds.
+[2021.01.30-13.11.28:284][648]LogInput: Error: Duplicate mapping of key Gamepad_LeftX for axis MoveRight
+[2021.01.30-13.11.28:284][648]LogInput: Error: Duplicate mapping of key Gamepad_LeftY for axis MoveForward
+[2021.01.30-13.11.28:284][648]LogInput: Error: Duplicate mapping of key Gamepad_LeftY for axis UIUp
+[2021.01.30-13.11.28:284][648]LogInput: Error: Duplicate mapping of key Gamepad_LeftX for axis UIRight
+[2021.01.30-13.11.30:025][855]LogBlueprintUserMessages: [BP_PickupTest_C_0] Player collided
+[2021.01.30-13.11.34:377][373]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.30-13.11.34:377][373]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_HouseTest
+[2021.01.30-13.11.34:377][373]LogWorld: UWorld::CleanupWorld for HouseTest, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-13.11.34:377][373]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-13.11.34:384][373]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.30-13.11.34:395][373]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-13.11.34:412][373]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.30-13.11.34:413][373]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.30-13.11.34:414][373]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.30-13.11.34:432][373]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2021.01.30-13.11.34:467][374]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2021.01.30-13.11.34:939][428]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_House_InteriorWall_9)
+[2021.01.30-13.11.38:638][850]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.30-13.11.38:645][850]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.30-13.11.38:645][850]PIE: New page: PIE session: HouseTest (30 Jan 2021, 13:11:38)
+[2021.01.30-13.11.38:675][850]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_HouseTest
+[2021.01.30-13.11.38:682][850]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006703s)
+[2021.01.30-13.11.38:683][850]LogAIModule: Creating AISystem for world HouseTest
+[2021.01.30-13.11.38:683][850]LogPlayLevel: PIE: World Init took: (0.001176s)
+[2021.01.30-13.11.38:683][850]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/HouseTest.HouseTest to /Game/Levels/UEDPIE_0_HouseTest.HouseTest (0.008048s)
+[2021.01.30-13.11.38:704][850]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2021.01.30-13.11.38:705][850]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2021.01.30-13.11.38:705][850]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.30-13.11.38:705][850]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.30-13.11.38:705][850]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.30-13.11.38:705][850]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.30-13.11.38:705][850]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.30-13.11.38:705][850]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.30-13.11.38:705][850]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.30-13.11.38:705][850]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.30-13.11.38:706][850]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.30-13.11.38:706][850]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.30-13.11.38:709][850]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.30-13.11.38:709][850]LogAudioMixer: Display: 1: FrontRight
+[2021.01.30-13.11.38:719][850]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2021.01.30-13.11.38:719][850]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.30-13.11.38:719][850]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.30-13.11.38:719][850]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.30-13.11.38:720][850]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.30-13.11.38:720][850]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.30-13.11.38:720][850]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.30-13.11.38:733][850]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.30-13.11.38:733][850]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.30-13.11.38:733][850]LogInit: FAudioDevice initialized.
+[2021.01.30-13.11.38:733][850]LogAudio: Display: Audio Device (ID: 6) registered with world 'HouseTest'.
+[2021.01.30-13.11.38:743][850]LogLoad: Game class is 'GMBP_MainGame_C'
+[2021.01.30-13.11.38:746][850]LogWorld: Bringing World /Game/Levels/UEDPIE_0_HouseTest.HouseTest up for play (max tick rate 0) at 2021.01.30-13.11.38
+[2021.01.30-13.11.38:747][850]LogWorld: Bringing up level for play took: 0.003162
+[2021.01.30-13.11.38:747][850]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2021.01.30-13.11.38:751][850]PIE: Server logged in
+[2021.01.30-13.11.38:751][850]PIE: Play in editor total start time 0.108 seconds.
+[2021.01.30-13.11.38:752][850]LogInput: Error: Duplicate mapping of key Gamepad_LeftX for axis MoveRight
+[2021.01.30-13.11.38:752][850]LogInput: Error: Duplicate mapping of key Gamepad_LeftY for axis MoveForward
+[2021.01.30-13.11.38:752][850]LogInput: Error: Duplicate mapping of key Gamepad_LeftY for axis UIUp
+[2021.01.30-13.11.38:752][850]LogInput: Error: Duplicate mapping of key Gamepad_LeftX for axis UIRight
+[2021.01.30-13.12.00:167][411]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.30-13.12.00:167][411]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_HouseTest
+[2021.01.30-13.12.00:167][411]LogWorld: UWorld::CleanupWorld for HouseTest, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-13.12.00:167][411]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-13.12.00:175][411]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.30-13.12.00:196][411]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-13.12.00:216][411]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.30-13.12.00:216][411]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.30-13.12.00:217][411]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.30-13.12.00:236][411]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2021.01.30-13.12.00:274][412]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2021.01.30-13.12.04:460][891]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_House_InteriorWall_14)
+[2021.01.30-13.12.30:765][908]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_House_InteriorWall_17)
+[2021.01.30-13.14.14:448][685]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_House_InteriorWall_17)
+[2021.01.30-13.14.22:975][462]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.30-13.14.22:983][462]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.30-13.14.22:983][462]PIE: New page: PIE session: HouseTest (30 Jan 2021, 13:14:22)
+[2021.01.30-13.14.23:006][462]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_HouseTest
+[2021.01.30-13.14.23:013][462]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006847s)
+[2021.01.30-13.14.23:014][462]LogAIModule: Creating AISystem for world HouseTest
+[2021.01.30-13.14.23:014][462]LogPlayLevel: PIE: World Init took: (0.001137s)
+[2021.01.30-13.14.23:014][462]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/HouseTest.HouseTest to /Game/Levels/UEDPIE_0_HouseTest.HouseTest (0.008146s)
+[2021.01.30-13.14.23:034][462]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2021.01.30-13.14.23:036][462]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2021.01.30-13.14.23:036][462]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.30-13.14.23:036][462]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.30-13.14.23:036][462]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.30-13.14.23:036][462]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.30-13.14.23:036][462]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.30-13.14.23:036][462]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.30-13.14.23:036][462]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.30-13.14.23:036][462]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.30-13.14.23:036][462]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.30-13.14.23:036][462]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.30-13.14.23:039][462]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.30-13.14.23:039][462]LogAudioMixer: Display: 1: FrontRight
+[2021.01.30-13.14.23:048][462]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2021.01.30-13.14.23:048][462]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.30-13.14.23:048][462]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.30-13.14.23:048][462]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.30-13.14.23:049][462]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.30-13.14.23:049][462]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.30-13.14.23:049][462]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.30-13.14.23:062][462]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.30-13.14.23:062][462]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.30-13.14.23:062][462]LogInit: FAudioDevice initialized.
+[2021.01.30-13.14.23:062][462]LogAudio: Display: Audio Device (ID: 7) registered with world 'HouseTest'.
+[2021.01.30-13.14.23:070][462]LogLoad: Game class is 'GMBP_MainGame_C'
+[2021.01.30-13.14.23:073][462]LogWorld: Bringing World /Game/Levels/UEDPIE_0_HouseTest.HouseTest up for play (max tick rate 0) at 2021.01.30-13.14.23
+[2021.01.30-13.14.23:073][462]LogWorld: Bringing up level for play took: 0.003204
+[2021.01.30-13.14.23:073][462]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2021.01.30-13.14.23:077][462]PIE: Server logged in
+[2021.01.30-13.14.23:078][462]PIE: Play in editor total start time 0.097 seconds.
+[2021.01.30-13.14.23:079][462]LogInput: Error: Duplicate mapping of key Gamepad_LeftX for axis MoveRight
+[2021.01.30-13.14.23:079][462]LogInput: Error: Duplicate mapping of key Gamepad_LeftY for axis MoveForward
+[2021.01.30-13.14.23:079][462]LogInput: Error: Duplicate mapping of key Gamepad_LeftY for axis UIUp
+[2021.01.30-13.14.23:079][462]LogInput: Error: Duplicate mapping of key Gamepad_LeftX for axis UIRight
+[2021.01.30-13.14.26:727][892]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.30-13.14.26:727][892]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_HouseTest
+[2021.01.30-13.14.26:727][892]LogWorld: UWorld::CleanupWorld for HouseTest, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-13.14.26:728][892]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-13.14.26:733][892]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.30-13.14.26:754][892]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-13.14.26:773][892]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.30-13.14.26:773][892]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.30-13.14.26:774][892]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.30-13.14.26:788][892]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.30-13.14.26:792][892]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2021.01.30-13.14.26:830][893]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2021.01.30-13.14.27:458][966]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_House_InteriorWall_18)
+[2021.01.30-13.14.39:942][412]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_House_InteriorWall_17)
+[2021.01.30-13.14.49:665][322]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_House_ExteriorWall_GroundFloor_7)
+[2021.01.30-13.14.55:911][993]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.30-13.14.55:918][993]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.30-13.14.55:918][993]PIE: New page: PIE session: HouseTest (30 Jan 2021, 13:14:55)
+[2021.01.30-13.14.55:946][993]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_HouseTest
+[2021.01.30-13.14.55:953][993]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006933s)
+[2021.01.30-13.14.55:954][993]LogAIModule: Creating AISystem for world HouseTest
+[2021.01.30-13.14.55:954][993]LogPlayLevel: PIE: World Init took: (0.001044s)
+[2021.01.30-13.14.55:954][993]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/HouseTest.HouseTest to /Game/Levels/UEDPIE_0_HouseTest.HouseTest (0.008138s)
+[2021.01.30-13.14.55:974][993]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2021.01.30-13.14.55:975][993]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2021.01.30-13.14.55:975][993]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.30-13.14.55:975][993]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.30-13.14.55:975][993]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.30-13.14.55:975][993]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.30-13.14.55:975][993]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.30-13.14.55:975][993]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.30-13.14.55:975][993]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.30-13.14.55:975][993]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.30-13.14.55:976][993]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.30-13.14.55:976][993]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.30-13.14.55:979][993]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.30-13.14.55:979][993]LogAudioMixer: Display: 1: FrontRight
+[2021.01.30-13.14.55:989][993]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2021.01.30-13.14.55:989][993]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.30-13.14.55:989][993]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.30-13.14.55:989][993]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.30-13.14.55:990][993]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.30-13.14.55:990][993]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.30-13.14.55:990][993]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.30-13.14.56:003][993]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.30-13.14.56:003][993]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.30-13.14.56:003][993]LogInit: FAudioDevice initialized.
+[2021.01.30-13.14.56:003][993]LogAudio: Display: Audio Device (ID: 8) registered with world 'HouseTest'.
+[2021.01.30-13.14.56:009][993]LogLoad: Game class is 'GMBP_MainGame_C'
+[2021.01.30-13.14.56:012][993]LogWorld: Bringing World /Game/Levels/UEDPIE_0_HouseTest.HouseTest up for play (max tick rate 0) at 2021.01.30-13.14.56
+[2021.01.30-13.14.56:013][993]LogWorld: Bringing up level for play took: 0.003181
+[2021.01.30-13.14.56:013][993]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2021.01.30-13.14.56:017][993]PIE: Server logged in
+[2021.01.30-13.14.56:017][993]PIE: Play in editor total start time 0.1 seconds.
+[2021.01.30-13.14.56:018][993]LogInput: Error: Duplicate mapping of key Gamepad_LeftX for axis MoveRight
+[2021.01.30-13.14.56:018][993]LogInput: Error: Duplicate mapping of key Gamepad_LeftY for axis MoveForward
+[2021.01.30-13.14.56:018][993]LogInput: Error: Duplicate mapping of key Gamepad_LeftY for axis UIUp
+[2021.01.30-13.14.56:018][993]LogInput: Error: Duplicate mapping of key Gamepad_LeftX for axis UIRight
+[2021.01.30-13.14.57:189][129]LogBlueprintUserMessages: [BP_PickupTest_2] Player collided
+[2021.01.30-13.15.04:502][976]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_House_InteriorWall_18)
+[2021.01.30-13.15.05:494][ 62]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_HouseTest.HouseTest:PersistentLevel.SM_Bld_House_InteriorWall_18 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2021.01.30-13.15.05:494][ 62]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_HouseTest.HouseTest:PersistentLevel.SM_Bld_House_InteriorWall_18 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2021.01.30-13.15.05:494][ 62]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_HouseTest.HouseTest:PersistentLevel.SM_Bld_House_InteriorWall_18 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2021.01.30-13.15.05:929][114]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_HouseTest.HouseTest:PersistentLevel.SM_Bld_House_InteriorWall_18 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2021.01.30-13.15.05:929][114]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_HouseTest.HouseTest:PersistentLevel.SM_Bld_House_InteriorWall_18 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2021.01.30-13.15.05:929][114]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_HouseTest.HouseTest:PersistentLevel.SM_Bld_House_InteriorWall_18 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2021.01.30-13.15.07:722][290]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_HouseTest.HouseTest:PersistentLevel.SM_Bld_House_InteriorWall_18 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2021.01.30-13.15.07:722][290]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_HouseTest.HouseTest:PersistentLevel.SM_Bld_House_InteriorWall_18 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2021.01.30-13.15.07:722][290]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_HouseTest.HouseTest:PersistentLevel.SM_Bld_House_InteriorWall_18 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2021.01.30-13.15.07:722][290]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_HouseTest.HouseTest:PersistentLevel.SM_Bld_House_InteriorWall_18 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2021.01.30-13.15.07:815][301]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_HouseTest.HouseTest:PersistentLevel.SM_Bld_House_InteriorWall_18 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2021.01.30-13.15.07:815][301]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_HouseTest.HouseTest:PersistentLevel.SM_Bld_House_InteriorWall_18 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2021.01.30-13.15.07:815][301]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_HouseTest.HouseTest:PersistentLevel.SM_Bld_House_InteriorWall_18 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2021.01.30-13.15.07:815][301]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_HouseTest.HouseTest:PersistentLevel.SM_Bld_House_InteriorWall_18 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2021.01.30-13.15.07:815][301]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_HouseTest.HouseTest:PersistentLevel.SM_Bld_House_InteriorWall_18 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2021.01.30-13.15.07:859][306]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_HouseTest.HouseTest:PersistentLevel.SM_Bld_House_InteriorWall_18 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2021.01.30-13.15.07:859][306]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_HouseTest.HouseTest:PersistentLevel.SM_Bld_House_InteriorWall_18 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2021.01.30-13.15.07:859][306]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_HouseTest.HouseTest:PersistentLevel.SM_Bld_House_InteriorWall_18 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2021.01.30-13.15.07:859][306]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_HouseTest.HouseTest:PersistentLevel.SM_Bld_House_InteriorWall_18 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2021.01.30-13.15.07:859][306]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_HouseTest.HouseTest:PersistentLevel.SM_Bld_House_InteriorWall_18 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2021.01.30-13.15.07:919][313]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_HouseTest.HouseTest:PersistentLevel.SM_Bld_House_InteriorWall_18 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2021.01.30-13.15.07:919][313]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_HouseTest.HouseTest:PersistentLevel.SM_Bld_House_InteriorWall_18 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2021.01.30-13.15.07:919][313]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_HouseTest.HouseTest:PersistentLevel.SM_Bld_House_InteriorWall_18 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2021.01.30-13.15.07:919][313]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_HouseTest.HouseTest:PersistentLevel.SM_Bld_House_InteriorWall_18 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2021.01.30-13.15.07:919][313]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_HouseTest.HouseTest:PersistentLevel.SM_Bld_House_InteriorWall_18 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2021.01.30-13.15.08:055][329]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_HouseTest.HouseTest:PersistentLevel.SM_Bld_House_InteriorWall_18 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2021.01.30-13.15.08:056][329]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_HouseTest.HouseTest:PersistentLevel.SM_Bld_House_InteriorWall_18 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2021.01.30-13.15.08:056][329]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_HouseTest.HouseTest:PersistentLevel.SM_Bld_House_InteriorWall_18 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2021.01.30-13.15.08:056][329]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_HouseTest.HouseTest:PersistentLevel.SM_Bld_House_InteriorWall_18 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2021.01.30-13.15.08:056][329]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_HouseTest.HouseTest:PersistentLevel.SM_Bld_House_InteriorWall_18 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2021.01.30-13.15.08:115][336]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_HouseTest.HouseTest:PersistentLevel.SM_Bld_House_InteriorWall_18 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2021.01.30-13.15.08:115][336]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_HouseTest.HouseTest:PersistentLevel.SM_Bld_House_InteriorWall_18 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2021.01.30-13.15.08:115][336]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_HouseTest.HouseTest:PersistentLevel.SM_Bld_House_InteriorWall_18 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2021.01.30-13.15.08:115][336]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_HouseTest.HouseTest:PersistentLevel.SM_Bld_House_InteriorWall_18 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2021.01.30-13.15.08:115][336]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_HouseTest.HouseTest:PersistentLevel.SM_Bld_House_InteriorWall_18 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2021.01.30-13.15.08:158][341]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_HouseTest.HouseTest:PersistentLevel.SM_Bld_House_InteriorWall_18 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2021.01.30-13.15.08:158][341]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_HouseTest.HouseTest:PersistentLevel.SM_Bld_House_InteriorWall_18 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2021.01.30-13.15.08:158][341]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_HouseTest.HouseTest:PersistentLevel.SM_Bld_House_InteriorWall_18 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2021.01.30-13.15.08:158][341]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_HouseTest.HouseTest:PersistentLevel.SM_Bld_House_InteriorWall_18 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2021.01.30-13.15.08:158][341]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_HouseTest.HouseTest:PersistentLevel.SM_Bld_House_InteriorWall_18 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2021.01.30-13.15.08:252][352]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_HouseTest.HouseTest:PersistentLevel.SM_Bld_House_InteriorWall_18 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2021.01.30-13.15.08:252][352]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_HouseTest.HouseTest:PersistentLevel.SM_Bld_House_InteriorWall_18 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2021.01.30-13.15.08:252][352]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_HouseTest.HouseTest:PersistentLevel.SM_Bld_House_InteriorWall_18 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2021.01.30-13.15.08:252][352]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_HouseTest.HouseTest:PersistentLevel.SM_Bld_House_InteriorWall_18 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2021.01.30-13.15.08:252][352]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_HouseTest.HouseTest:PersistentLevel.SM_Bld_House_InteriorWall_18 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2021.01.30-13.15.08:455][376]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_HouseTest.HouseTest:PersistentLevel.SM_Bld_House_InteriorWall_18 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2021.01.30-13.15.08:455][376]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_HouseTest.HouseTest:PersistentLevel.SM_Bld_House_InteriorWall_18 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2021.01.30-13.15.08:455][376]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_HouseTest.HouseTest:PersistentLevel.SM_Bld_House_InteriorWall_18 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2021.01.30-13.15.08:455][376]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_HouseTest.HouseTest:PersistentLevel.SM_Bld_House_InteriorWall_18 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2021.01.30-13.15.08:455][376]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_HouseTest.HouseTest:PersistentLevel.SM_Bld_House_InteriorWall_18 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2021.01.30-13.15.08:553][387]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_HouseTest.HouseTest:PersistentLevel.SM_Bld_House_InteriorWall_18 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2021.01.30-13.15.08:553][387]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_HouseTest.HouseTest:PersistentLevel.SM_Bld_House_InteriorWall_18 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2021.01.30-13.15.08:553][387]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_HouseTest.HouseTest:PersistentLevel.SM_Bld_House_InteriorWall_18 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2021.01.30-13.15.08:553][387]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_HouseTest.HouseTest:PersistentLevel.SM_Bld_House_InteriorWall_18 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2021.01.30-13.15.08:553][387]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_HouseTest.HouseTest:PersistentLevel.SM_Bld_House_InteriorWall_18 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2021.01.30-13.15.09:168][460]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_HouseTest.HouseTest:PersistentLevel.SM_Bld_House_InteriorWall_18 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2021.01.30-13.15.09:168][460]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_HouseTest.HouseTest:PersistentLevel.SM_Bld_House_InteriorWall_18 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2021.01.30-13.15.09:168][460]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_HouseTest.HouseTest:PersistentLevel.SM_Bld_House_InteriorWall_18 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2021.01.30-13.15.09:168][460]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_HouseTest.HouseTest:PersistentLevel.SM_Bld_House_InteriorWall_18 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2021.01.30-13.15.09:168][460]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_HouseTest.HouseTest:PersistentLevel.SM_Bld_House_InteriorWall_18 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2021.01.30-13.15.11:577][717]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.30-13.15.11:577][717]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_HouseTest
+[2021.01.30-13.15.11:577][717]LogWorld: UWorld::CleanupWorld for HouseTest, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-13.15.11:578][717]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-13.15.11:584][717]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.30-13.15.11:604][717]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-13.15.11:622][717]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.30-13.15.11:622][717]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.30-13.15.11:623][717]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.30-13.15.11:642][717]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2021.01.30-13.15.11:770][718]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2021.01.30-13.15.12:898][787]LogSlate: Window 'Message Log' being destroyed
+[2021.01.30-13.15.12:961][787]LogSlate: Window 'Message Log' being destroyed
+[2021.01.30-13.15.26:197][  0]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_House_InteriorWall_17)
+[2021.01.30-13.15.33:096][768]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.01.30-13.15.37:809][279]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.30-13.15.37:817][279]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.30-13.15.37:817][279]PIE: New page: PIE session: HouseTest (30 Jan 2021, 13:15:37)
+[2021.01.30-13.15.37:845][279]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_HouseTest
+[2021.01.30-13.15.37:852][279]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006863s)
+[2021.01.30-13.15.37:853][279]LogAIModule: Creating AISystem for world HouseTest
+[2021.01.30-13.15.37:853][279]LogPlayLevel: PIE: World Init took: (0.001052s)
+[2021.01.30-13.15.37:853][279]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/HouseTest.HouseTest to /Game/Levels/UEDPIE_0_HouseTest.HouseTest (0.008080s)
+[2021.01.30-13.15.37:874][279]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2021.01.30-13.15.37:876][279]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2021.01.30-13.15.37:876][279]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.30-13.15.37:876][279]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.30-13.15.37:876][279]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.30-13.15.37:876][279]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.30-13.15.37:876][279]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.30-13.15.37:876][279]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.30-13.15.37:876][279]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.30-13.15.37:876][279]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.30-13.15.37:876][279]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.30-13.15.37:876][279]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.30-13.15.37:879][279]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.30-13.15.37:879][279]LogAudioMixer: Display: 1: FrontRight
+[2021.01.30-13.15.37:889][279]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2021.01.30-13.15.37:889][279]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.30-13.15.37:889][279]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.30-13.15.37:889][279]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.30-13.15.37:890][279]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.30-13.15.37:890][279]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.30-13.15.37:890][279]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.30-13.15.37:903][279]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.30-13.15.37:903][279]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.30-13.15.37:903][279]LogInit: FAudioDevice initialized.
+[2021.01.30-13.15.37:903][279]LogAudio: Display: Audio Device (ID: 9) registered with world 'HouseTest'.
+[2021.01.30-13.15.37:909][279]LogLoad: Game class is 'GMBP_MainGame_C'
+[2021.01.30-13.15.37:912][279]LogWorld: Bringing World /Game/Levels/UEDPIE_0_HouseTest.HouseTest up for play (max tick rate 0) at 2021.01.30-13.15.37
+[2021.01.30-13.15.37:913][279]LogWorld: Bringing up level for play took: 0.003156
+[2021.01.30-13.15.37:913][279]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2021.01.30-13.15.37:917][279]PIE: Server logged in
+[2021.01.30-13.15.37:918][279]PIE: Play in editor total start time 0.103 seconds.
+[2021.01.30-13.15.37:918][279]LogInput: Error: Duplicate mapping of key Gamepad_LeftX for axis MoveRight
+[2021.01.30-13.15.37:918][279]LogInput: Error: Duplicate mapping of key Gamepad_LeftY for axis MoveForward
+[2021.01.30-13.15.37:918][279]LogInput: Error: Duplicate mapping of key Gamepad_LeftY for axis UIUp
+[2021.01.30-13.15.37:918][279]LogInput: Error: Duplicate mapping of key Gamepad_LeftX for axis UIRight
+[2021.01.30-13.15.39:198][424]LogBlueprintUserMessages: [BP_PickupTest_2] Player collided
+[2021.01.30-13.15.42:997][877]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.30-13.15.42:997][877]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_HouseTest
+[2021.01.30-13.15.42:998][877]LogWorld: UWorld::CleanupWorld for HouseTest, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-13.15.42:998][877]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-13.15.43:004][877]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.30-13.15.43:024][877]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-13.15.43:041][877]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.30-13.15.43:042][877]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.30-13.15.43:043][877]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.30-13.15.43:061][877]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2021.01.30-13.15.43:096][878]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2021.01.30-13.15.43:752][954]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_House_InteriorWall_18)
+[2021.01.30-13.15.46:227][242]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.01.30-13.15.55:784][357]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_House_InteriorWall_13)
+[2021.01.30-13.15.57:306][518]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.01.30-13.16.00:802][897]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.30-13.16.00:810][897]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.30-13.16.00:810][897]PIE: New page: PIE session: HouseTest (30 Jan 2021, 13:16:00)
+[2021.01.30-13.16.00:846][897]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_HouseTest
+[2021.01.30-13.16.00:852][897]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006767s)
+[2021.01.30-13.16.00:853][897]LogAIModule: Creating AISystem for world HouseTest
+[2021.01.30-13.16.00:854][897]LogPlayLevel: PIE: World Init took: (0.001072s)
+[2021.01.30-13.16.00:854][897]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/HouseTest.HouseTest to /Game/Levels/UEDPIE_0_HouseTest.HouseTest (0.008008s)
+[2021.01.30-13.16.00:874][897]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2021.01.30-13.16.00:876][897]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2021.01.30-13.16.00:876][897]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.30-13.16.00:876][897]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.30-13.16.00:876][897]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.30-13.16.00:876][897]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.30-13.16.00:876][897]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.30-13.16.00:876][897]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.30-13.16.00:876][897]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.30-13.16.00:876][897]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.30-13.16.00:876][897]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.30-13.16.00:876][897]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.30-13.16.00:879][897]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.30-13.16.00:879][897]LogAudioMixer: Display: 1: FrontRight
+[2021.01.30-13.16.00:890][897]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2021.01.30-13.16.00:890][897]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.30-13.16.00:890][897]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.30-13.16.00:890][897]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.30-13.16.00:890][897]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.30-13.16.00:890][897]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.30-13.16.00:890][897]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.30-13.16.00:903][897]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.30-13.16.00:903][897]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.30-13.16.00:903][897]LogInit: FAudioDevice initialized.
+[2021.01.30-13.16.00:903][897]LogAudio: Display: Audio Device (ID: 10) registered with world 'HouseTest'.
+[2021.01.30-13.16.00:909][897]LogLoad: Game class is 'GMBP_MainGame_C'
+[2021.01.30-13.16.00:912][897]LogWorld: Bringing World /Game/Levels/UEDPIE_0_HouseTest.HouseTest up for play (max tick rate 0) at 2021.01.30-13.16.00
+[2021.01.30-13.16.00:912][897]LogWorld: Bringing up level for play took: 0.003111
+[2021.01.30-13.16.00:912][897]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2021.01.30-13.16.00:916][897]PIE: Server logged in
+[2021.01.30-13.16.00:917][897]PIE: Play in editor total start time 0.108 seconds.
+[2021.01.30-13.16.00:917][897]LogInput: Error: Duplicate mapping of key Gamepad_LeftX for axis MoveRight
+[2021.01.30-13.16.00:917][897]LogInput: Error: Duplicate mapping of key Gamepad_LeftY for axis MoveForward
+[2021.01.30-13.16.00:917][897]LogInput: Error: Duplicate mapping of key Gamepad_LeftY for axis UIUp
+[2021.01.30-13.16.00:918][897]LogInput: Error: Duplicate mapping of key Gamepad_LeftX for axis UIRight
+[2021.01.30-13.16.01:837][  6]LogBlueprintUserMessages: [BP_PickupTest_2] Player collided
+[2021.01.30-13.16.04:787][355]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.30-13.16.04:787][355]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_HouseTest
+[2021.01.30-13.16.04:788][355]LogWorld: UWorld::CleanupWorld for HouseTest, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-13.16.04:788][355]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-13.16.04:799][355]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.30-13.16.04:810][355]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-13.16.04:828][355]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.30-13.16.04:828][355]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.30-13.16.04:829][355]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.30-13.16.04:847][355]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2021.01.30-13.16.04:881][356]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2021.01.30-13.16.05:460][413]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_House_InteriorWall_13)
+[2021.01.30-13.16.07:885][647]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.01.30-13.16.17:925][780]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_House_ExteriorWall_GroundFloor_Window_01)
+[2021.01.30-13.16.34:795][444]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_House_ExteriorWall_GroundFloor_4)
+[2021.01.30-13.16.36:547][594]Cmd: DELETE
+[2021.01.30-13.16.36:547][594]Cmd: ACTOR DELETE
+[2021.01.30-13.16.36:549][594]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.01.30-13.16.36:572][594]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2021.01.30-13.16.36:573][594]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2021.01.30-13.16.37:821][721]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_House_ExteriorWall_GroundFloor_Window_2)
+[2021.01.30-13.16.58:767][935]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.01.30-13.17.01:000][157]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_House_ExteriorWall_GroundFloor_Window_2)
+[2021.01.30-13.17.03:637][424]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.01.30-13.17.08:575][959]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_House_ExteriorWall_GroundFloor_Window_2)
+[2021.01.30-13.17.21:305][ 62]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.01.30-13.17.34:559][367]LogActorFactory: Actor Factory created SM_Bld_House_InteriorWall_Corner_01
+[2021.01.30-13.17.36:894][600]LogActorFactory: Actor Factory created SM_Bld_House_InteriorWall_Corner_01
+[2021.01.30-13.17.42:839][178]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_House_InteriorWall_12)
+[2021.01.30-13.17.45:815][477]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_House_InteriorWall_Corner_01)
+[2021.01.30-13.17.49:745][878]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.01.30-13.17.52:267][148]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_House_ExteriorWall_GroundFloor_Window_2)
+[2021.01.30-13.17.56:332][534]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.01.30-13.18.07:381][777]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_House_InteriorWall_Corner_01)
+[2021.01.30-13.18.34:304][744]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_House_ExteriorWall_GroundFloor_9)
+[2021.01.30-13.19.04:517][613]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2021.01.30-13.19.04:556][613]LogSavePackage: Moving '../../../../../../Users/ash/Dev/Unreal/GGJ21/LateForWork/Saved/HouseTest_Auto1A069950D48B0D16F4F2FFEA53E19A6FF.tmp' to '../../../../../../Users/ash/Dev/Unreal/GGJ21/LateForWork/Saved/Autosaves/Game/Levels/HouseTest_Auto1.umap'
+[2021.01.30-13.19.04:558][613]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/HouseTest' took 0.063
+[2021.01.30-13.19.04:558][613]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.063
+[2021.01.30-13.19.32:845][678]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_House_ExteriorWall_GroundFloor_Window_2)
+[2021.01.30-13.19.36:099][ 20]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_House_InteriorWall_Corner_2)
+[2021.01.30-13.19.37:718][199]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_House_ExteriorWall_GroundFloor_Window_2)
+[2021.01.30-13.19.42:551][604]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_House_InteriorWall_Corner_01)
+[2021.01.30-13.19.47:139][130]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.01.30-13.19.49:396][358]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_House_InteriorWall_Corner_01)
+[2021.01.30-13.19.52:606][672]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.01.30-13.19.56:866][105]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_House_ExteriorWall_GroundFloor_Window_2)
+[2021.01.30-13.20.01:847][628]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_House_InteriorWall_Corner_2)
+[2021.01.30-13.20.14:240][ 39]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.01.30-13.20.15:701][183]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_House_InteriorWall_Corner_2)
+[2021.01.30-13.20.23:034][922]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.01.30-13.20.55:101][254]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_House_ExteriorWall_GroundFloor_Window_2)
+[2021.01.30-13.21.07:013][646]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.01.30-13.21.10:555][990]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_House_ExteriorWall_GroundFloor_5)
+[2021.01.30-13.21.46:801][868]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_House_InteriorWall_Corner_01)
+[2021.01.30-13.21.47:161][905]Cmd: DELETE
+[2021.01.30-13.21.47:161][905]Cmd: ACTOR DELETE
+[2021.01.30-13.21.47:163][905]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.01.30-13.21.47:185][905]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2021.01.30-13.21.47:186][905]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2021.01.30-13.21.48:377][ 41]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_House_ExteriorWall_GroundFloor_9)
+[2021.01.30-13.21.48:927][ 86]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_House_InteriorWall_Corner_2)
+[2021.01.30-13.21.49:277][122]Cmd: DELETE
+[2021.01.30-13.21.49:277][122]Cmd: ACTOR DELETE
+[2021.01.30-13.21.49:280][122]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.01.30-13.21.49:300][122]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2021.01.30-13.21.49:301][122]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2021.01.30-13.21.56:806][ 12]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_House_ExteriorWall_GroundFloor_Window_2)
+[2021.01.30-13.21.57:757][ 98]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_House_ExteriorWall_GroundFloor_10)
+[2021.01.30-13.22.02:248][607]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.30-13.22.02:256][607]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.30-13.22.02:256][607]PIE: New page: PIE session: HouseTest (30 Jan 2021, 13:22:02)
+[2021.01.30-13.22.02:276][607]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_HouseTest
+[2021.01.30-13.22.02:283][607]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006906s)
+[2021.01.30-13.22.02:284][607]LogAIModule: Creating AISystem for world HouseTest
+[2021.01.30-13.22.02:284][607]LogPlayLevel: PIE: World Init took: (0.001128s)
+[2021.01.30-13.22.02:284][607]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/HouseTest.HouseTest to /Game/Levels/UEDPIE_0_HouseTest.HouseTest (0.008187s)
+[2021.01.30-13.22.02:305][607]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2021.01.30-13.22.02:307][607]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2021.01.30-13.22.02:307][607]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.30-13.22.02:307][607]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.30-13.22.02:307][607]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.30-13.22.02:307][607]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.30-13.22.02:307][607]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.30-13.22.02:307][607]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.30-13.22.02:307][607]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.30-13.22.02:307][607]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.30-13.22.02:307][607]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.30-13.22.02:307][607]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.30-13.22.02:310][607]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.30-13.22.02:310][607]LogAudioMixer: Display: 1: FrontRight
+[2021.01.30-13.22.02:320][607]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2021.01.30-13.22.02:320][607]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.30-13.22.02:320][607]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.30-13.22.02:320][607]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.30-13.22.02:321][607]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.30-13.22.02:321][607]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.30-13.22.02:321][607]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.30-13.22.02:333][607]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.30-13.22.02:333][607]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.30-13.22.02:333][607]LogInit: FAudioDevice initialized.
+[2021.01.30-13.22.02:334][607]LogAudio: Display: Audio Device (ID: 11) registered with world 'HouseTest'.
+[2021.01.30-13.22.02:343][607]LogLoad: Game class is 'GMBP_MainGame_C'
+[2021.01.30-13.22.02:347][607]LogWorld: Bringing World /Game/Levels/UEDPIE_0_HouseTest.HouseTest up for play (max tick rate 0) at 2021.01.30-13.22.02
+[2021.01.30-13.22.02:347][607]LogWorld: Bringing up level for play took: 0.003543
+[2021.01.30-13.22.02:347][607]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2021.01.30-13.22.02:351][607]PIE: Server logged in
+[2021.01.30-13.22.02:352][607]PIE: Play in editor total start time 0.098 seconds.
+[2021.01.30-13.22.02:353][607]LogInput: Error: Duplicate mapping of key Gamepad_LeftX for axis MoveRight
+[2021.01.30-13.22.02:353][607]LogInput: Error: Duplicate mapping of key Gamepad_LeftY for axis MoveForward
+[2021.01.30-13.22.02:353][607]LogInput: Error: Duplicate mapping of key Gamepad_LeftY for axis UIUp
+[2021.01.30-13.22.02:353][607]LogInput: Error: Duplicate mapping of key Gamepad_LeftX for axis UIRight
+[2021.01.30-13.22.18:117][494]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.30-13.22.18:117][494]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_HouseTest
+[2021.01.30-13.22.18:117][494]LogWorld: UWorld::CleanupWorld for HouseTest, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-13.22.18:118][494]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-13.22.18:124][494]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.30-13.22.18:145][494]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-13.22.18:164][494]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.30-13.22.18:164][494]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.30-13.22.18:165][494]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.30-13.22.18:184][494]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2021.01.30-13.22.18:222][495]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2021.01.30-13.22.22:344][947]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_House_InteriorWall_10)
+[2021.01.30-13.22.29:805][812]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_House_InteriorWall_11)
+[2021.01.30-13.22.32:893][171]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.01.30-13.22.34:937][389]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.30-13.22.34:944][389]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.30-13.22.34:944][389]PIE: New page: PIE session: HouseTest (30 Jan 2021, 13:22:34)
+[2021.01.30-13.22.34:987][389]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_HouseTest
+[2021.01.30-13.22.34:994][389]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006970s)
+[2021.01.30-13.22.34:995][389]LogAIModule: Creating AISystem for world HouseTest
+[2021.01.30-13.22.34:995][389]LogPlayLevel: PIE: World Init took: (0.001142s)
+[2021.01.30-13.22.34:995][389]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/HouseTest.HouseTest to /Game/Levels/UEDPIE_0_HouseTest.HouseTest (0.008287s)
+[2021.01.30-13.22.35:015][389]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2021.01.30-13.22.35:017][389]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2021.01.30-13.22.35:017][389]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.30-13.22.35:017][389]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.30-13.22.35:017][389]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.30-13.22.35:017][389]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.30-13.22.35:017][389]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.30-13.22.35:017][389]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.30-13.22.35:017][389]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.30-13.22.35:017][389]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.30-13.22.35:017][389]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.30-13.22.35:017][389]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.30-13.22.35:020][389]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.30-13.22.35:020][389]LogAudioMixer: Display: 1: FrontRight
+[2021.01.30-13.22.35:030][389]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2021.01.30-13.22.35:031][389]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.30-13.22.35:031][389]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.30-13.22.35:031][389]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.30-13.22.35:031][389]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.30-13.22.35:031][389]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.30-13.22.35:031][389]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.30-13.22.35:044][389]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.30-13.22.35:044][389]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.30-13.22.35:044][389]LogInit: FAudioDevice initialized.
+[2021.01.30-13.22.35:044][389]LogAudio: Display: Audio Device (ID: 12) registered with world 'HouseTest'.
+[2021.01.30-13.22.35:049][389]LogLoad: Game class is 'GMBP_MainGame_C'
+[2021.01.30-13.22.35:052][389]LogWorld: Bringing World /Game/Levels/UEDPIE_0_HouseTest.HouseTest up for play (max tick rate 0) at 2021.01.30-13.22.35
+[2021.01.30-13.22.35:053][389]LogWorld: Bringing up level for play took: 0.003170
+[2021.01.30-13.22.35:053][389]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2021.01.30-13.22.35:057][389]PIE: Server logged in
+[2021.01.30-13.22.35:058][389]PIE: Play in editor total start time 0.114 seconds.
+[2021.01.30-13.22.35:058][389]LogInput: Error: Duplicate mapping of key Gamepad_LeftX for axis MoveRight
+[2021.01.30-13.22.35:058][389]LogInput: Error: Duplicate mapping of key Gamepad_LeftY for axis MoveForward
+[2021.01.30-13.22.35:058][389]LogInput: Error: Duplicate mapping of key Gamepad_LeftY for axis UIUp
+[2021.01.30-13.22.35:058][389]LogInput: Error: Duplicate mapping of key Gamepad_LeftX for axis UIRight
+[2021.01.30-13.22.37:212][636]LogBlueprintUserMessages: [BP_PickupTest_2] Player collided
+[2021.01.30-13.22.51:897][392]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.30-13.22.51:897][392]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_HouseTest
+[2021.01.30-13.22.51:898][392]LogWorld: UWorld::CleanupWorld for HouseTest, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-13.22.51:898][392]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-13.22.51:904][392]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.30-13.22.51:914][392]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-13.22.51:932][392]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.30-13.22.51:933][392]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.30-13.22.51:934][392]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.30-13.22.51:952][392]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2021.01.30-13.22.51:987][393]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2021.01.30-13.22.56:075][859]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_House_InteriorWall_11)
+[2021.01.30-13.23.25:400][431]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.30-13.23.25:407][431]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.30-13.23.25:407][431]PIE: New page: PIE session: HouseTest (30 Jan 2021, 13:23:25)
+[2021.01.30-13.23.25:436][431]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_HouseTest
+[2021.01.30-13.23.25:443][431]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006879s)
+[2021.01.30-13.23.25:444][431]LogAIModule: Creating AISystem for world HouseTest
+[2021.01.30-13.23.25:444][431]LogPlayLevel: PIE: World Init took: (0.001092s)
+[2021.01.30-13.23.25:444][431]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/HouseTest.HouseTest to /Game/Levels/UEDPIE_0_HouseTest.HouseTest (0.008138s)
+[2021.01.30-13.23.25:464][431]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2021.01.30-13.23.25:465][431]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2021.01.30-13.23.25:466][431]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.30-13.23.25:466][431]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.30-13.23.25:466][431]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.30-13.23.25:466][431]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.30-13.23.25:466][431]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.30-13.23.25:466][431]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.30-13.23.25:466][431]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.30-13.23.25:466][431]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.30-13.23.25:466][431]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.30-13.23.25:466][431]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.30-13.23.25:469][431]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.30-13.23.25:469][431]LogAudioMixer: Display: 1: FrontRight
+[2021.01.30-13.23.25:479][431]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2021.01.30-13.23.25:479][431]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.30-13.23.25:479][431]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.30-13.23.25:479][431]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.30-13.23.25:480][431]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.30-13.23.25:480][431]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.30-13.23.25:480][431]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.30-13.23.25:493][431]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.30-13.23.25:493][431]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.30-13.23.25:493][431]LogInit: FAudioDevice initialized.
+[2021.01.30-13.23.25:493][431]LogAudio: Display: Audio Device (ID: 13) registered with world 'HouseTest'.
+[2021.01.30-13.23.25:501][431]LogLoad: Game class is 'GMBP_MainGame_C'
+[2021.01.30-13.23.25:504][431]LogWorld: Bringing World /Game/Levels/UEDPIE_0_HouseTest.HouseTest up for play (max tick rate 0) at 2021.01.30-13.23.25
+[2021.01.30-13.23.25:505][431]LogWorld: Bringing up level for play took: 0.003212
+[2021.01.30-13.23.25:505][431]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2021.01.30-13.23.25:509][431]PIE: Server logged in
+[2021.01.30-13.23.25:510][431]PIE: Play in editor total start time 0.103 seconds.
+[2021.01.30-13.23.25:510][431]LogInput: Error: Duplicate mapping of key Gamepad_LeftX for axis MoveRight
+[2021.01.30-13.23.25:510][431]LogInput: Error: Duplicate mapping of key Gamepad_LeftY for axis MoveForward
+[2021.01.30-13.23.25:510][431]LogInput: Error: Duplicate mapping of key Gamepad_LeftY for axis UIUp
+[2021.01.30-13.23.25:510][431]LogInput: Error: Duplicate mapping of key Gamepad_LeftX for axis UIRight
+[2021.01.30-13.23.32:577][270]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.30-13.23.32:577][270]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_HouseTest
+[2021.01.30-13.23.32:578][270]LogWorld: UWorld::CleanupWorld for HouseTest, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-13.23.32:578][270]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-13.23.32:589][270]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.30-13.23.32:610][270]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-13.23.32:628][270]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.30-13.23.32:628][270]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.30-13.23.32:629][270]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.30-13.23.32:648][270]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2021.01.30-13.23.32:685][271]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2021.01.30-13.23.34:752][486]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2021.01.30-13.23.35:171][525]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.01.30-13.23.36:283][649]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.01.30-13.23.37:157][746]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.01.30-13.23.37:512][787]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.01.30-13.23.38:990][952]Cmd: TRANSACTION UNDO
+[2021.01.30-13.23.38:990][952]LogEditorTransaction: Undo Move Actors
+[2021.01.30-13.23.41:789][103]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.01.30-13.23.42:737][181]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.30-13.23.42:744][181]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.30-13.23.42:744][181]PIE: New page: PIE session: HouseTest (30 Jan 2021, 13:23:42)
+[2021.01.30-13.23.42:744][181]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_HouseTest
+[2021.01.30-13.23.42:752][181]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007067s)
+[2021.01.30-13.23.42:752][181]LogAIModule: Creating AISystem for world HouseTest
+[2021.01.30-13.23.42:753][181]LogPlayLevel: PIE: World Init took: (0.001071s)
+[2021.01.30-13.23.42:753][181]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/HouseTest.HouseTest to /Game/Levels/UEDPIE_0_HouseTest.HouseTest (0.008284s)
+[2021.01.30-13.23.42:775][181]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2021.01.30-13.23.42:777][181]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2021.01.30-13.23.42:777][181]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.30-13.23.42:777][181]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.30-13.23.42:777][181]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.30-13.23.42:777][181]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.30-13.23.42:777][181]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.30-13.23.42:777][181]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.30-13.23.42:777][181]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.30-13.23.42:777][181]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.30-13.23.42:777][181]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.30-13.23.42:777][181]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.30-13.23.42:780][181]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.30-13.23.42:780][181]LogAudioMixer: Display: 1: FrontRight
+[2021.01.30-13.23.42:790][181]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2021.01.30-13.23.42:790][181]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.30-13.23.42:790][181]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.30-13.23.42:790][181]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.30-13.23.42:790][181]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.30-13.23.42:790][181]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.30-13.23.42:790][181]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.30-13.23.42:804][181]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.30-13.23.42:804][181]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.30-13.23.42:804][181]LogInit: FAudioDevice initialized.
+[2021.01.30-13.23.42:804][181]LogAudio: Display: Audio Device (ID: 14) registered with world 'HouseTest'.
+[2021.01.30-13.23.42:810][181]LogLoad: Game class is 'GMBP_MainGame_C'
+[2021.01.30-13.23.42:813][181]LogWorld: Bringing World /Game/Levels/UEDPIE_0_HouseTest.HouseTest up for play (max tick rate 0) at 2021.01.30-13.23.42
+[2021.01.30-13.23.42:814][181]LogWorld: Bringing up level for play took: 0.003170
+[2021.01.30-13.23.42:814][181]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2021.01.30-13.23.42:818][181]PIE: Server logged in
+[2021.01.30-13.23.42:819][181]PIE: Play in editor total start time 0.076 seconds.
+[2021.01.30-13.23.42:819][181]LogInput: Error: Duplicate mapping of key Gamepad_LeftX for axis MoveRight
+[2021.01.30-13.23.42:819][181]LogInput: Error: Duplicate mapping of key Gamepad_LeftY for axis MoveForward
+[2021.01.30-13.23.42:819][181]LogInput: Error: Duplicate mapping of key Gamepad_LeftY for axis UIUp
+[2021.01.30-13.23.42:819][181]LogInput: Error: Duplicate mapping of key Gamepad_LeftX for axis UIRight
+[2021.01.30-13.23.44:278][351]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.30-13.23.44:278][351]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_HouseTest
+[2021.01.30-13.23.44:278][351]LogWorld: UWorld::CleanupWorld for HouseTest, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-13.23.44:278][351]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-13.23.44:288][351]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.30-13.23.44:305][351]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-13.23.44:323][351]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.30-13.23.44:323][351]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.30-13.23.44:324][351]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.30-13.23.44:342][351]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2021.01.30-13.23.44:369][352]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2021.01.30-13.23.45:366][461]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_House_InteriorWall_10)
+[2021.01.30-13.23.48:361][812]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_House_InteriorWall_11)
+[2021.01.30-13.23.50:921][103]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.30-13.23.50:928][103]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.30-13.23.50:928][103]PIE: New page: PIE session: HouseTest (30 Jan 2021, 13:23:50)
+[2021.01.30-13.23.50:928][103]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_HouseTest
+[2021.01.30-13.23.50:936][103]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007276s)
+[2021.01.30-13.23.50:936][103]LogAIModule: Creating AISystem for world HouseTest
+[2021.01.30-13.23.50:937][103]LogPlayLevel: PIE: World Init took: (0.001016s)
+[2021.01.30-13.23.50:937][103]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/HouseTest.HouseTest to /Game/Levels/UEDPIE_0_HouseTest.HouseTest (0.008424s)
+[2021.01.30-13.23.50:957][103]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2021.01.30-13.23.50:958][103]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2021.01.30-13.23.50:958][103]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.30-13.23.50:958][103]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.30-13.23.50:958][103]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.30-13.23.50:958][103]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.30-13.23.50:958][103]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.30-13.23.50:958][103]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.30-13.23.50:958][103]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.30-13.23.50:958][103]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.30-13.23.50:958][103]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.30-13.23.50:959][103]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.30-13.23.50:962][103]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.30-13.23.50:962][103]LogAudioMixer: Display: 1: FrontRight
+[2021.01.30-13.23.50:971][103]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2021.01.30-13.23.50:971][103]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.30-13.23.50:971][103]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.30-13.23.50:971][103]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.30-13.23.50:972][103]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.30-13.23.50:972][103]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.30-13.23.50:972][103]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.30-13.23.50:984][103]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.30-13.23.50:984][103]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.30-13.23.50:984][103]LogInit: FAudioDevice initialized.
+[2021.01.30-13.23.50:984][103]LogAudio: Display: Audio Device (ID: 15) registered with world 'HouseTest'.
+[2021.01.30-13.23.50:995][103]LogLoad: Game class is 'GMBP_MainGame_C'
+[2021.01.30-13.23.50:999][103]LogWorld: Bringing World /Game/Levels/UEDPIE_0_HouseTest.HouseTest up for play (max tick rate 0) at 2021.01.30-13.23.50
+[2021.01.30-13.23.50:999][103]LogWorld: Bringing up level for play took: 0.003484
+[2021.01.30-13.23.50:999][103]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2021.01.30-13.23.51:003][103]PIE: Server logged in
+[2021.01.30-13.23.51:004][103]PIE: Play in editor total start time 0.077 seconds.
+[2021.01.30-13.23.51:004][103]LogInput: Error: Duplicate mapping of key Gamepad_LeftX for axis MoveRight
+[2021.01.30-13.23.51:004][103]LogInput: Error: Duplicate mapping of key Gamepad_LeftY for axis MoveForward
+[2021.01.30-13.23.51:004][103]LogInput: Error: Duplicate mapping of key Gamepad_LeftY for axis UIUp
+[2021.01.30-13.23.51:004][103]LogInput: Error: Duplicate mapping of key Gamepad_LeftX for axis UIRight
+[2021.01.30-13.23.59:517][120]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.30-13.23.59:517][120]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_HouseTest
+[2021.01.30-13.23.59:517][120]LogWorld: UWorld::CleanupWorld for HouseTest, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-13.23.59:518][120]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-13.23.59:529][120]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.30-13.23.59:550][120]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-13.23.59:568][120]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.30-13.23.59:569][120]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.30-13.23.59:570][120]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.30-13.23.59:588][120]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2021.01.30-13.23.59:625][121]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2021.01.30-13.24.02:458][421]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_House_InteriorWall_10)
+[2021.01.30-13.24.09:622][ 42]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.30-13.24.09:630][ 42]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.30-13.24.09:630][ 42]PIE: New page: PIE session: HouseTest (30 Jan 2021, 13:24:09)
+[2021.01.30-13.24.09:656][ 42]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_HouseTest
+[2021.01.30-13.24.09:663][ 42]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006921s)
+[2021.01.30-13.24.09:664][ 42]LogAIModule: Creating AISystem for world HouseTest
+[2021.01.30-13.24.09:665][ 42]LogPlayLevel: PIE: World Init took: (0.001162s)
+[2021.01.30-13.24.09:665][ 42]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/HouseTest.HouseTest to /Game/Levels/UEDPIE_0_HouseTest.HouseTest (0.008249s)
+[2021.01.30-13.24.09:685][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2021.01.30-13.24.09:687][ 42]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2021.01.30-13.24.09:687][ 42]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.30-13.24.09:687][ 42]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.30-13.24.09:687][ 42]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.30-13.24.09:687][ 42]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.30-13.24.09:687][ 42]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.30-13.24.09:687][ 42]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.30-13.24.09:687][ 42]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.30-13.24.09:687][ 42]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.30-13.24.09:687][ 42]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.30-13.24.09:687][ 42]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.30-13.24.09:690][ 42]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.30-13.24.09:690][ 42]LogAudioMixer: Display: 1: FrontRight
+[2021.01.30-13.24.09:700][ 42]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2021.01.30-13.24.09:700][ 42]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.30-13.24.09:700][ 42]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.30-13.24.09:700][ 42]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.30-13.24.09:701][ 42]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.30-13.24.09:701][ 42]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.30-13.24.09:701][ 42]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.30-13.24.09:714][ 42]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.30-13.24.09:714][ 42]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.30-13.24.09:714][ 42]LogInit: FAudioDevice initialized.
+[2021.01.30-13.24.09:714][ 42]LogAudio: Display: Audio Device (ID: 16) registered with world 'HouseTest'.
+[2021.01.30-13.24.09:723][ 42]LogLoad: Game class is 'GMBP_MainGame_C'
+[2021.01.30-13.24.09:727][ 42]LogWorld: Bringing World /Game/Levels/UEDPIE_0_HouseTest.HouseTest up for play (max tick rate 0) at 2021.01.30-13.24.09
+[2021.01.30-13.24.09:727][ 42]LogWorld: Bringing up level for play took: 0.003402
+[2021.01.30-13.24.09:727][ 42]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2021.01.30-13.24.09:731][ 42]PIE: Server logged in
+[2021.01.30-13.24.09:732][ 42]PIE: Play in editor total start time 0.102 seconds.
+[2021.01.30-13.24.09:732][ 42]LogInput: Error: Duplicate mapping of key Gamepad_LeftX for axis MoveRight
+[2021.01.30-13.24.09:732][ 42]LogInput: Error: Duplicate mapping of key Gamepad_LeftY for axis MoveForward
+[2021.01.30-13.24.09:732][ 42]LogInput: Error: Duplicate mapping of key Gamepad_LeftY for axis UIUp
+[2021.01.30-13.24.09:732][ 42]LogInput: Error: Duplicate mapping of key Gamepad_LeftX for axis UIRight
+[2021.01.30-13.24.24:858][838]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.30-13.24.24:858][838]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_HouseTest
+[2021.01.30-13.24.24:858][838]LogWorld: UWorld::CleanupWorld for HouseTest, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-13.24.24:859][838]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-13.24.24:867][838]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.30-13.24.24:889][838]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-13.24.24:907][838]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.30-13.24.24:907][838]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.30-13.24.24:908][838]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.30-13.24.24:927][838]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2021.01.30-13.24.24:965][839]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2021.01.30-13.24.25:591][906]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_House_ExteriorWall_GroundFloor_9)
+[2021.01.30-13.24.30:747][461]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_House_ExteriorWall_GroundFloor_9)
+[2021.01.30-13.24.36:844][ 77]LogActorFactory: Actor Factory created SM_Bld_House_InteriorWall_Corner_01
+[2021.01.30-13.24.37:364][121]LogActorFactory: Actor Factory created SM_Bld_House_InteriorWall_Corner_01
+[2021.01.30-13.25.12:842][921]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.01.30-13.25.18:755][542]LogActorFactory: Actor Factory created SM_Bld_House_InteriorWall_Corner_01
+[2021.01.30-13.25.19:922][659]LogActorFactory: Actor Factory created SM_Bld_House_InteriorWall_Corner_01
+[2021.01.30-13.25.38:732][799]Cmd: DELETE
+[2021.01.30-13.25.38:732][799]Cmd: ACTOR DELETE
+[2021.01.30-13.25.38:735][799]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.01.30-13.25.38:757][799]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2021.01.30-13.25.38:758][799]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2021.01.30-13.25.40:243][955]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_House_InteriorWall_Corner_01)
+[2021.01.30-13.25.57:060][784]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.01.30-13.26.08:119][  5]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/HouseTest" FILE="../../../../../../Users/ash/Dev/Unreal/GGJ21/LateForWork/Content/Levels/HouseTest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.01.30-13.26.08:139][  5]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2021.01.30-13.26.08:175][  5]LogSavePackage: Moving '../../../../../../Users/ash/Dev/Unreal/GGJ21/LateForWork/Saved/HouseTest9F01E20743E0CFDB4BF4B383DCF4EC40.tmp' to '../../../../../../Users/ash/Dev/Unreal/GGJ21/LateForWork/Content/Levels/HouseTest.umap'
+[2021.01.30-13.26.08:191][  5]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/HouseTest_BuiltData" FILE="../../../../../../Users/ash/Dev/Unreal/GGJ21/LateForWork/Content/Levels/HouseTest_BuiltData.uasset" SILENT=true
+[2021.01.30-13.26.08:205][  5]LogSavePackage: Moving '../../../../../../Users/ash/Dev/Unreal/GGJ21/LateForWork/Saved/HouseTest_BuiltDataC466034249A3A7BA980306A4D2932AEE.tmp' to '../../../../../../Users/ash/Dev/Unreal/GGJ21/LateForWork/Content/Levels/HouseTest_BuiltData.uasset'
+[2021.01.30-13.26.08:253][  5]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.30-13.26.08:253][  5]LogContentValidation: Display: Validating World /Game/Levels/HouseTest.HouseTest
+[2021.01.30-13.26.08:253][  5]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/HouseTest_BuiltData.HouseTest_BuiltData
+[2021.01.30-13.26.47:891][670]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.30-13.26.47:898][670]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.30-13.26.47:898][670]PIE: New page: PIE session: HouseTest (30 Jan 2021, 13:26:47)
+[2021.01.30-13.26.47:937][670]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_HouseTest
+[2021.01.30-13.26.47:944][670]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006955s)
+[2021.01.30-13.26.47:945][670]LogAIModule: Creating AISystem for world HouseTest
+[2021.01.30-13.26.47:945][670]LogPlayLevel: PIE: World Init took: (0.001086s)
+[2021.01.30-13.26.47:945][670]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/HouseTest.HouseTest to /Game/Levels/UEDPIE_0_HouseTest.HouseTest (0.008209s)
+[2021.01.30-13.26.47:966][670]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2021.01.30-13.26.47:968][670]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2021.01.30-13.26.47:968][670]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.30-13.26.47:968][670]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.30-13.26.47:968][670]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.30-13.26.47:968][670]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.30-13.26.47:968][670]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.30-13.26.47:968][670]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.30-13.26.47:968][670]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.30-13.26.47:968][670]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.30-13.26.47:968][670]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.30-13.26.47:968][670]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.30-13.26.47:971][670]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.30-13.26.47:971][670]LogAudioMixer: Display: 1: FrontRight
+[2021.01.30-13.26.47:982][670]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2021.01.30-13.26.47:982][670]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.30-13.26.47:982][670]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.30-13.26.47:982][670]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.30-13.26.47:982][670]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.30-13.26.47:982][670]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.30-13.26.47:982][670]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.30-13.26.47:996][670]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.30-13.26.47:996][670]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.30-13.26.47:996][670]LogInit: FAudioDevice initialized.
+[2021.01.30-13.26.47:996][670]LogAudio: Display: Audio Device (ID: 17) registered with world 'HouseTest'.
+[2021.01.30-13.26.48:008][670]LogLoad: Game class is 'GMBP_MainGame_C'
+[2021.01.30-13.26.48:012][670]LogWorld: Bringing World /Game/Levels/UEDPIE_0_HouseTest.HouseTest up for play (max tick rate 0) at 2021.01.30-13.26.48
+[2021.01.30-13.26.48:012][670]LogWorld: Bringing up level for play took: 0.003248
+[2021.01.30-13.26.48:012][670]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2021.01.30-13.26.48:016][670]PIE: Server logged in
+[2021.01.30-13.26.48:017][670]PIE: Play in editor total start time 0.119 seconds.
+[2021.01.30-13.26.48:018][670]LogInput: Error: Duplicate mapping of key Gamepad_LeftX for axis MoveRight
+[2021.01.30-13.26.48:018][670]LogInput: Error: Duplicate mapping of key Gamepad_LeftY for axis MoveForward
+[2021.01.30-13.26.48:018][670]LogInput: Error: Duplicate mapping of key Gamepad_LeftY for axis UIUp
+[2021.01.30-13.26.48:018][670]LogInput: Error: Duplicate mapping of key Gamepad_LeftX for axis UIRight
+[2021.01.30-13.26.56:422][667]LogBlueprintUserMessages: [BP_PickupTest_2] Player collided
+[2021.01.30-13.27.01:138][233]LogBlueprintUserMessages: [BP_PickupTest_C_0] Player collided
+[2021.01.30-13.27.08:258][ 83]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.30-13.27.08:258][ 83]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_HouseTest
+[2021.01.30-13.27.08:258][ 83]LogWorld: UWorld::CleanupWorld for HouseTest, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-13.27.08:259][ 83]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-13.27.08:270][ 83]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.30-13.27.08:281][ 83]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-13.27.08:299][ 83]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.30-13.27.08:299][ 83]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.30-13.27.08:300][ 83]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.30-13.27.08:315][ 83]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.30-13.27.08:319][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2021.01.30-13.27.08:354][ 84]LogPlayLevel: Display: Destroying online subsystem :Context_19
