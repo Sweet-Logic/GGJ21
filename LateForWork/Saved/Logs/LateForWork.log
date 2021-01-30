@@ -898,3 +898,548 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.01.30-14.16.04:055][758]LogSavePackage: Moving '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Saved/WBP_PlayerHudF7BC79E6446FB1A98E3B56A9E92DBDB6.tmp' to '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/Widgets/WBP_PlayerHud.uasset'
 [2021.01.30-14.16.04:121][758]AssetCheck: New page: Asset Save: WBP_PlayerHud
 [2021.01.30-14.16.04:121][758]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Widgets/WBP_PlayerHud.WBP_PlayerHud
+[2021.01.30-14.31.15:103][902]LogSlate: Window 'WBP_PlayerHud' being destroyed
+[2021.01.30-14.31.15:109][902]LogSlate: Window 'WBP_PlayerHud' being destroyed
+[2021.01.30-14.31.15:139][902]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-14.31.15:140][902]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-14.31.15:152][902]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-14.31.15:152][902]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-14.31.53:705][ 81]LogMetaData: Removing '/Game/Blueprints/Widgets/InventoryUI.SKEL_InventoryUI_C' ref from Metadata '/Game/Blueprints/Widgets/Inventory.PackageMetaData'
+[2021.01.30-14.31.53:705][ 81]LogMetaData: Removing '/Game/Blueprints/Widgets/InventoryUI.InventoryUI_C' ref from Metadata '/Game/Blueprints/Widgets/Inventory.PackageMetaData'
+[2021.01.30-14.31.53:705][ 81]LogMetaData: Removing '/Game/Blueprints/Widgets/InventoryUI.InventoryUI:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/Widgets/Inventory.PackageMetaData'
+[2021.01.30-14.31.53:705][ 81]LogMetaData: Removing '/Game/Blueprints/Widgets/InventoryUI.InventoryUI:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/Widgets/Inventory.PackageMetaData'
+[2021.01.30-14.31.53:705][ 81]LogMetaData: Removing '/Game/Blueprints/Widgets/InventoryUI.InventoryUI:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/Widgets/Inventory.PackageMetaData'
+[2021.01.30-14.31.53:739][ 81]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widgets/InventoryUI" FILE="../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/Widgets/InventoryUI.uasset" SILENT=true
+[2021.01.30-14.31.53:743][ 81]LogSavePackage: Moving '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Saved/InventoryUI777471C3456CFF68F5F960874A8196C1.tmp' to '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/Widgets/InventoryUI.uasset'
+[2021.01.30-14.31.54:309][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2021.01.30-14.31.54:360][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2021.01.30-14.31.54:378][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2021.01.30-14.31.54:410][ 81]AssetCheck: New page: Asset Save: InventoryUI
+[2021.01.30-14.31.54:410][ 81]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Widgets/InventoryUI.InventoryUI
+[2021.01.30-14.32.13:493][174]LogSavePackage: Moving '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Saved/InventoryItemUIE4D2A06C4B1E607CA2E670B875B8267C.tmp' to '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/Widgets/InventoryItemUI.uasset'
+[2021.01.30-14.32.13:729][174]AssetCheck: New page: Asset Save: InventoryItemUI
+[2021.01.30-14.32.13:729][174]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Widgets/InventoryItemUI.InventoryItemUI
+[2021.01.30-14.32.13:856][186]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/Widgets/InventoryItemUI.InventoryItemUI
+[2021.01.30-14.33.35:834][214]LogSavePackage: Moving '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Saved/InventoryItemUID9F900274A3DB4C7BCBE0FA9C5F9FD57.tmp' to '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/Widgets/InventoryItemUI.uasset'
+[2021.01.30-14.33.35:850][214]AssetCheck: New page: Asset Save: InventoryItemUI
+[2021.01.30-14.33.35:850][214]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Widgets/InventoryItemUI.InventoryItemUI
+[2021.01.30-14.33.36:222][246]BlueprintLog: New page: Compile InventoryItemUI
+[2021.01.30-14.33.36:264][246]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2021.01.30-14.33.36:836][282]LogSavePackage: Moving '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Saved/InventoryItemUI3EB7CA8D484AFEBEDA1315B803ECD380.tmp' to '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/Widgets/InventoryItemUI.uasset'
+[2021.01.30-14.33.36:852][282]AssetCheck: New page: Asset Save: InventoryItemUI
+[2021.01.30-14.33.36:852][282]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Widgets/InventoryItemUI.InventoryItemUI
+[2021.01.30-14.38.26:130][466]LogSlate: Window 'InventoryItemUI' being destroyed
+[2021.01.30-14.38.29:766][835]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDownCPP/Blueprints/Inventory/InventoryComponent.InventoryComponent
+[2021.01.30-14.41.37:296][834]LogSavePackage: Moving '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Saved/InventoryComponent35EAF33D474DDC070E95C49D6500CDBD.tmp' to '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/TopDownCPP/Blueprints/Inventory/InventoryComponent.uasset'
+[2021.01.30-14.41.37:318][834]AssetCheck: New page: Asset Save: InventoryComponent
+[2021.01.30-14.41.37:318][834]LogContentValidation: Display: Validating Blueprint /Game/TopDownCPP/Blueprints/Inventory/InventoryComponent.InventoryComponent
+[2021.01.30-14.41.37:688][873]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-14.41.37:688][873]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-14.41.38:757][993]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-14.41.38:757][993]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-14.41.38:762][993]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-14.41.38:762][993]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-14.41.45:774][688]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/Widgets/InventoryUI.InventoryUI
+[2021.01.30-14.41.46:924][754]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/Widgets/InventoryItemUI.InventoryItemUI
+[2021.01.30-14.41.48:780][912]LogSlate: Window 'InventoryUI' being destroyed
+[2021.01.30-14.42.54:236][481]LogSlate: Window 'Color Picker' being destroyed
+[2021.01.30-14.43.07:719][ 33]LogSlate: Window 'Color Picker' being destroyed
+[2021.01.30-14.43.45:082][367]LogSlate: Window 'Color Picker' being destroyed
+[2021.01.30-14.43.57:361][740]LogSlate: Window 'Color Picker' being destroyed
+[2021.01.30-14.44.08:079][958]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit Specified Color entirely.
+[2021.01.30-14.44.30:474][545]LogSlate: Window 'Color Picker' being destroyed
+[2021.01.30-14.44.43:242][ 33]LogSlate: Window 'Color Picker' being destroyed
+[2021.01.30-14.46.17:404][856]LogSavePackage: Moving '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Saved/InventoryItemUI746940194E3FB5DB9A1DD188025D72D3.tmp' to '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/Widgets/InventoryItemUI.uasset'
+[2021.01.30-14.46.17:419][856]AssetCheck: New page: Asset Save: InventoryItemUI
+[2021.01.30-14.46.17:419][856]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Widgets/InventoryItemUI.InventoryItemUI
+[2021.01.30-14.46.20:721][222]BlueprintLog: New page: Compile InventoryItemUI
+[2021.01.30-14.46.20:771][222]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2021.01.30-14.46.20:968][222]LogSavePackage: Moving '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Saved/InventoryItemUI149D71A3401F229A48D100AD6C71A4DC.tmp' to '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/Widgets/InventoryItemUI.uasset'
+[2021.01.30-14.46.20:987][222]AssetCheck: New page: Asset Save: InventoryItemUI
+[2021.01.30-14.46.20:987][222]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Widgets/InventoryItemUI.InventoryItemUI
+[2021.01.30-14.46.21:365][248]LogSavePackage: Moving '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Saved/InventoryItemUIE2DD7A8A4CD40A68B211518DDA12E124.tmp' to '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/Widgets/InventoryItemUI.uasset'
+[2021.01.30-14.46.21:388][248]AssetCheck: New page: Asset Save: InventoryItemUI
+[2021.01.30-14.46.21:388][248]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Widgets/InventoryItemUI.InventoryItemUI
+[2021.01.30-14.46.52:123][836]LogUMG: Error: Widget Class InventoryItemUI_C - Running Initialize On Archetype, InventoryItemUI.
+[2021.01.30-14.46.52:123][836]LogUMG: Error: Widget Class InventoryItemUI_C - Running Initialize On Archetype, InventoryItemUI.
+[2021.01.30-14.46.52:125][836]LogUMG: Error: Widget Class InventoryItemUI_C - Running Initialize On Archetype, InventoryItemUI.
+[2021.01.30-14.46.52:126][836]LogUMG: Error: Widget Class InventoryItemUI_C - Running Initialize On Archetype, InventoryItemUI.
+[2021.01.30-14.46.52:141][837]LogUMG: Error: Widget Class InventoryItemUI_C - Running Initialize On Archetype, InventoryItemUI.
+[2021.01.30-14.46.52:143][837]LogUMG: Error: Widget Class InventoryItemUI_C - Running Initialize On Archetype, InventoryItemUI.
+[2021.01.30-14.46.52:149][838]LogUMG: Error: Widget Class InventoryItemUI_C - Running Initialize On Archetype, InventoryItemUI.
+[2021.01.30-14.46.52:157][839]LogUMG: Error: Widget Class InventoryItemUI_C - Running Initialize On Archetype, InventoryItemUI.
+[2021.01.30-14.46.52:159][839]LogUMG: Error: Widget Class InventoryItemUI_C - Running Initialize On Archetype, InventoryItemUI.
+[2021.01.30-14.46.52:160][839]LogUMG: Error: Widget Class InventoryItemUI_C - Running Initialize On Archetype, InventoryItemUI.
+[2021.01.30-14.46.52:166][840]LogUMG: Error: Widget Class InventoryItemUI_C - Running Initialize On Archetype, InventoryItemUI.
+[2021.01.30-14.46.52:167][840]LogUMG: Error: Widget Class InventoryItemUI_C - Running Initialize On Archetype, InventoryItemUI.
+[2021.01.30-14.46.52:169][840]LogUMG: Error: Widget Class InventoryItemUI_C - Running Initialize On Archetype, InventoryItemUI.
+[2021.01.30-14.46.52:174][841]LogUMG: Error: Widget Class InventoryItemUI_C - Running Initialize On Archetype, InventoryItemUI.
+[2021.01.30-14.46.52:182][842]LogUMG: Error: Widget Class InventoryItemUI_C - Running Initialize On Archetype, InventoryItemUI.
+[2021.01.30-14.46.52:185][842]LogUMG: Error: Widget Class InventoryItemUI_C - Running Initialize On Archetype, InventoryItemUI.
+[2021.01.30-14.46.52:191][843]LogUMG: Error: Widget Class InventoryItemUI_C - Running Initialize On Archetype, InventoryItemUI.
+[2021.01.30-14.46.52:208][845]LogUMG: Error: Widget Class InventoryItemUI_C - Running Initialize On Archetype, InventoryItemUI.
+[2021.01.30-14.46.52:217][846]LogUMG: Error: Widget Class InventoryItemUI_C - Running Initialize On Archetype, InventoryItemUI.
+[2021.01.30-14.46.52:234][848]LogUMG: Error: Widget Class InventoryItemUI_C - Running Initialize On Archetype, InventoryItemUI.
+[2021.01.30-14.46.52:242][849]LogUMG: Error: Widget Class InventoryItemUI_C - Running Initialize On Archetype, InventoryItemUI.
+[2021.01.30-14.46.52:259][851]LogUMG: Error: Widget Class InventoryItemUI_C - Running Initialize On Archetype, InventoryItemUI.
+[2021.01.30-14.46.52:267][852]LogUMG: Error: Widget Class InventoryItemUI_C - Running Initialize On Archetype, InventoryItemUI.
+[2021.01.30-14.46.52:284][854]LogUMG: Error: Widget Class InventoryItemUI_C - Running Initialize On Archetype, InventoryItemUI.
+[2021.01.30-14.46.52:292][855]LogUMG: Error: Widget Class InventoryItemUI_C - Running Initialize On Archetype, InventoryItemUI.
+[2021.01.30-14.46.52:308][857]LogUMG: Error: Widget Class InventoryItemUI_C - Running Initialize On Archetype, InventoryItemUI.
+[2021.01.30-14.46.52:309][857]LogUMG: Error: Widget Class InventoryItemUI_C - Running Initialize On Archetype, InventoryItemUI.
+[2021.01.30-14.46.52:317][858]LogUMG: Error: Widget Class InventoryItemUI_C - Running Initialize On Archetype, InventoryItemUI.
+[2021.01.30-14.46.52:318][858]LogUMG: Error: Widget Class InventoryItemUI_C - Running Initialize On Archetype, InventoryItemUI.
+[2021.01.30-14.46.52:320][858]LogUMG: Error: Widget Class InventoryItemUI_C - Running Initialize On Archetype, InventoryItemUI.
+[2021.01.30-14.46.52:325][859]LogUMG: Error: Widget Class InventoryItemUI_C - Running Initialize On Archetype, InventoryItemUI.
+[2021.01.30-14.46.52:334][860]LogUMG: Error: Widget Class InventoryItemUI_C - Running Initialize On Archetype, InventoryItemUI.
+[2021.01.30-14.46.52:342][861]LogUMG: Error: Widget Class InventoryItemUI_C - Running Initialize On Archetype, InventoryItemUI.
+[2021.01.30-14.46.52:359][863]LogUMG: Error: Widget Class InventoryItemUI_C - Running Initialize On Archetype, InventoryItemUI.
+[2021.01.30-14.46.52:368][864]LogUMG: Error: Widget Class InventoryItemUI_C - Running Initialize On Archetype, InventoryItemUI.
+[2021.01.30-14.46.52:385][866]LogUMG: Error: Widget Class InventoryItemUI_C - Running Initialize On Archetype, InventoryItemUI.
+[2021.01.30-14.46.52:393][867]LogUMG: Error: Widget Class InventoryItemUI_C - Running Initialize On Archetype, InventoryItemUI.
+[2021.01.30-14.46.52:400][868]LogUMG: Error: Widget Class InventoryItemUI_C - Running Initialize On Archetype, InventoryItemUI.
+[2021.01.30-14.46.52:401][868]LogUMG: Error: Widget Class InventoryItemUI_C - Running Initialize On Archetype, InventoryItemUI.
+[2021.01.30-14.46.52:409][869]LogUMG: Error: Widget Class InventoryItemUI_C - Running Initialize On Archetype, InventoryItemUI.
+[2021.01.30-14.46.52:410][869]LogUMG: Error: Widget Class InventoryItemUI_C - Running Initialize On Archetype, InventoryItemUI.
+[2021.01.30-14.46.52:417][870]LogUMG: Error: Widget Class InventoryItemUI_C - Running Initialize On Archetype, InventoryItemUI.
+[2021.01.30-14.46.52:419][870]LogUMG: Error: Widget Class InventoryItemUI_C - Running Initialize On Archetype, InventoryItemUI.
+[2021.01.30-14.46.52:424][871]LogUMG: Error: Widget Class InventoryItemUI_C - Running Initialize On Archetype, InventoryItemUI.
+[2021.01.30-14.46.52:433][872]LogUMG: Error: Widget Class InventoryItemUI_C - Running Initialize On Archetype, InventoryItemUI.
+[2021.01.30-14.46.52:436][872]LogUMG: Error: Widget Class InventoryItemUI_C - Running Initialize On Archetype, InventoryItemUI.
+[2021.01.30-14.46.52:441][873]LogUMG: Error: Widget Class InventoryItemUI_C - Running Initialize On Archetype, InventoryItemUI.
+[2021.01.30-14.46.52:459][875]LogUMG: Error: Widget Class InventoryItemUI_C - Running Initialize On Archetype, InventoryItemUI.
+[2021.01.30-14.46.52:466][876]LogUMG: Error: Widget Class InventoryItemUI_C - Running Initialize On Archetype, InventoryItemUI.
+[2021.01.30-14.46.52:468][876]LogUMG: Error: Widget Class InventoryItemUI_C - Running Initialize On Archetype, InventoryItemUI.
+[2021.01.30-14.46.52:484][878]LogUMG: Error: Widget Class InventoryItemUI_C - Running Initialize On Archetype, InventoryItemUI.
+[2021.01.30-14.46.52:491][879]LogUMG: Error: Widget Class InventoryItemUI_C - Running Initialize On Archetype, InventoryItemUI.
+[2021.01.30-14.46.52:492][879]LogUMG: Error: Widget Class InventoryItemUI_C - Running Initialize On Archetype, InventoryItemUI.
+[2021.01.30-14.46.52:508][881]LogUMG: Error: Widget Class InventoryItemUI_C - Running Initialize On Archetype, InventoryItemUI.
+[2021.01.30-14.46.52:517][882]LogUMG: Error: Widget Class InventoryItemUI_C - Running Initialize On Archetype, InventoryItemUI.
+[2021.01.30-14.46.52:534][884]LogUMG: Error: Widget Class InventoryItemUI_C - Running Initialize On Archetype, InventoryItemUI.
+[2021.01.30-14.46.52:542][885]LogUMG: Error: Widget Class InventoryItemUI_C - Running Initialize On Archetype, InventoryItemUI.
+[2021.01.30-14.46.52:558][887]LogUMG: Error: Widget Class InventoryItemUI_C - Running Initialize On Archetype, InventoryItemUI.
+[2021.01.30-14.46.52:568][888]LogUMG: Error: Widget Class InventoryItemUI_C - Running Initialize On Archetype, InventoryItemUI.
+[2021.01.30-14.46.52:575][889]LogUMG: Error: Widget Class InventoryItemUI_C - Running Initialize On Archetype, InventoryItemUI.
+[2021.01.30-14.46.52:583][890]LogUMG: Error: Widget Class InventoryItemUI_C - Running Initialize On Archetype, InventoryItemUI.
+[2021.01.30-14.46.52:585][890]LogUMG: Error: Widget Class InventoryItemUI_C - Running Initialize On Archetype, InventoryItemUI.
+[2021.01.30-14.46.52:592][891]LogUMG: Error: Widget Class InventoryItemUI_C - Running Initialize On Archetype, InventoryItemUI.
+[2021.01.30-14.46.52:593][891]LogUMG: Error: Widget Class InventoryItemUI_C - Running Initialize On Archetype, InventoryItemUI.
+[2021.01.30-14.46.52:600][892]LogUMG: Error: Widget Class InventoryItemUI_C - Running Initialize On Archetype, InventoryItemUI.
+[2021.01.30-14.46.52:601][892]LogUMG: Error: Widget Class InventoryItemUI_C - Running Initialize On Archetype, InventoryItemUI.
+[2021.01.30-14.46.52:608][893]LogUMG: Error: Widget Class InventoryItemUI_C - Running Initialize On Archetype, InventoryItemUI.
+[2021.01.30-14.46.52:610][893]LogUMG: Error: Widget Class InventoryItemUI_C - Running Initialize On Archetype, InventoryItemUI.
+[2021.01.30-14.46.52:618][894]LogUMG: Error: Widget Class InventoryItemUI_C - Running Initialize On Archetype, InventoryItemUI.
+[2021.01.30-14.46.52:625][895]LogUMG: Error: Widget Class InventoryItemUI_C - Running Initialize On Archetype, InventoryItemUI.
+[2021.01.30-14.46.52:625][895]LogUMG: Error: Widget Class InventoryItemUI_C - Running Initialize On Archetype, InventoryItemUI.
+[2021.01.30-14.46.52:625][895]LogUMG: Error: Widget Class InventoryItemUI_C - Running Initialize On Archetype, InventoryItemUI.
+[2021.01.30-14.46.52:641][896]LogUMG: Error: Widget Class InventoryItemUI_C - Running Initialize On Archetype, InventoryItemUI.
+[2021.01.30-14.46.52:644][896]LogUMG: Error: Widget Class InventoryItemUI_C - Running Initialize On Archetype, InventoryItemUI.
+[2021.01.30-14.46.52:651][897]LogUMG: Error: Widget Class InventoryItemUI_C - Running Initialize On Archetype, InventoryItemUI.
+[2021.01.30-14.46.52:667][899]LogUMG: Error: Widget Class InventoryItemUI_C - Running Initialize On Archetype, InventoryItemUI.
+[2021.01.30-14.46.52:675][900]LogUMG: Error: Widget Class InventoryItemUI_C - Running Initialize On Archetype, InventoryItemUI.
+[2021.01.30-14.46.52:692][902]LogUMG: Error: Widget Class InventoryItemUI_C - Running Initialize On Archetype, InventoryItemUI.
+[2021.01.30-14.46.52:701][903]LogUMG: Error: Widget Class InventoryItemUI_C - Running Initialize On Archetype, InventoryItemUI.
+[2021.01.30-14.46.52:708][904]LogUMG: Error: Widget Class InventoryItemUI_C - Running Initialize On Archetype, InventoryItemUI.
+[2021.01.30-14.46.52:717][905]LogUMG: Error: Widget Class InventoryItemUI_C - Running Initialize On Archetype, InventoryItemUI.
+[2021.01.30-14.46.52:719][905]LogUMG: Error: Widget Class InventoryItemUI_C - Running Initialize On Archetype, InventoryItemUI.
+[2021.01.30-14.46.52:725][906]LogUMG: Error: Widget Class InventoryItemUI_C - Running Initialize On Archetype, InventoryItemUI.
+[2021.01.30-14.46.52:727][906]LogUMG: Error: Widget Class InventoryItemUI_C - Running Initialize On Archetype, InventoryItemUI.
+[2021.01.30-14.46.52:729][906]LogUMG: Error: Widget Class InventoryItemUI_C - Running Initialize On Archetype, InventoryItemUI.
+[2021.01.30-14.46.52:742][908]LogUMG: Error: Widget Class InventoryItemUI_C - Running Initialize On Archetype, InventoryItemUI.
+[2021.01.30-14.46.52:744][908]LogUMG: Error: Widget Class InventoryItemUI_C - Running Initialize On Archetype, InventoryItemUI.
+[2021.01.30-14.46.52:751][909]LogUMG: Error: Widget Class InventoryItemUI_C - Running Initialize On Archetype, InventoryItemUI.
+[2021.01.30-14.46.52:759][910]LogUMG: Error: Widget Class InventoryItemUI_C - Running Initialize On Archetype, InventoryItemUI.
+[2021.01.30-14.46.52:767][911]LogUMG: Error: Widget Class InventoryItemUI_C - Running Initialize On Archetype, InventoryItemUI.
+[2021.01.30-14.46.52:770][911]LogUMG: Error: Widget Class InventoryItemUI_C - Running Initialize On Archetype, InventoryItemUI.
+[2021.01.30-14.46.52:776][912]LogUMG: Error: Widget Class InventoryItemUI_C - Running Initialize On Archetype, InventoryItemUI.
+[2021.01.30-14.46.52:793][914]LogUMG: Error: Widget Class InventoryItemUI_C - Running Initialize On Archetype, InventoryItemUI.
+[2021.01.30-14.46.52:801][915]LogUMG: Error: Widget Class InventoryItemUI_C - Running Initialize On Archetype, InventoryItemUI.
+[2021.01.30-14.46.52:818][917]LogUMG: Error: Widget Class InventoryItemUI_C - Running Initialize On Archetype, InventoryItemUI.
+[2021.01.30-14.46.52:826][918]LogUMG: Error: Widget Class InventoryItemUI_C - Running Initialize On Archetype, InventoryItemUI.
+[2021.01.30-14.46.52:843][920]LogUMG: Error: Widget Class InventoryItemUI_C - Running Initialize On Archetype, InventoryItemUI.
+[2021.01.30-14.46.52:851][921]LogUMG: Error: Widget Class InventoryItemUI_C - Running Initialize On Archetype, InventoryItemUI.
+[2021.01.30-14.46.52:868][923]LogUMG: Error: Widget Class InventoryItemUI_C - Running Initialize On Archetype, InventoryItemUI.
+[2021.01.30-14.46.52:877][924]LogUMG: Error: Widget Class InventoryItemUI_C - Running Initialize On Archetype, InventoryItemUI.
+[2021.01.30-14.46.52:893][926]LogUMG: Error: Widget Class InventoryItemUI_C - Running Initialize On Archetype, InventoryItemUI.
+[2021.01.30-14.46.52:902][927]LogUMG: Error: Widget Class InventoryItemUI_C - Running Initialize On Archetype, InventoryItemUI.
+[2021.01.30-14.46.52:918][929]LogUMG: Error: Widget Class InventoryItemUI_C - Running Initialize On Archetype, InventoryItemUI.
+[2021.01.30-14.46.52:927][930]LogUMG: Error: Widget Class InventoryItemUI_C - Running Initialize On Archetype, InventoryItemUI.
+[2021.01.30-14.46.52:943][932]LogUMG: Error: Widget Class InventoryItemUI_C - Running Initialize On Archetype, InventoryItemUI.
+[2021.01.30-14.46.52:951][933]LogUMG: Error: Widget Class InventoryItemUI_C - Running Initialize On Archetype, InventoryItemUI.
+[2021.01.30-14.46.52:968][935]LogUMG: Error: Widget Class InventoryItemUI_C - Running Initialize On Archetype, InventoryItemUI.
+[2021.01.30-14.46.52:976][936]LogUMG: Error: Widget Class InventoryItemUI_C - Running Initialize On Archetype, InventoryItemUI.
+[2021.01.30-14.46.52:977][936]LogUMG: Error: Widget Class InventoryItemUI_C - Running Initialize On Archetype, InventoryItemUI.
+[2021.01.30-14.46.52:984][937]LogUMG: Error: Widget Class InventoryItemUI_C - Running Initialize On Archetype, InventoryItemUI.
+[2021.01.30-14.46.52:985][937]LogUMG: Error: Widget Class InventoryItemUI_C - Running Initialize On Archetype, InventoryItemUI.
+[2021.01.30-14.46.52:986][937]LogUMG: Error: Widget Class InventoryItemUI_C - Running Initialize On Archetype, InventoryItemUI.
+[2021.01.30-14.46.53:001][937]LogUMG: Error: Widget Class InventoryItemUI_C - Running Initialize On Archetype, InventoryItemUI_0.
+[2021.01.30-14.46.53:805][ 26]LogSlate: Took 0.021593 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2021.01.30-14.47.02:335][ 21]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_4.26/Engine/Content/UMG': No such file or directory
+[2021.01.30-14.47.02:435][ 32]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_4.26/Engine/Content/UMG': No such file or directory
+[2021.01.30-14.47.03:025][ 94]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_4.26/Engine/Content/UMG': No such file or directory
+[2021.01.30-14.47.47:328][153]LogSavePackage: Moving '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Saved/InventoryItemUI6A907A824EA6710C087BD0ABAA295CCC.tmp' to '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/Widgets/InventoryItemUI.uasset'
+[2021.01.30-14.47.47:342][153]AssetCheck: New page: Asset Save: InventoryItemUI
+[2021.01.30-14.47.47:342][153]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Widgets/InventoryItemUI.InventoryItemUI
+[2021.01.30-14.48.22:812][296]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2021.01.30-14.48.22:813][296]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDownCPP/Maps/TopDownExampleMap' took 0.034
+[2021.01.30-14.48.23:025][296]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Widgets/InventoryUI] ([1] browsable assets)...
+[2021.01.30-14.48.23:026][296]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Widgets/InventoryUI]
+[2021.01.30-14.48.23:031][296]LogSavePackage: Moving '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Saved/InventoryUI_Auto152D822DF423BF0DBBEAF0291515D3A08.tmp' to '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Saved/Autosaves/Game/Blueprints/Widgets/InventoryUI_Auto1.uasset'
+[2021.01.30-14.48.23:032][296]LogFileHelpers: Auto-saving content packages took 0.219
+[2021.01.30-14.49.12:293][ 88]BlueprintLog: New page: Compile InventoryItemUI
+[2021.01.30-14.49.12:343][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2021.01.30-14.49.16:688][598]BlueprintLog: New page: Compile InventoryUI
+[2021.01.30-14.49.16:722][598]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2021.01.30-14.49.16:886][598]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widgets/InventoryUI" FILE="../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/Widgets/InventoryUI.uasset" SILENT=true
+[2021.01.30-14.49.16:892][598]LogSavePackage: Moving '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Saved/InventoryUI0587D38E4F15281E0F4B11BA31B83313.tmp' to '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/Widgets/InventoryUI.uasset'
+[2021.01.30-14.49.16:910][598]AssetCheck: New page: Asset Save: InventoryUI
+[2021.01.30-14.49.16:910][598]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Widgets/InventoryUI.InventoryUI
+[2021.01.30-14.49.18:018][705]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widgets/InventoryUI" FILE="../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/Widgets/InventoryUI.uasset" SILENT=true
+[2021.01.30-14.49.18:024][705]LogSavePackage: Moving '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Saved/InventoryUI1D50780C44E02253FB8B30AD9B860C5B.tmp' to '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/Widgets/InventoryUI.uasset'
+[2021.01.30-14.49.18:037][705]AssetCheck: New page: Asset Save: InventoryUI
+[2021.01.30-14.49.18:037][705]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Widgets/InventoryUI.InventoryUI
+[2021.01.30-14.49.32:780][407]LogSavePackage: Moving '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Saved/InventoryItemUI9A2502D241341861B0EAC98C9EC47948.tmp' to '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/Widgets/InventoryItemUI.uasset'
+[2021.01.30-14.49.32:816][407]AssetCheck: New page: Asset Save: InventoryItemUI
+[2021.01.30-14.49.32:816][407]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Widgets/InventoryItemUI.InventoryItemUI
+[2021.01.30-14.49.43:189][586]BlueprintLog: New page: Compile InventoryItemUI
+[2021.01.30-14.49.43:301][586]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2021.01.30-14.49.56:478][104]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widgets/InventoryUI" FILE="../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/Widgets/InventoryUI.uasset" SILENT=true
+[2021.01.30-14.49.56:484][104]LogSavePackage: Moving '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Saved/InventoryUIDD76119E4F18C02FF2E83B947611C71D.tmp' to '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/Widgets/InventoryUI.uasset'
+[2021.01.30-14.49.56:510][104]AssetCheck: New page: Asset Save: InventoryUI
+[2021.01.30-14.49.56:510][104]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Widgets/InventoryUI.InventoryUI
+[2021.01.30-14.50.10:615][748]BlueprintLog: New page: Compile InventoryUI
+[2021.01.30-14.50.10:656][748]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2021.01.30-14.50.10:822][748]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widgets/InventoryUI" FILE="../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/Widgets/InventoryUI.uasset" SILENT=true
+[2021.01.30-14.50.10:828][748]LogSavePackage: Moving '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Saved/InventoryUI549E55504170C1493C790FAE0D2B3F26.tmp' to '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/Widgets/InventoryUI.uasset'
+[2021.01.30-14.50.10:846][748]AssetCheck: New page: Asset Save: InventoryUI
+[2021.01.30-14.50.10:846][748]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Widgets/InventoryUI.InventoryUI
+[2021.01.30-14.50.11:253][777]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widgets/InventoryUI" FILE="../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/Widgets/InventoryUI.uasset" SILENT=true
+[2021.01.30-14.50.11:260][777]LogSavePackage: Moving '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Saved/InventoryUID004A7C14BAD5E15144E5084534B7DC5.tmp' to '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/Widgets/InventoryUI.uasset'
+[2021.01.30-14.50.11:277][777]AssetCheck: New page: Asset Save: InventoryUI
+[2021.01.30-14.50.11:278][777]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Widgets/InventoryUI.InventoryUI
+[2021.01.30-14.51.08:668][ 60]LogSlate: Took 0.002020 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.01.30-14.51.54:215][190]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widgets/InventoryUI" FILE="../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/Widgets/InventoryUI.uasset" SILENT=true
+[2021.01.30-14.51.54:225][190]LogSavePackage: Moving '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Saved/InventoryUIF2C6DD014FA2157E0F04F2809AFC42AF.tmp' to '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/Widgets/InventoryUI.uasset'
+[2021.01.30-14.51.54:239][190]AssetCheck: New page: Asset Save: InventoryUI
+[2021.01.30-14.51.54:239][190]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Widgets/InventoryUI.InventoryUI
+[2021.01.30-14.51.57:211][486]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widgets/InventoryUI" FILE="../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/Widgets/InventoryUI.uasset" SILENT=true
+[2021.01.30-14.51.57:221][486]LogSavePackage: Moving '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Saved/InventoryUI6508915C401F2B51A3AA4FB5DF1DCA4D.tmp' to '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/Widgets/InventoryUI.uasset'
+[2021.01.30-14.51.57:237][486]AssetCheck: New page: Asset Save: InventoryUI
+[2021.01.30-14.51.57:237][486]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Widgets/InventoryUI.InventoryUI
+[2021.01.30-14.53.12:713][ 97]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widgets/InventoryUI" FILE="../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/Widgets/InventoryUI.uasset" SILENT=true
+[2021.01.30-14.53.12:726][ 97]LogSavePackage: Moving '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Saved/InventoryUI983201404458BB1195A49FB27E20AA83.tmp' to '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/Widgets/InventoryUI.uasset'
+[2021.01.30-14.53.12:746][ 97]AssetCheck: New page: Asset Save: InventoryUI
+[2021.01.30-14.53.12:746][ 97]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Widgets/InventoryUI.InventoryUI
+[2021.01.30-14.53.34:738][572]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widgets/InventoryUI" FILE="../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/Widgets/InventoryUI.uasset" SILENT=true
+[2021.01.30-14.53.34:752][572]LogSavePackage: Moving '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Saved/InventoryUID74CA7954A8AF127E44578B5B02DB78B.tmp' to '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/Widgets/InventoryUI.uasset'
+[2021.01.30-14.53.34:771][572]AssetCheck: New page: Asset Save: InventoryUI
+[2021.01.30-14.53.34:771][572]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Widgets/InventoryUI.InventoryUI
+[2021.01.30-14.53.59:545][421]BlueprintLog: New page: Compile InventoryUI
+[2021.01.30-14.53.59:602][421]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2021.01.30-14.53.59:770][421]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widgets/InventoryUI" FILE="../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/Widgets/InventoryUI.uasset" SILENT=true
+[2021.01.30-14.53.59:784][421]LogSavePackage: Moving '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Saved/InventoryUI1833C802441139C3BC9C2EBBE6223289.tmp' to '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/Widgets/InventoryUI.uasset'
+[2021.01.30-14.53.59:795][421]AssetCheck: New page: Asset Save: InventoryUI
+[2021.01.30-14.53.59:795][421]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Widgets/InventoryUI.InventoryUI
+[2021.01.30-14.54.03:437][803]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widgets/InventoryUI" FILE="../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/Widgets/InventoryUI.uasset" SILENT=true
+[2021.01.30-14.54.03:451][803]LogSavePackage: Moving '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Saved/InventoryUID07CB454440AE06018F2209F700BF416.tmp' to '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/Widgets/InventoryUI.uasset'
+[2021.01.30-14.54.03:463][803]AssetCheck: New page: Asset Save: InventoryUI
+[2021.01.30-14.54.03:463][803]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Widgets/InventoryUI.InventoryUI
+[2021.01.30-14.54.56:221][ 28]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widgets/InventoryUI" FILE="../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/Widgets/InventoryUI.uasset" SILENT=true
+[2021.01.30-14.54.56:236][ 28]LogSavePackage: Moving '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Saved/InventoryUICE553B5344F776F3663F96B16403540E.tmp' to '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/Widgets/InventoryUI.uasset'
+[2021.01.30-14.54.56:248][ 28]AssetCheck: New page: Asset Save: InventoryUI
+[2021.01.30-14.54.56:249][ 28]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Widgets/InventoryUI.InventoryUI
+[2021.01.30-14.55.43:708][559]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widgets/InventoryUI" FILE="../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/Widgets/InventoryUI.uasset" SILENT=true
+[2021.01.30-14.55.43:724][559]LogSavePackage: Moving '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Saved/InventoryUI782EA28D4E570CE2DA7CACA0514FAB88.tmp' to '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/Widgets/InventoryUI.uasset'
+[2021.01.30-14.55.43:736][559]AssetCheck: New page: Asset Save: InventoryUI
+[2021.01.30-14.55.43:737][559]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Widgets/InventoryUI.InventoryUI
+[2021.01.30-14.55.49:060][111]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/Widgets/WBP_PlayerHud.WBP_PlayerHud
+[2021.01.30-14.56.52:139][234]BlueprintLog: New page: Compile WBP_PlayerHud
+[2021.01.30-14.56.52:183][234]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2021.01.30-14.56.52:363][234]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widgets/WBP_PlayerHud" FILE="../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/Widgets/WBP_PlayerHud.uasset" SILENT=true
+[2021.01.30-14.56.52:376][234]LogSavePackage: Moving '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Saved/WBP_PlayerHud9153400E49C520EA0B3C0A95506E656E.tmp' to '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/Widgets/WBP_PlayerHud.uasset'
+[2021.01.30-14.56.52:395][234]AssetCheck: New page: Asset Save: WBP_PlayerHud
+[2021.01.30-14.56.52:395][234]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Widgets/WBP_PlayerHud.WBP_PlayerHud
+[2021.01.30-14.56.54:928][486]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.30-14.56.54:942][486]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.30-14.56.54:950][486]PIE: New page: PIE session: TopDownExampleMap (30 Jan 2021, 14:56:54)
+[2021.01.30-14.56.54:958][486]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.01.30-14.56.54:960][486]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.01.30-14.56.54:962][486]LogPlayLevel: Creating play world package: /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.01.30-14.56.55:003][486]LogPlayLevel: PIE: StaticDuplicateObject took: (0.039828s)
+[2021.01.30-14.56.55:004][486]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2021.01.30-14.56.55:005][486]LogPlayLevel: PIE: World Init took: (0.002342s)
+[2021.01.30-14.56.55:006][486]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.043156s)
+[2021.01.30-14.56.55:039][486]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2021.01.30-14.56.55:042][486]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.01.30-14.56.55:042][486]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.30-14.56.55:042][486]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.30-14.56.55:042][486]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.30-14.56.55:042][486]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.30-14.56.55:042][486]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.30-14.56.55:042][486]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.30-14.56.55:042][486]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.30-14.56.55:042][486]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.30-14.56.55:042][486]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.30-14.56.55:042][486]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.30-14.56.55:051][486]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.30-14.56.55:051][486]LogAudioMixer: Display: 1: FrontRight
+[2021.01.30-14.56.55:068][486]LogAudioMixer: Display: Using Audio Device Headphones (Arctis 7 Game)
+[2021.01.30-14.56.55:068][486]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.30-14.56.55:068][486]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.30-14.56.55:068][486]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.30-14.56.55:070][486]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.30-14.56.55:070][486]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.30-14.56.55:070][486]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.30-14.56.55:084][486]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.30-14.56.55:085][486]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.30-14.56.55:085][486]LogInit: FAudioDevice initialized.
+[2021.01.30-14.56.55:085][486]LogAudio: Display: Audio Device (ID: 2) registered with world 'TopDownExampleMap'.
+[2021.01.30-14.56.55:108][486]LogLoad: Game class is 'LateForWorkGameMode'
+[2021.01.30-14.56.55:110][486]LogWorld: Bringing World /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2021.01.30-14.56.55
+[2021.01.30-14.56.55:111][486]LogWorld: Bringing up level for play took: 0.002639
+[2021.01.30-14.56.55:113][486]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2021.01.30-14.56.55:141][486]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0010 seconds. Added 20 classes and 0 folders.
+[2021.01.30-14.56.55:163][486]PIE: Server logged in
+[2021.01.30-14.56.55:166][486]PIE: Play in editor total start time 0.229 seconds.
+[2021.01.30-14.56.55:170][486]LogInput: Error: Duplicate mapping of key Gamepad_LeftX for axis MoveRight
+[2021.01.30-14.56.55:170][486]LogInput: Error: Duplicate mapping of key Gamepad_LeftY for axis MoveForward
+[2021.01.30-14.56.55:170][486]LogInput: Error: Duplicate mapping of key Gamepad_LeftY for axis UIUp
+[2021.01.30-14.56.55:170][486]LogInput: Error: Duplicate mapping of key Gamepad_LeftX for axis UIRight
+[2021.01.30-14.56.56:945][604]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.30-14.56.56:945][604]LogWorld: BeginTearingDown for /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.01.30-14.56.56:946][604]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-14.56.56:948][604]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-14.56.56:959][604]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.30-14.56.56:964][604]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-14.56.56:994][604]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.30-14.56.56:999][604]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.30-14.56.57:001][604]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.30-14.56.57:024][604]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.30-14.56.57:076][604]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2021.01.30-14.56.57:110][605]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2021.01.30-14.57.10:242][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2021.01.30-14.57.10:476][ 49]LogLinker: Warning: [AssetLog] C:\Users\KIWe\Projects\GGJ\2021\GGJ21\LateForWork\Content\Levels\HouseTest.umap: Failed to load '/Game/Levels/HouseTest_BuiltData': Can't find file.
+[2021.01.30-14.57.10:476][ 49]LogLinker: Warning: [AssetLog] C:\Users\KIWe\Projects\GGJ\2021\GGJ21\LateForWork\Content\Levels\HouseTest.umap: Failed to load '/Game/Levels/HouseTest_BuiltData': Can't find file.
+[2021.01.30-14.57.10:522][ 49]LogLinker: Warning: [AssetLog] C:\Users\KIWe\Projects\GGJ\2021\GGJ21\LateForWork\Content\Levels\HouseTest.umap: Failed to load '/Game/Levels/HouseTest_BuiltData': Can't find file.
+[2021.01.30-14.57.10:608][ 49]LogLinker: Warning: Failed to load '/Game/Levels/HouseTest_BuiltData': Can't find file.
+[2021.01.30-14.57.10:609][ 49]LogLinker: Warning: Failed to load '/Game/Levels/HouseTest_BuiltData': Can't find file.
+[2021.01.30-14.57.10:638][ 49]LogLinker: Warning: [AssetLog] C:\Users\KIWe\Projects\GGJ\2021\GGJ21\LateForWork\Content\Levels\HouseTest.umap: Failed to load '/Game/Levels/HouseTest_BuiltData': Can't find file.
+[2021.01.30-14.57.10:638][ 49]LoadErrors: Failed to load /Game/Levels/HouseTest_BuiltData.HouseTest_BuiltData Referenced by PersistentLevel
+[2021.01.30-14.57.10:653][ 49]LogStaticMesh: Building static mesh SM_Bld_House_ExteriorWall_GroundFloor_Corner_01...
+[2021.01.30-14.57.10:657][ 49]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonTown/Meshes/Buildings/SM_Bld_House_ExteriorWall_GroundFloor_Corner_01.SM_Bld_House_ExteriorWall_GroundFloor_Corner_01
+[2021.01.30-14.57.10:662][ 49]LogStaticMesh: Building static mesh SM_Bld_House_ExteriorWall_GroundFloor_Door_01...
+[2021.01.30-14.57.10:663][ 49]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonTown/Meshes/Buildings/SM_Bld_House_ExteriorWall_GroundFloor_Door_01.SM_Bld_House_ExteriorWall_GroundFloor_Door_01
+[2021.01.30-14.57.10:666][ 49]LogStaticMesh: Building static mesh SM_Bld_House_ExteriorWall_GroundFloor_Garage_01...
+[2021.01.30-14.57.10:667][ 49]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonTown/Meshes/Buildings/SM_Bld_House_ExteriorWall_GroundFloor_Garage_01.SM_Bld_House_ExteriorWall_GroundFloor_Garage_01
+[2021.01.30-14.57.10:688][ 49]LogStaticMesh: Building static mesh SM_Bld_House_ExteriorWall_GarageDoor_01...
+[2021.01.30-14.57.10:693][ 49]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonTown/Meshes/Buildings/SM_Bld_House_ExteriorWall_GarageDoor_01.SM_Bld_House_ExteriorWall_GarageDoor_01
+[2021.01.30-14.57.10:696][ 49]LogStaticMesh: Building static mesh SM_Bld_House_Concrete_Steps_01...
+[2021.01.30-14.57.10:696][ 49]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonTown/Meshes/Buildings/SM_Bld_House_Concrete_Steps_01.SM_Bld_House_Concrete_Steps_01
+[2021.01.30-14.57.10:697][ 49]LogStaticMesh: Building static mesh SM_Bld_House_ExteriorWall_GroundFloor_01...
+[2021.01.30-14.57.10:697][ 49]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonTown/Meshes/Buildings/SM_Bld_House_ExteriorWall_GroundFloor_01.SM_Bld_House_ExteriorWall_GroundFloor_01
+[2021.01.30-14.57.10:700][ 49]LogStaticMesh: Building static mesh SM_Bld_House_ExteriorWall_GroundFloor_Garage_Window_01...
+[2021.01.30-14.57.10:703][ 49]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonTown/Meshes/Buildings/SM_Bld_House_ExteriorWall_GroundFloor_Garage_Window_01.SM_Bld_House_ExteriorWall_GroundFloor_Garage_Window_01
+[2021.01.30-14.57.10:707][ 49]LogMaterial: Display: Missing cached shader map for material Mat_PolygonTown_WindowGlass_01, compiling. 
+[2021.01.30-14.57.10:842][ 49]LogStaticMesh: Building static mesh SM_Bld_House_ExteriorWall_GroundFloor_Window_01...
+[2021.01.30-14.57.10:843][ 49]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonTown/Meshes/Buildings/SM_Bld_House_ExteriorWall_GroundFloor_Window_01.SM_Bld_House_ExteriorWall_GroundFloor_Window_01
+[2021.01.30-14.57.10:848][ 49]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 40
+[2021.01.30-14.57.10:848][ 49]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 30
+[2021.01.30-14.57.10:848][ 49]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 20
+[2021.01.30-14.57.10:848][ 49]LogStaticMesh: Building static mesh SM_Bld_House_ExteriorWall_UpperFloor_01...
+[2021.01.30-14.57.10:848][ 49]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonTown/Meshes/Buildings/SM_Bld_House_ExteriorWall_UpperFloor_01.SM_Bld_House_ExteriorWall_UpperFloor_01
+[2021.01.30-14.57.10:849][ 49]LogStaticMesh: Building static mesh SM_Bld_House_ExteriorWall_UpperFloor_Corner_01...
+[2021.01.30-14.57.10:849][ 49]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonTown/Meshes/Buildings/SM_Bld_House_ExteriorWall_UpperFloor_Corner_01.SM_Bld_House_ExteriorWall_UpperFloor_Corner_01
+[2021.01.30-14.57.10:850][ 49]LogStaticMesh: Building static mesh SM_Bld_House_ExteriorWall_UpperFloor_Window_01...
+[2021.01.30-14.57.10:851][ 49]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonTown/Meshes/Buildings/SM_Bld_House_ExteriorWall_UpperFloor_Window_01.SM_Bld_House_ExteriorWall_UpperFloor_Window_01
+[2021.01.30-14.57.10:877][ 49]LogStaticMesh: Building static mesh SM_Item_Pumpkin_01...
+[2021.01.30-14.57.10:880][ 49]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonTown/Meshes/Items/SM_Item_Pumpkin_01.SM_Item_Pumpkin_01
+[2021.01.30-14.57.11:028][ 49]LogStaticMesh: Building static mesh SM_Bld_House_InteriorWall_Corner_01...
+[2021.01.30-14.57.11:029][ 49]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonTown/Meshes/Buildings/SM_Bld_House_InteriorWall_Corner_01.SM_Bld_House_InteriorWall_Corner_01
+[2021.01.30-14.57.11:071][ 49]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/HouseTest.HouseTest
+[2021.01.30-14.57.11:072][ 49]Cmd: MAP LOAD FILE="../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Levels/HouseTest.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.01.30-14.57.11:072][ 49]LightingResults: New page: Lighting Build
+[2021.01.30-14.57.11:076][ 49]LoadErrors: New page: Loading map: HouseTest.umap
+[2021.01.30-14.57.11:101][ 49]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-14.57.11:102][ 49]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-14.57.11:102][ 49]MapCheck: New page: Map Check
+[2021.01.30-14.57.11:102][ 49]LightingResults: New page: Lighting Build
+[2021.01.30-14.57.11:134][ 49]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.30-14.57.11:146][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2021.01.30-14.57.11:148][ 49]LogAudio: Display: Audio Device (ID: 1) registered with world 'HouseTest'.
+[2021.01.30-14.57.11:166][ 49]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.01.30-14.57.11:166][ 49]LogAIModule: Creating AISystem for world HouseTest
+[2021.01.30-14.57.11:205][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2021.01.30-14.57.11:714][ 49]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.01.30-14.57.11:715][ 49]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.633ms to complete.
+[2021.01.30-14.57.11:715][ 49]LogFileHelpers: Loading map 'HouseTest' took 0.644
+[2021.01.30-14.57.18:632][169]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.30-14.57.41:845][169]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.30-14.57.41:845][169]PIE: New page: PIE session: HouseTest (30 Jan 2021, 14:57:41)
+[2021.01.30-14.57.41:845][169]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_HouseTest
+[2021.01.30-14.57.41:852][169]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007227s)
+[2021.01.30-14.57.41:853][169]LogAIModule: Creating AISystem for world HouseTest
+[2021.01.30-14.57.41:854][169]LogPlayLevel: PIE: World Init took: (0.001328s)
+[2021.01.30-14.57.41:854][169]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/HouseTest.HouseTest to /Game/Levels/UEDPIE_0_HouseTest.HouseTest (0.008753s)
+[2021.01.30-14.57.41:892][169]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2021.01.30-14.57.41:896][169]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.01.30-14.57.41:896][169]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.30-14.57.41:896][169]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.30-14.57.41:896][169]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.30-14.57.41:896][169]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.30-14.57.41:896][169]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.30-14.57.41:896][169]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.30-14.57.41:896][169]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.30-14.57.41:896][169]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.30-14.57.41:896][169]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.30-14.57.41:896][169]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.30-14.57.41:903][169]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.30-14.57.41:904][169]LogAudioMixer: Display: 1: FrontRight
+[2021.01.30-14.57.41:930][169]LogAudioMixer: Display: Using Audio Device Headphones (Arctis 7 Game)
+[2021.01.30-14.57.41:930][169]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.30-14.57.41:930][169]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.30-14.57.41:930][169]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.30-14.57.41:931][169]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.30-14.57.41:931][169]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.30-14.57.41:931][169]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.30-14.57.41:937][169]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.30-14.57.41:937][169]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.30-14.57.41:937][169]LogInit: FAudioDevice initialized.
+[2021.01.30-14.57.41:937][169]LogAudio: Display: Audio Device (ID: 3) registered with world 'HouseTest'.
+[2021.01.30-14.57.41:946][169]LogLoad: Game class is 'GMBP_MainGame_C'
+[2021.01.30-14.57.41:950][169]LogWorld: Bringing World /Game/Levels/UEDPIE_0_HouseTest.HouseTest up for play (max tick rate 0) at 2021.01.30-14.57.41
+[2021.01.30-14.57.41:957][169]LogWorld: Bringing up level for play took: 0.010315
+[2021.01.30-14.57.41:958][169]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2021.01.30-14.57.41:971][169]PIE: Server logged in
+[2021.01.30-14.57.41:972][169]PIE: Play in editor total start time 0.129 seconds.
+[2021.01.30-14.57.41:973][169]LogInput: Error: Duplicate mapping of key Gamepad_LeftX for axis MoveRight
+[2021.01.30-14.57.41:973][169]LogInput: Error: Duplicate mapping of key Gamepad_LeftY for axis MoveForward
+[2021.01.30-14.57.41:973][169]LogInput: Error: Duplicate mapping of key Gamepad_LeftY for axis UIUp
+[2021.01.30-14.57.41:973][169]LogInput: Error: Duplicate mapping of key Gamepad_LeftX for axis UIRight
+[2021.01.30-14.57.48:682][861]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.30-14.57.48:682][861]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_HouseTest
+[2021.01.30-14.57.48:683][861]LogWorld: UWorld::CleanupWorld for HouseTest, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-14.57.48:683][861]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-14.57.48:691][861]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.30-14.57.48:696][861]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-14.57.48:732][861]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.30-14.57.48:732][861]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.30-14.57.48:733][861]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.30-14.57.48:752][861]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.30-14.57.48:763][861]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2021.01.30-14.57.54:734][862]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2021.01.30-14.57.59:633][438]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 10
+[2021.01.30-14.58.21:094][771]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 6
+[2021.01.30-14.58.51:879][ 96]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2021.01.30-14.59.04:564][508]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2021.01.30-14.59.11:781][280]LogEditorTransaction: Undo Create Pin Link
+[2021.01.30-14.59.12:410][308]LogEditorTransaction: Undo Function Dropped on Graph
+[2021.01.30-14.59.13:906][461]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widgets/InventoryUI" FILE="../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/Widgets/InventoryUI.uasset" SILENT=true
+[2021.01.30-14.59.13:921][461]LogSavePackage: Moving '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Saved/InventoryUI8F2D0B4F49A80588335A03ACDB192917.tmp' to '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/Widgets/InventoryUI.uasset'
+[2021.01.30-14.59.13:936][461]AssetCheck: New page: Asset Save: InventoryUI
+[2021.01.30-14.59.13:936][461]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Widgets/InventoryUI.InventoryUI
+[2021.01.30-14.59.20:257][163]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widgets/InventoryUI" FILE="../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/Widgets/InventoryUI.uasset" SILENT=true
+[2021.01.30-14.59.20:270][163]LogSavePackage: Moving '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Saved/InventoryUICBD09B6244ACA553D0E85B98669AEC73.tmp' to '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/Widgets/InventoryUI.uasset'
+[2021.01.30-14.59.20:286][163]AssetCheck: New page: Asset Save: InventoryUI
+[2021.01.30-14.59.20:286][163]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Widgets/InventoryUI.InventoryUI
+[2021.01.30-15.01.56:447][634]LogSavePackage: Moving '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Saved/InventoryItemUIFCD8C1A14E3EA99C1DF1C1AF7B73DD3A.tmp' to '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/Widgets/InventoryItemUI.uasset'
+[2021.01.30-15.01.56:463][634]AssetCheck: New page: Asset Save: InventoryItemUI
+[2021.01.30-15.01.56:463][634]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Widgets/InventoryItemUI.InventoryItemUI
+[2021.01.30-15.01.57:960][808]BlueprintLog: New page: Compile InventoryItemUI
+[2021.01.30-15.01.58:044][808]LogUObjectHash: Compacting FUObjectHashTables data took   4.11ms
+[2021.01.30-15.02.05:713][672]LogSavePackage: Moving '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Saved/InventoryItemUI654EAD804FB654EEC6CD12AA3BB92AB0.tmp' to '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/Widgets/InventoryItemUI.uasset'
+[2021.01.30-15.02.05:728][672]AssetCheck: New page: Asset Save: InventoryItemUI
+[2021.01.30-15.02.05:728][672]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Widgets/InventoryItemUI.InventoryItemUI
+[2021.01.30-15.02.08:294][957]LogSavePackage: Moving '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Saved/InventoryItemUI17E141D14B5E5F8F7F7889954F714FA6.tmp' to '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/Widgets/InventoryItemUI.uasset'
+[2021.01.30-15.02.08:308][957]AssetCheck: New page: Asset Save: InventoryItemUI
+[2021.01.30-15.02.08:308][957]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Widgets/InventoryItemUI.InventoryItemUI
+[2021.01.30-15.02.16:177][882]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-15.02.16:177][882]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-15.02.16:184][882]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-15.02.16:184][882]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-15.02.19:001][198]BlueprintLog: New page: Compile InventoryUI
+[2021.01.30-15.02.19:061][198]LogUObjectHash: Compacting FUObjectHashTables data took   4.09ms
+[2021.01.30-15.02.19:234][198]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widgets/InventoryUI" FILE="../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/Widgets/InventoryUI.uasset" SILENT=true
+[2021.01.30-15.02.19:248][198]LogSavePackage: Moving '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Saved/InventoryUI763B1AC846568FDD737EF49DEAEA419E.tmp' to '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/Widgets/InventoryUI.uasset'
+[2021.01.30-15.02.19:266][198]AssetCheck: New page: Asset Save: InventoryUI
+[2021.01.30-15.02.19:266][198]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Widgets/InventoryUI.InventoryUI
+[2021.01.30-15.02.19:682][227]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widgets/InventoryUI" FILE="../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/Widgets/InventoryUI.uasset" SILENT=true
+[2021.01.30-15.02.19:696][227]LogSavePackage: Moving '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Saved/InventoryUIF4215E1C4741E7AE03DC529929067DEF.tmp' to '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/Widgets/InventoryUI.uasset'
+[2021.01.30-15.02.19:709][227]AssetCheck: New page: Asset Save: InventoryUI
+[2021.01.30-15.02.19:709][227]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Widgets/InventoryUI.InventoryUI
+[2021.01.30-15.02.20:136][249]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widgets/InventoryUI" FILE="../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/Widgets/InventoryUI.uasset" SILENT=true
+[2021.01.30-15.02.20:150][249]LogSavePackage: Moving '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Saved/InventoryUI622D27B24067D18CD375938921EA54B0.tmp' to '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/Widgets/InventoryUI.uasset'
+[2021.01.30-15.02.20:167][249]AssetCheck: New page: Asset Save: InventoryUI
+[2021.01.30-15.02.20:167][249]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Widgets/InventoryUI.InventoryUI
+[2021.01.30-15.02.51:106][795]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widgets/WBP_PlayerHud" FILE="../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/Widgets/WBP_PlayerHud.uasset" SILENT=true
+[2021.01.30-15.02.51:119][795]LogSavePackage: Moving '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Saved/WBP_PlayerHud1719C50B47C5851AB2484CB2E625CCEF.tmp' to '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/Widgets/WBP_PlayerHud.uasset'
+[2021.01.30-15.02.51:138][795]AssetCheck: New page: Asset Save: WBP_PlayerHud
+[2021.01.30-15.02.51:138][795]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Widgets/WBP_PlayerHud.WBP_PlayerHud
+[2021.01.30-15.04.00:757][874]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widgets/InventoryUI" FILE="../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/Widgets/InventoryUI.uasset" SILENT=true
+[2021.01.30-15.04.00:773][874]LogSavePackage: Moving '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Saved/InventoryUI91D8EB244F7BED22F48E4482964CB7B0.tmp' to '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/Widgets/InventoryUI.uasset'
+[2021.01.30-15.04.00:787][874]AssetCheck: New page: Asset Save: InventoryUI
+[2021.01.30-15.04.00:787][874]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Widgets/InventoryUI.InventoryUI
+[2021.01.30-15.04.01:212][917]BlueprintLog: New page: Compile InventoryUI
+[2021.01.30-15.04.01:280][917]LogUObjectHash: Compacting FUObjectHashTables data took   4.33ms
+[2021.01.30-15.04.01:575][930]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widgets/InventoryUI" FILE="../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/Widgets/InventoryUI.uasset" SILENT=true
+[2021.01.30-15.04.01:590][930]LogSavePackage: Moving '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Saved/InventoryUI2DCC1BB04C241A2BE8A08383F871BDDF.tmp' to '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/Widgets/InventoryUI.uasset'
+[2021.01.30-15.04.01:614][930]AssetCheck: New page: Asset Save: InventoryUI
+[2021.01.30-15.04.01:614][930]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Widgets/InventoryUI.InventoryUI
+[2021.01.30-15.04.55:893][ 50]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widgets/InventoryUI" FILE="../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/Widgets/InventoryUI.uasset" SILENT=true
+[2021.01.30-15.04.55:910][ 50]LogSavePackage: Moving '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Saved/InventoryUIC666D01D4A49718F4E9313B8102CC152.tmp' to '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/Widgets/InventoryUI.uasset'
+[2021.01.30-15.04.55:928][ 50]AssetCheck: New page: Asset Save: InventoryUI
+[2021.01.30-15.04.55:928][ 50]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Widgets/InventoryUI.InventoryUI
+[2021.01.30-15.04.57:716][240]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widgets/InventoryUI" FILE="../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/Widgets/InventoryUI.uasset" SILENT=true
+[2021.01.30-15.04.57:732][240]LogSavePackage: Moving '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Saved/InventoryUI97A8731749B73A9D7BD07EA4F49B7F6C.tmp' to '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/Widgets/InventoryUI.uasset'
+[2021.01.30-15.04.57:749][240]AssetCheck: New page: Asset Save: InventoryUI
+[2021.01.30-15.04.57:749][240]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Widgets/InventoryUI.InventoryUI
+[2021.01.30-15.04.59:677][435]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widgets/InventoryUI" FILE="../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/Widgets/InventoryUI.uasset" SILENT=true
+[2021.01.30-15.04.59:694][435]LogSavePackage: Moving '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Saved/InventoryUIAC4134B94BD2549AB3F298BB714ADBB1.tmp' to '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/Widgets/InventoryUI.uasset'
+[2021.01.30-15.04.59:712][435]AssetCheck: New page: Asset Save: InventoryUI
+[2021.01.30-15.04.59:712][435]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Widgets/InventoryUI.InventoryUI
+[2021.01.30-15.05.02:364][728]BlueprintLog: New page: Compile InventoryUI
+[2021.01.30-15.05.02:434][728]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2021.01.30-15.05.03:125][788]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widgets/InventoryUI" FILE="../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/Widgets/InventoryUI.uasset" SILENT=true
+[2021.01.30-15.05.03:141][788]LogSavePackage: Moving '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Saved/InventoryUI2D546F7049C9782ACDB9A0A69A2747FD.tmp' to '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/Widgets/InventoryUI.uasset'
+[2021.01.30-15.05.03:155][788]AssetCheck: New page: Asset Save: InventoryUI
+[2021.01.30-15.05.03:155][788]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Widgets/InventoryUI.InventoryUI
+[2021.01.30-15.05.03:909][858]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widgets/InventoryUI" FILE="../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/Widgets/InventoryUI.uasset" SILENT=true
+[2021.01.30-15.05.03:926][858]LogSavePackage: Moving '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Saved/InventoryUI9A900DA1492B05C3121984A909F43FC6.tmp' to '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/Widgets/InventoryUI.uasset'
+[2021.01.30-15.05.03:940][858]AssetCheck: New page: Asset Save: InventoryUI
+[2021.01.30-15.05.03:940][858]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Widgets/InventoryUI.InventoryUI
+[2021.01.30-15.05.08:125][325]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widgets/InventoryUI" FILE="../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/Widgets/InventoryUI.uasset" SILENT=true
+[2021.01.30-15.05.08:140][325]LogSavePackage: Moving '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Saved/InventoryUI97450E6C41876C298953A193B3991634.tmp' to '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/Widgets/InventoryUI.uasset'
+[2021.01.30-15.05.08:156][325]AssetCheck: New page: Asset Save: InventoryUI
+[2021.01.30-15.05.08:156][325]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Widgets/InventoryUI.InventoryUI
+[2021.01.30-15.05.26:673][458]BlueprintLog: New page: Compile InventoryUI
+[2021.01.30-15.05.26:739][458]LogUObjectHash: Compacting FUObjectHashTables data took   4.22ms
+[2021.01.30-15.05.26:929][458]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widgets/InventoryUI" FILE="../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/Widgets/InventoryUI.uasset" SILENT=true
+[2021.01.30-15.05.26:946][458]LogSavePackage: Moving '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Saved/InventoryUIC126D25542ABDF2BC89636BAF4671564.tmp' to '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/Widgets/InventoryUI.uasset'
+[2021.01.30-15.05.26:962][458]AssetCheck: New page: Asset Save: InventoryUI
+[2021.01.30-15.05.26:962][458]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Widgets/InventoryUI.InventoryUI
+[2021.01.30-15.05.27:293][475]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widgets/InventoryUI" FILE="../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/Widgets/InventoryUI.uasset" SILENT=true
+[2021.01.30-15.05.27:309][475]LogSavePackage: Moving '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Saved/InventoryUIE2AA55B74106CDB71382DBB7F29253E8.tmp' to '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/Widgets/InventoryUI.uasset'
+[2021.01.30-15.05.27:325][475]AssetCheck: New page: Asset Save: InventoryUI
+[2021.01.30-15.05.27:325][475]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Widgets/InventoryUI.InventoryUI
+[2021.01.30-15.05.28:327][575]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widgets/InventoryUI" FILE="../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/Widgets/InventoryUI.uasset" SILENT=true
+[2021.01.30-15.05.28:343][575]LogSavePackage: Moving '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Saved/InventoryUI920EE34246CEBC246CBFBC8BD92303D3.tmp' to '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/Widgets/InventoryUI.uasset'
+[2021.01.30-15.05.28:357][575]AssetCheck: New page: Asset Save: InventoryUI
+[2021.01.30-15.05.28:357][575]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Widgets/InventoryUI.InventoryUI
+[2021.01.30-15.05.31:953][975]BlueprintLog: New page: Compile WBP_PlayerHud
+[2021.01.30-15.05.32:000][975]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2021.01.30-15.05.32:494][ 10]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widgets/WBP_PlayerHud" FILE="../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/Widgets/WBP_PlayerHud.uasset" SILENT=true
+[2021.01.30-15.05.32:506][ 10]LogSavePackage: Moving '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Saved/WBP_PlayerHudBFC66F52430913456D513E8DB34E63EB.tmp' to '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/Widgets/WBP_PlayerHud.uasset'
+[2021.01.30-15.05.32:526][ 10]AssetCheck: New page: Asset Save: WBP_PlayerHud
+[2021.01.30-15.05.32:526][ 10]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Widgets/WBP_PlayerHud.WBP_PlayerHud
+[2021.01.30-15.05.33:756][146]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-15.05.33:756][146]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-15.05.33:764][146]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-15.05.33:764][146]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-15.05.34:160][185]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-15.05.34:160][185]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-15.05.34:168][185]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-15.05.34:168][185]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-15.06.23:298][662]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/HouseTest" FILE="../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Levels/HouseTest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.01.30-15.06.23:360][662]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2021.01.30-15.06.23:402][662]LogSavePackage: Moving '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Saved/HouseTestBBACE2EA45B0B6DCAA05B48E18128548.tmp' to '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Levels/HouseTest.umap'
+[2021.01.30-15.06.23:432][662]AssetCheck: New page: Asset Save: HouseTest
+[2021.01.30-15.06.23:432][662]LogContentValidation: Display: Validating World /Game/Levels/HouseTest.HouseTest
