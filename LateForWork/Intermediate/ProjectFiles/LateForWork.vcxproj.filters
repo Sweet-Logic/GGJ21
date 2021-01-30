@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\LateForWork.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{8382C4DA-9178-418C-A9E9-D2FC1723EEF5}</UniqueIdentifier>
+      <UniqueIdentifier>{792CF178-7349-4073-BCE0-D4B65DE56321}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\LateForWork.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{E51FB609-FDBF-41F9-A11F-61FF8B6CC8A7}</UniqueIdentifier>
+      <UniqueIdentifier>{A27FC3A6-3B2C-4CA9-9D8C-4103DB6A3C10}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -30,7 +30,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\LateForWork">
-      <UniqueIdentifier>{F7E57520-F923-4119-8C20-B46E1CB188FD}</UniqueIdentifier>
+      <UniqueIdentifier>{3BC78235-1640-4A3D-94C4-8C037E5F3116}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\LateForWork\LateForWork.Build.cs">
       <Filter>Source\LateForWork</Filter>
