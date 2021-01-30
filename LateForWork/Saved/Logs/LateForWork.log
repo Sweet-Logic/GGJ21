@@ -13,7 +13,20 @@ LogPluginManager: Mounting plugin Paper2D
 LogPluginManager: Mounting plugin AISupport
 LogPluginManager: Mounting plugin EnvironmentQueryEditor
 LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
 LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
 LogPluginManager: Mounting plugin AnimationSharing
 LogPluginManager: Mounting plugin CLionSourceCodeAccess
 LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
@@ -47,6 +60,7 @@ LogPluginManager: Mounting plugin AlembicImporter
 LogPluginManager: Mounting plugin AutomationUtils
 LogPluginManager: Mounting plugin BackChannel
 LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosEditor
 LogPluginManager: Mounting plugin ChaosClothEditor
 LogPluginManager: Mounting plugin ChaosEditor
 LogPluginManager: Mounting plugin ChaosNiagara
@@ -128,7 +142,6 @@ LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on 
 LogInit: Warning: Incompatible or missing module: LateForWork
 Running C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe Development Win64 -Project="C:/Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/LateForWork.uproject" -TargetType=Editor -Progress -NoEngineChanges -NoHotReloadFromIDE
 Using 'git status' to determine working set for adaptive non-unity build (C:\Users\KIWe\Projects\GGJ\2021\GGJ21).
-Creating makefile for LateForWorkEditor (no existing makefile)
 @progress push 5%
 Parsing headers for LateForWorkEditor
   Running UnrealHeaderTool "C:\Users\KIWe\Projects\GGJ\2021\GGJ21\LateForWork\LateForWork.uproject" "C:\Users\KIWe\Projects\GGJ\2021\GGJ21\LateForWork\Intermediate\Build\Win64\LateForWorkEditor\Development\LateForWorkEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\KIWe\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
