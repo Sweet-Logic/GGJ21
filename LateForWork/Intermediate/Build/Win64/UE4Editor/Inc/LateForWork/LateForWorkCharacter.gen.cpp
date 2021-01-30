@@ -21,8 +21,48 @@ void EmptyLinkFunctionForGeneratedCodeLateForWorkCharacter() {}
 	ENGINE_API UClass* Z_Construct_UClass_USpringArmComponent_NoRegister();
 	ENGINE_API UClass* Z_Construct_UClass_UDecalComponent_NoRegister();
 // End Cross Module References
+	DEFINE_FUNCTION(ALateForWorkCharacter::execInteractButtonPressed)
+	{
+		P_FINISH;
+		P_NATIVE_BEGIN;
+		P_THIS->InteractButtonPressed_Implementation();
+		P_NATIVE_END;
+	}
+	static FName NAME_ALateForWorkCharacter_InteractButtonPressed = FName(TEXT("InteractButtonPressed"));
+	void ALateForWorkCharacter::InteractButtonPressed()
+	{
+		ProcessEvent(FindFunctionChecked(NAME_ALateForWorkCharacter_InteractButtonPressed),NULL);
+	}
 	void ALateForWorkCharacter::StaticRegisterNativesALateForWorkCharacter()
 	{
+		UClass* Class = ALateForWorkCharacter::StaticClass();
+		static const FNameNativePtrPair Funcs[] = {
+			{ "InteractButtonPressed", &ALateForWorkCharacter::execInteractButtonPressed },
+		};
+		FNativeFunctionRegistrar::RegisterFunctions(Class, Funcs, UE_ARRAY_COUNT(Funcs));
+	}
+	struct Z_Construct_UFunction_ALateForWorkCharacter_InteractButtonPressed_Statics
+	{
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam Function_MetaDataParams[];
+#endif
+		static const UE4CodeGen_Private::FFunctionParams FuncParams;
+	};
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UFunction_ALateForWorkCharacter_InteractButtonPressed_Statics::Function_MetaDataParams[] = {
+		{ "Category", "C++ Functions" },
+		{ "ModuleRelativePath", "LateForWorkCharacter.h" },
+	};
+#endif
+	const UE4CodeGen_Private::FFunctionParams Z_Construct_UFunction_ALateForWorkCharacter_InteractButtonPressed_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_ALateForWorkCharacter, nullptr, "InteractButtonPressed", nullptr, nullptr, 0, nullptr, 0, RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x08020C00, 0, 0, METADATA_PARAMS(Z_Construct_UFunction_ALateForWorkCharacter_InteractButtonPressed_Statics::Function_MetaDataParams, UE_ARRAY_COUNT(Z_Construct_UFunction_ALateForWorkCharacter_InteractButtonPressed_Statics::Function_MetaDataParams)) };
+	UFunction* Z_Construct_UFunction_ALateForWorkCharacter_InteractButtonPressed()
+	{
+		static UFunction* ReturnFunction = nullptr;
+		if (!ReturnFunction)
+		{
+			UE4CodeGen_Private::ConstructUFunction(ReturnFunction, Z_Construct_UFunction_ALateForWorkCharacter_InteractButtonPressed_Statics::FuncParams);
+		}
+		return ReturnFunction;
 	}
 	UClass* Z_Construct_UClass_ALateForWorkCharacter_NoRegister()
 	{
@@ -31,6 +71,7 @@ void EmptyLinkFunctionForGeneratedCodeLateForWorkCharacter() {}
 	struct Z_Construct_UClass_ALateForWorkCharacter_Statics
 	{
 		static UObject* (*const DependentSingletons[])();
+		static const FClassFunctionLinkInfo FuncInfo[];
 #if WITH_METADATA
 		static const UE4CodeGen_Private::FMetaDataPairParam Class_MetaDataParams[];
 #endif
@@ -57,6 +98,9 @@ void EmptyLinkFunctionForGeneratedCodeLateForWorkCharacter() {}
 	UObject* (*const Z_Construct_UClass_ALateForWorkCharacter_Statics::DependentSingletons[])() = {
 		(UObject* (*)())Z_Construct_UClass_ACharacter,
 		(UObject* (*)())Z_Construct_UPackage__Script_LateForWork,
+	};
+	const FClassFunctionLinkInfo Z_Construct_UClass_ALateForWorkCharacter_Statics::FuncInfo[] = {
+		{ &Z_Construct_UFunction_ALateForWorkCharacter_InteractButtonPressed, "InteractButtonPressed" }, // 854837887
 	};
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_ALateForWorkCharacter_Statics::Class_MetaDataParams[] = {
@@ -122,11 +166,11 @@ void EmptyLinkFunctionForGeneratedCodeLateForWorkCharacter() {}
 		"Game",
 		&StaticCppClassTypeInfo,
 		DependentSingletons,
-		nullptr,
+		FuncInfo,
 		Z_Construct_UClass_ALateForWorkCharacter_Statics::PropPointers,
 		nullptr,
 		UE_ARRAY_COUNT(DependentSingletons),
-		0,
+		UE_ARRAY_COUNT(FuncInfo),
 		UE_ARRAY_COUNT(Z_Construct_UClass_ALateForWorkCharacter_Statics::PropPointers),
 		0,
 		0x008000A4u,
@@ -141,7 +185,7 @@ void EmptyLinkFunctionForGeneratedCodeLateForWorkCharacter() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(ALateForWorkCharacter, 1998047627);
+	IMPLEMENT_CLASS(ALateForWorkCharacter, 4274353489);
 	template<> LATEFORWORK_API UClass* StaticClass<ALateForWorkCharacter>()
 	{
 		return ALateForWorkCharacter::StaticClass();

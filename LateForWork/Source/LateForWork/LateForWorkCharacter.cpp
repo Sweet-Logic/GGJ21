@@ -115,6 +115,11 @@ void ALateForWorkCharacter::Tick(float DeltaSeconds)
 	}
 }
 
+void ALateForWorkCharacter::InteractButtonPressed_Implementation()
+{
+
+}
+
 
 //Action Mappings
 void ALateForWorkCharacter::InteractPressed()

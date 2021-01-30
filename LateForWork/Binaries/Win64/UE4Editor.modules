@@ -2,6 +2,10 @@
 	"BuildId": "14830424",
 	"Modules": 
 	{
+<<<<<<< HEAD
+		"LateForWork": "UE4Editor-LateForWork-0006.dll"
+=======
 		"LateForWork": "UE4Editor-LateForWork-3842.dll"
+>>>>>>> main
 	}
 }
