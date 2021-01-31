@@ -26,6 +26,15 @@ void ALateForWorkPlayerController::SetupInputComponent()
 	// set up gameplay key bindings
 	Super::SetupInputComponent();
 
+	InputComponent->BindAction("UIBack", EInputEvent::IE_Pressed, this, &ALateForWorkPlayerController::UIBackPressed);
+	InputComponent->BindAction("UIBack", EInputEvent::IE_Released, this, &ALateForWorkPlayerController::UIBackReleased);
+
+	InputComponent->BindAction("UISelect", EInputEvent::IE_Pressed, this, &ALateForWorkPlayerController::UISelectPressed);
+	InputComponent->BindAction("UISelect", EInputEvent::IE_Released, this, &ALateForWorkPlayerController::UISelectReleased);
+
+	InputComponent->BindAxis("UIUp", this, &ALateForWorkPlayerController::OnUIUpPressed);
+
+	InputComponent->BindAxis("UIRight", this, &ALateForWorkPlayerController::OnUIRightPressed);
 }
 
 //Action Mappings
@@ -33,7 +42,6 @@ void ALateForWorkPlayerController::SetupInputComponent()
 //Input handlers for UI Back
 void ALateForWorkPlayerController::UIBackPressed()
 {
-	GEngine->AddOnScreenDebugMessage(-1, 5.f, FColor::Cyan, TEXT("UI Back, But there is no functionality yet!"));
 }
 
 void ALateForWorkPlayerController::UIBackReleased()
@@ -43,8 +51,6 @@ void ALateForWorkPlayerController::UIBackReleased()
 //Input handlers for UI Select
 void ALateForWorkPlayerController::UISelectPressed()
 {
-	GEngine->AddOnScreenDebugMessage(-1, 5.f, FColor::Cyan, TEXT("UI Select, But there is no functionality yet!"));
-
 }
 
 void ALateForWorkPlayerController::UISelectReleased()
@@ -53,24 +59,10 @@ void ALateForWorkPlayerController::UISelectReleased()
 
 //Axis Mappings
 //Input handlers for UI Up
-void ALateForWorkPlayerController::OnUIUpPressed()
+void ALateForWorkPlayerController::OnUIUpPressed(float Value)
 {
-	GEngine->AddOnScreenDebugMessage(-1, 5.f, FColor::Cyan, TEXT("OnUIUpPressed, But there is no functionality yet!"));
-
 }
-
-void ALateForWorkPlayerController::OnUIUpReleased()
-{
-
-}
-
 //Input handlers for UI Right
-void ALateForWorkPlayerController::OnUIRightPressed()
+void ALateForWorkPlayerController::OnUIRightPressed(float Value)
 {
-	GEngine->AddOnScreenDebugMessage(-1, 5.f, FColor::Cyan, TEXT("OnUIRightPressed, But there is no functionality yet!"));
-}
-
-void ALateForWorkPlayerController::OnUIRightRealease()
-{
-
 }
