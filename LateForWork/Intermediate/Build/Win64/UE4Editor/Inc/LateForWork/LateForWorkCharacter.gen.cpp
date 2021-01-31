@@ -19,7 +19,6 @@ void EmptyLinkFunctionForGeneratedCodeLateForWorkCharacter() {}
 	UPackage* Z_Construct_UPackage__Script_LateForWork();
 	ENGINE_API UClass* Z_Construct_UClass_UCameraComponent_NoRegister();
 	ENGINE_API UClass* Z_Construct_UClass_USpringArmComponent_NoRegister();
-	ENGINE_API UClass* Z_Construct_UClass_UDecalComponent_NoRegister();
 // End Cross Module References
 	DEFINE_FUNCTION(ALateForWorkCharacter::execInteractButtonPressed)
 	{
@@ -84,10 +83,6 @@ void EmptyLinkFunctionForGeneratedCodeLateForWorkCharacter() {}
 #endif
 		static const UE4CodeGen_Private::FObjectPropertyParams NewProp_CameraBoom;
 #if WITH_METADATA
-		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_CursorToWorld_MetaData[];
-#endif
-		static const UE4CodeGen_Private::FObjectPropertyParams NewProp_CursorToWorld;
-#if WITH_METADATA
 		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_m_movementSpeed_MetaData[];
 #endif
 		static const UE4CodeGen_Private::FFloatPropertyParams NewProp_m_movementSpeed;
@@ -134,17 +129,6 @@ void EmptyLinkFunctionForGeneratedCodeLateForWorkCharacter() {}
 #endif
 	const UE4CodeGen_Private::FObjectPropertyParams Z_Construct_UClass_ALateForWorkCharacter_Statics::NewProp_CameraBoom = { "CameraBoom", nullptr, (EPropertyFlags)0x00400000000a001d, UE4CodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(ALateForWorkCharacter, CameraBoom), Z_Construct_UClass_USpringArmComponent_NoRegister, METADATA_PARAMS(Z_Construct_UClass_ALateForWorkCharacter_Statics::NewProp_CameraBoom_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_ALateForWorkCharacter_Statics::NewProp_CameraBoom_MetaData)) };
 #if WITH_METADATA
-	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_ALateForWorkCharacter_Statics::NewProp_CursorToWorld_MetaData[] = {
-		{ "AllowPrivateAccess", "true" },
-		{ "Category", "Camera" },
-		{ "Comment", "/** A decal that projects to the cursor location. */" },
-		{ "EditInline", "true" },
-		{ "ModuleRelativePath", "LateForWorkCharacter.h" },
-		{ "ToolTip", "A decal that projects to the cursor location." },
-	};
-#endif
-	const UE4CodeGen_Private::FObjectPropertyParams Z_Construct_UClass_ALateForWorkCharacter_Statics::NewProp_CursorToWorld = { "CursorToWorld", nullptr, (EPropertyFlags)0x00400000000a001d, UE4CodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(ALateForWorkCharacter, CursorToWorld), Z_Construct_UClass_UDecalComponent_NoRegister, METADATA_PARAMS(Z_Construct_UClass_ALateForWorkCharacter_Statics::NewProp_CursorToWorld_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_ALateForWorkCharacter_Statics::NewProp_CursorToWorld_MetaData)) };
-#if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_ALateForWorkCharacter_Statics::NewProp_m_movementSpeed_MetaData[] = {
 		{ "AllowPrivateAccess", "true" },
 		{ "Category", "Movement" },
@@ -155,7 +139,6 @@ void EmptyLinkFunctionForGeneratedCodeLateForWorkCharacter() {}
 	const UE4CodeGen_Private::FPropertyParamsBase* const Z_Construct_UClass_ALateForWorkCharacter_Statics::PropPointers[] = {
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ALateForWorkCharacter_Statics::NewProp_TopDownCameraComponent,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ALateForWorkCharacter_Statics::NewProp_CameraBoom,
-		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ALateForWorkCharacter_Statics::NewProp_CursorToWorld,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ALateForWorkCharacter_Statics::NewProp_m_movementSpeed,
 	};
 	const FCppClassTypeInfoStatic Z_Construct_UClass_ALateForWorkCharacter_Statics::StaticCppClassTypeInfo = {
@@ -185,7 +168,7 @@ void EmptyLinkFunctionForGeneratedCodeLateForWorkCharacter() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(ALateForWorkCharacter, 4274353489);
+	IMPLEMENT_CLASS(ALateForWorkCharacter, 2724302200);
 	template<> LATEFORWORK_API UClass* StaticClass<ALateForWorkCharacter>()
 	{
 		return ALateForWorkCharacter::StaticClass();
