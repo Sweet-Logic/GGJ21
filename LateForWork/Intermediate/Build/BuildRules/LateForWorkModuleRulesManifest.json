@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\KIWe\\Projects\\GGJ\\2021\\GGJ21\\LateForWork\\Source\\LateForWork\\LateForWork.Build.cs",
-		"C:\\Users\\KIWe\\Projects\\GGJ\\2021\\GGJ21\\LateForWork\\Source\\LateForWork.Target.cs",
-		"C:\\Users\\KIWe\\Projects\\GGJ\\2021\\GGJ21\\LateForWork\\Source\\LateForWorkEditor.Target.cs"
+		"E:\\Users\\ash\\Dev\\Unreal\\GGJ21\\LateForWork\\Source\\LateForWork\\LateForWork.Build.cs",
+		"E:\\Users\\ash\\Dev\\Unreal\\GGJ21\\LateForWork\\Source\\LateForWork.Target.cs",
+		"E:\\Users\\ash\\Dev\\Unreal\\GGJ21\\LateForWork\\Source\\LateForWorkEditor.Target.cs"
 	],
 	"EngineVersion": "4.26.0"
 }
