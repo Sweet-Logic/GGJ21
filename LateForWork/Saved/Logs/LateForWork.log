@@ -878,3 +878,1140 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.01.31-12.10.29:610][979]LogSlate: Window 'S_Outcome' being destroyed
 [2021.01.31-12.10.31:241][112]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/Blueprints/S_Objective.S_Objective
 [2021.01.31-12.10.34:964][365]LogSlate: Window 'S_Objective' being destroyed
+[2021.01.31-12.14.12:944][124]LogSourceControl: Writed 'C:/Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Saved/Diff/temp-0b248e78f9055cb58ac60a155030f3790d753c72-GMBP_MainGame.uasset' (273826o)
+[2021.01.31-12.14.36:881][ 51]LogSlate: Window 'GMBP_MainGame - Blueprint Diff' being destroyed
+[2021.01.31-12.14.40:411][377]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/Blueprints/DT_Scenario.DT_Scenario
+[2021.01.31-12.14.42:742][480]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/DT_Scenario" FILE="../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/DT_Scenario.uasset" SILENT=true
+[2021.01.31-12.14.42:747][480]LogSavePackage: Moving '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Saved/DT_Scenario01D28DDE4F3763EBD63E3AAA9924E8FE.tmp' to '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/DT_Scenario.uasset'
+[2021.01.31-12.14.42:762][480]AssetCheck: New page: Asset Save: DT_Scenario
+[2021.01.31-12.14.42:762][480]LogContentValidation: Display: Validating DataTable /Game/Blueprints/DT_Scenario.DT_Scenario
+[2021.01.31-12.14.46:948][758]LogSlate: Window 'DT_Scenario' being destroyed
+[2021.01.31-12.14.46:958][758]LogSlate: Window 'DT_Scenario' being destroyed
+[2021.01.31-12.20.28:381][412]BlueprintLog: New page: Compile GMBP_MainGame
+[2021.01.31-12.20.28:487][412]LogUObjectHash: Compacting FUObjectHashTables data took   4.90ms
+[2021.01.31-12.20.28:628][412]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GMBP_MainGame" FILE="../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/GMBP_MainGame.uasset" SILENT=true
+[2021.01.31-12.20.28:687][412]LogSavePackage: Moving '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Saved/GMBP_MainGame303D6B614FF359B0A16EB6844E0BA7DE.tmp' to '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/GMBP_MainGame.uasset'
+[2021.01.31-12.20.28:787][412]AssetCheck: New page: Asset Save: GMBP_MainGame
+[2021.01.31-12.20.28:787][412]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/GMBP_MainGame.GMBP_MainGame
+[2021.01.31-12.23.14:698][152]BlueprintLog: New page: Compile GMBP_MainGame
+[2021.01.31-12.23.14:709][152]LogBlueprint: Warning: [AssetLog] C:\Users\KIWe\Projects\GGJ\2021\GGJ21\LateForWork\Content\Blueprints\GMBP_MainGame.uasset: [Compiler] Keys  was pruned because its Exec pin is not connected, the connected value is not available and will instead be read as default
+[2021.01.31-12.23.14:714][152]LogBlueprint: Error: [AssetLog] C:\Users\KIWe\Projects\GGJ\2021\GGJ21\LateForWork\Content\Blueprints\GMBP_MainGame.uasset: [Compiler] The current value of the ' Target Array generated from expanding For Each Loop with Break ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2021.01.31-12.23.14:790][152]LogUObjectHash: Compacting FUObjectHashTables data took   4.39ms
+[2021.01.31-12.23.14:957][152]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GMBP_MainGame" FILE="../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/GMBP_MainGame.uasset" SILENT=true
+[2021.01.31-12.23.15:016][152]LogSavePackage: Moving '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Saved/GMBP_MainGame1DC7C38F48C61FC9A68C3DA5F0E622BA.tmp' to '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/GMBP_MainGame.uasset'
+[2021.01.31-12.23.15:032][152]AssetCheck: New page: Asset Save: GMBP_MainGame
+[2021.01.31-12.23.15:032][152]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/GMBP_MainGame.GMBP_MainGame
+[2021.01.31-12.23.40:468][375]BlueprintLog: New page: Compile GMBP_MainGame
+[2021.01.31-12.23.40:547][375]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2021.01.31-12.23.40:692][375]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GMBP_MainGame" FILE="../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/GMBP_MainGame.uasset" SILENT=true
+[2021.01.31-12.23.40:754][375]LogSavePackage: Moving '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Saved/GMBP_MainGame4367CB1D41A68F345075109655E2627A.tmp' to '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/GMBP_MainGame.uasset'
+[2021.01.31-12.23.40:769][375]AssetCheck: New page: Asset Save: GMBP_MainGame
+[2021.01.31-12.23.40:769][375]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/GMBP_MainGame.GMBP_MainGame
+[2021.01.31-12.24.10:044][840]LogSlate: Window 'Change Variable Type' being destroyed
+[2021.01.31-12.24.12:066][  1]LogSlate: Window 'Find in Blueprints' being destroyed
+[2021.01.31-12.24.12:073][  1]LogSlate: Window 'Find in Blueprints' being destroyed
+[2021.01.31-12.28.59:473][723]BlueprintLog: New page: Compile GMBP_MainGame
+[2021.01.31-12.28.59:563][723]LogUObjectHash: Compacting FUObjectHashTables data took   4.45ms
+[2021.01.31-12.28.59:711][723]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GMBP_MainGame" FILE="../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/GMBP_MainGame.uasset" SILENT=true
+[2021.01.31-12.28.59:782][723]LogSavePackage: Moving '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Saved/GMBP_MainGameB42E9500445E2C006D6BC78FCA6415C1.tmp' to '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/GMBP_MainGame.uasset'
+[2021.01.31-12.28.59:796][723]AssetCheck: New page: Asset Save: GMBP_MainGame
+[2021.01.31-12.28.59:797][723]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/GMBP_MainGame.GMBP_MainGame
+[2021.01.31-12.29.00:295][746]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GMBP_MainGame" FILE="../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/GMBP_MainGame.uasset" SILENT=true
+[2021.01.31-12.29.00:366][746]LogSavePackage: Moving '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Saved/GMBP_MainGame21B25C8842A4F8D50FC517BCA7404932.tmp' to '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/GMBP_MainGame.uasset'
+[2021.01.31-12.29.00:380][746]AssetCheck: New page: Asset Save: GMBP_MainGame
+[2021.01.31-12.29.00:380][746]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/GMBP_MainGame.GMBP_MainGame
+[2021.01.31-12.29.08:495][466]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GMBP_MainGame" FILE="../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/GMBP_MainGame.uasset" SILENT=true
+[2021.01.31-12.29.08:566][466]LogSavePackage: Moving '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Saved/GMBP_MainGame7CD798214382466BD86B2788D987920F.tmp' to '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/GMBP_MainGame.uasset'
+[2021.01.31-12.29.08:583][466]AssetCheck: New page: Asset Save: GMBP_MainGame
+[2021.01.31-12.29.08:583][466]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/GMBP_MainGame.GMBP_MainGame
+[2021.01.31-12.30.46:271][610]LogUObjectHash: Compacting FUObjectHashTables data took   4.09ms
+[2021.01.31-12.30.46:272][610]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDownCPP/Maps/TopDownExampleMap' took 0.034
+[2021.01.31-12.30.46:272][610]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/GMBP_MainGame] ([1] browsable assets)...
+[2021.01.31-12.30.46:272][610]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/GMBP_MainGame]
+[2021.01.31-12.30.46:345][610]LogSavePackage: Moving '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Saved/GMBP_MainGame_Auto25815E690455775D5E4FAFE8D9891111F.tmp' to '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Saved/Autosaves/Game/Blueprints/GMBP_MainGame_Auto2.uasset'
+[2021.01.31-12.30.46:347][610]LogFileHelpers: Auto-saving content packages took 0.075
+[2021.01.31-12.31.49:910][771]BlueprintLog: New page: Compile GMBP_MainGame
+[2021.01.31-12.31.50:000][771]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2021.01.31-12.31.50:153][771]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GMBP_MainGame" FILE="../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/GMBP_MainGame.uasset" SILENT=true
+[2021.01.31-12.31.50:224][771]LogSavePackage: Moving '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Saved/GMBP_MainGameF6C9CACE4408308D5E1D18A15A45B42B.tmp' to '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/GMBP_MainGame.uasset'
+[2021.01.31-12.31.50:239][771]AssetCheck: New page: Asset Save: GMBP_MainGame
+[2021.01.31-12.31.50:239][771]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/GMBP_MainGame.GMBP_MainGame
+[2021.01.31-12.31.50:638][786]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GMBP_MainGame" FILE="../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/GMBP_MainGame.uasset" SILENT=true
+[2021.01.31-12.31.50:708][786]LogSavePackage: Moving '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Saved/GMBP_MainGame4A487AF84728D94471ACEF894191D15E.tmp' to '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/GMBP_MainGame.uasset'
+[2021.01.31-12.31.50:722][786]AssetCheck: New page: Asset Save: GMBP_MainGame
+[2021.01.31-12.31.50:722][786]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/GMBP_MainGame.GMBP_MainGame
+[2021.01.31-12.38.14:674][990]BlueprintLog: New page: Compile GMBP_MainGame
+[2021.01.31-12.38.14:770][990]LogUObjectHash: Compacting FUObjectHashTables data took   4.35ms
+[2021.01.31-12.38.14:928][990]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GMBP_MainGame" FILE="../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/GMBP_MainGame.uasset" SILENT=true
+[2021.01.31-12.38.14:999][990]LogSavePackage: Moving '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Saved/GMBP_MainGame80B51B8B415CE3CDAA7F9AB89AE47D6A.tmp' to '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/GMBP_MainGame.uasset'
+[2021.01.31-12.38.15:013][990]AssetCheck: New page: Asset Save: GMBP_MainGame
+[2021.01.31-12.38.15:013][990]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/GMBP_MainGame.GMBP_MainGame
+[2021.01.31-12.38.15:528][ 10]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GMBP_MainGame" FILE="../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/GMBP_MainGame.uasset" SILENT=true
+[2021.01.31-12.38.15:600][ 10]LogSavePackage: Moving '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Saved/GMBP_MainGameC391FF5B445069B1793CC89A40B01946.tmp' to '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/GMBP_MainGame.uasset'
+[2021.01.31-12.38.15:614][ 10]AssetCheck: New page: Asset Save: GMBP_MainGame
+[2021.01.31-12.38.15:614][ 10]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/GMBP_MainGame.GMBP_MainGame
+[2021.01.31-12.38.24:969][787]LogUObjectHash: Compacting FUObjectHashTables data took   3.89ms
+[2021.01.31-12.38.28:769][787]LogSlate: Window 'Save Content' being destroyed
+[2021.01.31-12.38.28:999][787]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/S_Scenerio" FILE="../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/S_Scenerio.uasset" SILENT=true
+[2021.01.31-12.38.29:001][787]LogSavePackage: Moving '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Saved/S_Scenerio56F2A44C4FFF24CB5D337FA5BA8E307B.tmp' to '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/S_Scenerio.uasset'
+[2021.01.31-12.38.29:093][787]LogSavePackage: Moving '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Saved/TopDownCharacter9F825303495A581DAF2BF3BBD140DD56.tmp' to '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset'
+[2021.01.31-12.38.29:184][787]LogLinker: Warning: [AssetLog] C:\Users\KIWe\Projects\GGJ\2021\GGJ21\LateForWork\Content\Levels\HouseTest.umap: Failed to load '/Game/Levels/HouseTest_BuiltData': Can't find file.
+[2021.01.31-12.38.29:185][787]LogLinker: Warning: [AssetLog] C:\Users\KIWe\Projects\GGJ\2021\GGJ21\LateForWork\Content\Levels\HouseTest.umap: Failed to load '/Game/Levels/HouseTest_BuiltData': Can't find file.
+[2021.01.31-12.38.29:191][787]LogLinker: Warning: [AssetLog] C:\Users\KIWe\Projects\GGJ\2021\GGJ21\LateForWork\Content\Levels\HouseTest.umap: Failed to load '/Game/Levels/HouseTest_BuiltData': Can't find file.
+[2021.01.31-12.38.29:257][787]LogLinker: Warning: Failed to load '/Game/Levels/HouseTest_BuiltData': Can't find file.
+[2021.01.31-12.38.29:257][787]LogLinker: Warning: Failed to load '/Game/Levels/HouseTest_BuiltData': Can't find file.
+[2021.01.31-12.38.29:302][787]LogLinker: Warning: [AssetLog] C:\Users\KIWe\Projects\GGJ\2021\GGJ21\LateForWork\Content\Levels\HouseTest.umap: Failed to load '/Game/Levels/HouseTest_BuiltData': Can't find file.
+[2021.01.31-12.38.29:302][787]LoadErrors: Failed to load /Game/Levels/HouseTest_BuiltData.HouseTest_BuiltData Referenced by PersistentLevel
+[2021.01.31-12.38.29:544][787]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/HouseTest.HouseTest
+[2021.01.31-12.38.29:544][787]Cmd: MAP LOAD FILE="../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Levels/HouseTest.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.01.31-12.38.29:544][787]LightingResults: New page: Lighting Build
+[2021.01.31-12.38.29:548][787]LoadErrors: New page: Loading map: HouseTest.umap
+[2021.01.31-12.38.29:590][787]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-12.38.29:590][787]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-12.38.29:590][787]MapCheck: New page: Map Check
+[2021.01.31-12.38.29:590][787]LightingResults: New page: Lighting Build
+[2021.01.31-12.38.29:620][787]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.31-12.38.29:631][787]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2021.01.31-12.38.29:633][787]LogAudio: Display: Audio Device (ID: 1) registered with world 'HouseTest'.
+[2021.01.31-12.38.29:646][787]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.01.31-12.38.29:646][787]LogAIModule: Creating AISystem for world HouseTest
+[2021.01.31-12.38.29:677][787]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2021.01.31-12.38.29:689][787]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.01.31-12.38.29:689][787]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.201ms to complete.
+[2021.01.31-12.38.29:689][787]LogFileHelpers: Loading map 'HouseTest' took 0.145
+[2021.01.31-12.38.29:721][787]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.31-12.38.29:721][787]LogContentValidation: Display: Validating Blueprint /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter
+[2021.01.31-12.38.29:721][787]LogContentValidation: Display: Validating UserDefinedStruct /Game/Blueprints/S_Scenerio.S_Scenerio
+[2021.01.31-12.38.31:043][870]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_House_Interior_Floor_11)
+[2021.01.31-12.38.33:698][ 94]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.31-12.38.33:713][ 94]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.01.31-12.38.33:715][ 94]LogPlayLevel: [PlayLevel] Compiling GMBP_MainGame before play...
+[2021.01.31-12.38.33:734][ 94]LogPlayLevel: [PlayLevel]   Compiling TopDownCharacter as a dependent...
+[2021.01.31-12.38.33:851][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   4.04ms
+[2021.01.31-12.38.33:853][ 94]LogPlayLevel: PlayLevel: Blueprint regeneration took 140 ms (2 blueprints)
+[2021.01.31-12.38.33:855][ 94]PIE: New page: PIE session: HouseTest (31 Jan 2021, 12:38:33)
+[2021.01.31-12.38.33:863][ 94]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.01.31-12.38.33:866][ 94]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.01.31-12.38.33:868][ 94]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_HouseTest
+[2021.01.31-12.38.33:883][ 94]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014142s)
+[2021.01.31-12.38.33:884][ 94]LogAIModule: Creating AISystem for world HouseTest
+[2021.01.31-12.38.33:885][ 94]LogPlayLevel: PIE: World Init took: (0.002167s)
+[2021.01.31-12.38.33:885][ 94]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/HouseTest.HouseTest to /Game/Levels/UEDPIE_0_HouseTest.HouseTest (0.017246s)
+[2021.01.31-12.38.33:912][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2021.01.31-12.38.33:915][ 94]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.01.31-12.38.33:915][ 94]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.31-12.38.33:915][ 94]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.31-12.38.33:915][ 94]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.31-12.38.33:915][ 94]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.31-12.38.33:915][ 94]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.31-12.38.33:915][ 94]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.31-12.38.33:915][ 94]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.31-12.38.33:915][ 94]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.31-12.38.33:915][ 94]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.31-12.38.33:915][ 94]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.31-12.38.33:924][ 94]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.31-12.38.33:924][ 94]LogAudioMixer: Display: 1: FrontRight
+[2021.01.31-12.38.33:939][ 94]LogAudioMixer: Display: Using Audio Device Headphones (Arctis 7 Game)
+[2021.01.31-12.38.33:939][ 94]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.31-12.38.33:939][ 94]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.31-12.38.33:939][ 94]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.31-12.38.33:940][ 94]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.31-12.38.33:940][ 94]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.31-12.38.33:940][ 94]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.31-12.38.33:954][ 94]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.31-12.38.33:954][ 94]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.31-12.38.33:955][ 94]LogInit: FAudioDevice initialized.
+[2021.01.31-12.38.33:955][ 94]LogAudio: Display: Audio Device (ID: 2) registered with world 'HouseTest'.
+[2021.01.31-12.38.33:975][ 94]LogLoad: Game class is 'GMBP_MainGame_C'
+[2021.01.31-12.38.33:989][ 94]LogWorld: Bringing World /Game/Levels/UEDPIE_0_HouseTest.HouseTest up for play (max tick rate 0) at 2021.01.31-12.38.33
+[2021.01.31-12.38.33:991][ 94]LogWorld: Bringing up level for play took: 0.006482
+[2021.01.31-12.38.33:992][ 94]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2021.01.31-12.38.34:018][ 94]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 20 classes and 0 folders.
+[2021.01.31-12.38.34:044][ 94]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2021.01.31-12.38.34:044][ 94]LogScript: Warning: Script Msg: Attempted to access index 6 from array 'Pickups' of length 6 in '/Game/Levels/HouseTest.HouseTest_C'!
+[2021.01.31-12.38.34:044][ 94]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2021.01.31-12.38.34:059][ 94]PIE: Server logged in
+[2021.01.31-12.38.34:061][ 94]PIE: Play in editor total start time 0.357 seconds.
+[2021.01.31-12.38.34:071][ 94]LogInput: Error: Duplicate mapping of key Gamepad_LeftX for axis MoveRight
+[2021.01.31-12.38.34:072][ 94]LogInput: Error: Duplicate mapping of key Gamepad_LeftY for axis MoveForward
+[2021.01.31-12.38.34:072][ 94]LogInput: Error: Duplicate mapping of key Gamepad_LeftY for axis UIUp
+[2021.01.31-12.38.34:072][ 94]LogInput: Error: Duplicate mapping of key Gamepad_LeftX for axis UIRight
+[2021.01.31-12.38.41:739][798]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-12.38.41:739][798]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_HouseTest
+[2021.01.31-12.38.41:740][798]LogWorld: UWorld::CleanupWorld for HouseTest, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-12.38.41:742][798]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-12.38.41:750][798]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.31-12.38.41:771][798]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-12.38.41:806][798]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-12.38.41:809][798]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.31-12.38.41:811][798]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.31-12.38.41:879][798]LogUObjectHash: Compacting FUObjectHashTables data took   4.92ms
+[2021.01.31-12.38.41:922][799]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2021.01.31-12.39.06:657][789]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.31-12.39.06:665][789]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.31-12.39.06:665][789]PIE: New page: PIE session: HouseTest (31 Jan 2021, 12:39:06)
+[2021.01.31-12.39.06:705][789]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_HouseTest
+[2021.01.31-12.39.06:717][789]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012767s)
+[2021.01.31-12.39.06:718][789]LogAIModule: Creating AISystem for world HouseTest
+[2021.01.31-12.39.06:719][789]LogPlayLevel: PIE: World Init took: (0.001148s)
+[2021.01.31-12.39.06:719][789]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/HouseTest.HouseTest to /Game/Levels/UEDPIE_0_HouseTest.HouseTest (0.014103s)
+[2021.01.31-12.39.06:781][789]LogUObjectHash: Compacting FUObjectHashTables data took   4.24ms
+[2021.01.31-12.39.06:782][789]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.01.31-12.39.06:782][789]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.31-12.39.06:782][789]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.31-12.39.06:782][789]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.31-12.39.06:782][789]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.31-12.39.06:782][789]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.31-12.39.06:782][789]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.31-12.39.06:782][789]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.31-12.39.06:782][789]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.31-12.39.06:782][789]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.31-12.39.06:782][789]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.31-12.39.06:789][789]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.31-12.39.06:789][789]LogAudioMixer: Display: 1: FrontRight
+[2021.01.31-12.39.06:803][789]LogAudioMixer: Display: Using Audio Device Headphones (Arctis 7 Game)
+[2021.01.31-12.39.06:803][789]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.31-12.39.06:803][789]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.31-12.39.06:803][789]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.31-12.39.06:803][789]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.31-12.39.06:803][789]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.31-12.39.06:803][789]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.31-12.39.06:819][789]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.31-12.39.06:819][789]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.31-12.39.06:819][789]LogInit: FAudioDevice initialized.
+[2021.01.31-12.39.06:819][789]LogAudio: Display: Audio Device (ID: 3) registered with world 'HouseTest'.
+[2021.01.31-12.39.06:825][789]LogLoad: Game class is 'GMBP_MainGame_C'
+[2021.01.31-12.39.06:831][789]LogWorld: Bringing World /Game/Levels/UEDPIE_0_HouseTest.HouseTest up for play (max tick rate 0) at 2021.01.31-12.39.06
+[2021.01.31-12.39.06:831][789]LogWorld: Bringing up level for play took: 0.005359
+[2021.01.31-12.39.06:831][789]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2021.01.31-12.39.06:836][789]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2021.01.31-12.39.06:836][789]LogScript: Warning: Script Msg: Attempted to access index 6 from array 'Pickups' of length 6 in '/Game/Levels/HouseTest.HouseTest_C'!
+[2021.01.31-12.39.06:836][789]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2021.01.31-12.39.06:837][789]PIE: Server logged in
+[2021.01.31-12.39.06:838][789]PIE: Play in editor total start time 0.175 seconds.
+[2021.01.31-12.39.06:839][789]LogInput: Error: Duplicate mapping of key Gamepad_LeftX for axis MoveRight
+[2021.01.31-12.39.06:839][789]LogInput: Error: Duplicate mapping of key Gamepad_LeftY for axis MoveForward
+[2021.01.31-12.39.06:839][789]LogInput: Error: Duplicate mapping of key Gamepad_LeftY for axis UIUp
+[2021.01.31-12.39.06:839][789]LogInput: Error: Duplicate mapping of key Gamepad_LeftX for axis UIRight
+[2021.01.31-12.39.36:660][692]LogBlueprintUserMessages: [GMBP_MainGame_C_0] I dont know why. But I felt the urge to bring a bucket.
+[2021.01.31-12.39.36:661][692]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_2
+	GMBP_MainGame_C /Game/Levels/UEDPIE_0_HouseTest.HouseTest:PersistentLevel.GMBP_MainGame_C_0
+	Function /Game/Blueprints/GMBP_MainGame.GMBP_MainGame_C:ExecuteUbergraph_GMBP_MainGame:06FF
+[2021.01.31-12.39.36:661][692]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Blueprint:  GMBP_MainGame Function:  Execute Ubergraph GMBP Main Game Graph:  EventGraph Node:  Branch
+[2021.01.31-12.39.36:661][692]LogBlueprintUserMessages: [GMBP_MainGame_C_0] Time for the meeting with the boss!
+[2021.01.31-12.39.36:661][692]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_2
+	GMBP_MainGame_C /Game/Levels/UEDPIE_0_HouseTest.HouseTest:PersistentLevel.GMBP_MainGame_C_0
+	Function /Game/Blueprints/GMBP_MainGame.GMBP_MainGame_C:ExecuteUbergraph_GMBP_MainGame:06FF
+[2021.01.31-12.39.36:662][692]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Blueprint:  GMBP_MainGame Function:  Execute Ubergraph GMBP Main Game Graph:  EventGraph Node:  Branch
+[2021.01.31-12.39.36:662][692]LogBlueprintUserMessages: [GMBP_MainGame_C_0] Its time for the weekly football game!
+[2021.01.31-12.39.36:662][692]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_2
+	GMBP_MainGame_C /Game/Levels/UEDPIE_0_HouseTest.HouseTest:PersistentLevel.GMBP_MainGame_C_0
+	Function /Game/Blueprints/GMBP_MainGame.GMBP_MainGame_C:ExecuteUbergraph_GMBP_MainGame:06FF
+[2021.01.31-12.39.36:662][692]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Blueprint:  GMBP_MainGame Function:  Execute Ubergraph GMBP Main Game Graph:  EventGraph Node:  Branch
+[2021.01.31-12.39.36:662][692]LogBlueprintUserMessages: [GMBP_MainGame_C_0] The kids are here already! I hope they wont be too distracting.
+[2021.01.31-12.39.36:662][692]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_2
+	GMBP_MainGame_C /Game/Levels/UEDPIE_0_HouseTest.HouseTest:PersistentLevel.GMBP_MainGame_C_0
+	Function /Game/Blueprints/GMBP_MainGame.GMBP_MainGame_C:ExecuteUbergraph_GMBP_MainGame:06FF
+[2021.01.31-12.39.36:662][692]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Blueprint:  GMBP_MainGame Function:  Execute Ubergraph GMBP Main Game Graph:  EventGraph Node:  Branch
+[2021.01.31-12.40.06:656][603]PIE: Warning: The widget 'WBP_GameOver_C' was already added to the screen.
+[2021.01.31-12.40.38:477][742]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'CallFunc_Map_Values_Values' of length 7 in '/Game/Blueprints/GMBP_MainGame.GMBP_MainGame_C:ExecuteUbergraph_GMBP_MainGame'!
+[2021.01.31-12.40.41:486][ 43]LogNet: Browse: /Game/Levels/MainMenu
+[2021.01.31-12.40.41:487][ 43]LogLoad: LoadMap: /Game/Levels/MainMenu
+[2021.01.31-12.40.41:487][ 43]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_HouseTest
+[2021.01.31-12.40.41:488][ 43]LogWorld: UWorld::CleanupWorld for HouseTest, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-12.40.41:489][ 43]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-12.40.41:538][ 43]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.31-12.40.41:543][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2021.01.31-12.40.41:566][ 43]LogAudio: Display: Audio Device (ID: 3) registered with world 'MainMenu'.
+[2021.01.31-12.40.41:567][ 43]LogAIModule: Creating AISystem for world MainMenu
+[2021.01.31-12.40.41:568][ 43]LogLoad: Game class is 'GMBP_MainMenu_C'
+[2021.01.31-12.40.41:569][ 43]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2021.01.31-12.40.41
+[2021.01.31-12.40.41:569][ 43]LogWorld: Bringing up level for play took: 0.000499
+[2021.01.31-12.40.41:569][ 43]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.01.31-12.40.41:575][ 43]LogLoad: Took 0.087386 seconds to LoadMap(/Game/Levels/MainMenu)
+[2021.01.31-12.40.41:575][ 43]LogInput: Error: Duplicate mapping of key Gamepad_LeftX for axis MoveRight
+[2021.01.31-12.40.41:575][ 43]LogInput: Error: Duplicate mapping of key Gamepad_LeftY for axis MoveForward
+[2021.01.31-12.40.41:575][ 43]LogInput: Error: Duplicate mapping of key Gamepad_LeftY for axis UIUp
+[2021.01.31-12.40.41:575][ 43]LogInput: Error: Duplicate mapping of key Gamepad_LeftX for axis UIRight
+[2021.01.31-12.40.47:970][730]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-12.40.47:970][730]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainMenu
+[2021.01.31-12.40.47:971][730]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-12.40.47:971][730]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-12.40.47:984][730]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.31-12.40.47:997][730]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-12.40.48:024][730]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.31-12.40.48:024][730]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.31-12.40.48:025][730]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.31-12.40.48:042][730]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-12.40.48:045][730]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2021.01.31-12.40.48:189][731]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2021.01.31-12.42.48:451][152]BlueprintLog: New page: Compile GMBP_MainGame
+[2021.01.31-12.42.48:545][152]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2021.01.31-12.42.48:696][152]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GMBP_MainGame" FILE="../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/GMBP_MainGame.uasset" SILENT=true
+[2021.01.31-12.42.48:770][152]LogSavePackage: Moving '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Saved/GMBP_MainGame74AD2CA64FD3D0AB4D9897B789D68EB6.tmp' to '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/GMBP_MainGame.uasset'
+[2021.01.31-12.42.48:784][152]AssetCheck: New page: Asset Save: GMBP_MainGame
+[2021.01.31-12.42.48:784][152]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/GMBP_MainGame.GMBP_MainGame
+[2021.01.31-12.43.54:443][370]LogEditorTransaction: Undo Create Pin Link
+[2021.01.31-12.44.22:866][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GMBP_MainGame" FILE="../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/GMBP_MainGame.uasset" SILENT=true
+[2021.01.31-12.44.22:940][106]LogSavePackage: Moving '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Saved/GMBP_MainGame3C304CCD4766473D9B1DBEABF0D0D288.tmp' to '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/GMBP_MainGame.uasset'
+[2021.01.31-12.44.22:956][106]AssetCheck: New page: Asset Save: GMBP_MainGame
+[2021.01.31-12.44.22:956][106]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/GMBP_MainGame.GMBP_MainGame
+[2021.01.31-12.44.25:956][258]BlueprintLog: New page: Compile GMBP_MainGame
+[2021.01.31-12.44.26:046][258]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2021.01.31-12.44.31:761][623]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.31-12.44.31:769][623]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.31-12.44.31:769][623]PIE: New page: PIE session: HouseTest (31 Jan 2021, 12:44:31)
+[2021.01.31-12.44.31:769][623]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_HouseTest
+[2021.01.31-12.44.31:783][623]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013736s)
+[2021.01.31-12.44.31:784][623]LogAIModule: Creating AISystem for world HouseTest
+[2021.01.31-12.44.31:785][623]LogPlayLevel: PIE: World Init took: (0.001402s)
+[2021.01.31-12.44.31:785][623]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/HouseTest.HouseTest to /Game/Levels/UEDPIE_0_HouseTest.HouseTest (0.015313s)
+[2021.01.31-12.44.31:813][623]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2021.01.31-12.44.31:814][623]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.01.31-12.44.31:814][623]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.31-12.44.31:814][623]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.31-12.44.31:814][623]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.31-12.44.31:814][623]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.31-12.44.31:814][623]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.31-12.44.31:814][623]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.31-12.44.31:814][623]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.31-12.44.31:814][623]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.31-12.44.31:815][623]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.31-12.44.31:815][623]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.31-12.44.31:821][623]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.31-12.44.31:821][623]LogAudioMixer: Display: 1: FrontRight
+[2021.01.31-12.44.31:835][623]LogAudioMixer: Display: Using Audio Device Headphones (Arctis 7 Game)
+[2021.01.31-12.44.31:836][623]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.31-12.44.31:836][623]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.31-12.44.31:836][623]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.31-12.44.31:836][623]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.31-12.44.31:836][623]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.31-12.44.31:836][623]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.31-12.44.31:850][623]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.31-12.44.31:850][623]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.31-12.44.31:850][623]LogInit: FAudioDevice initialized.
+[2021.01.31-12.44.31:850][623]LogAudio: Display: Audio Device (ID: 4) registered with world 'HouseTest'.
+[2021.01.31-12.44.31:858][623]LogLoad: Game class is 'GMBP_MainGame_C'
+[2021.01.31-12.44.31:863][623]LogWorld: Bringing World /Game/Levels/UEDPIE_0_HouseTest.HouseTest up for play (max tick rate 0) at 2021.01.31-12.44.31
+[2021.01.31-12.44.31:864][623]LogWorld: Bringing up level for play took: 0.004917
+[2021.01.31-12.44.31:864][623]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2021.01.31-12.44.31:869][623]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2021.01.31-12.44.31:869][623]LogScript: Warning: Script Msg: Attempted to access index 6 from array 'Pickups' of length 6 in '/Game/Levels/HouseTest.HouseTest_C'!
+[2021.01.31-12.44.31:869][623]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2021.01.31-12.44.31:870][623]PIE: Server logged in
+[2021.01.31-12.44.31:871][623]PIE: Play in editor total start time 0.103 seconds.
+[2021.01.31-12.44.31:871][623]LogInput: Error: Duplicate mapping of key Gamepad_LeftX for axis MoveRight
+[2021.01.31-12.44.31:871][623]LogInput: Error: Duplicate mapping of key Gamepad_LeftY for axis MoveForward
+[2021.01.31-12.44.31:871][623]LogInput: Error: Duplicate mapping of key Gamepad_LeftY for axis UIUp
+[2021.01.31-12.44.31:871][623]LogInput: Error: Duplicate mapping of key Gamepad_LeftX for axis UIRight
+[2021.01.31-12.44.38:670][235]LogBlueprintUserMessages: [GMBP_MainGame_C_0] It's someone from the other teams birthday today.
+[2021.01.31-12.44.38:670][235]LogBlueprintUserMessages: [GMBP_MainGame_C_0] You left your house and headded to your car.
+[2021.01.31-12.44.38:670][235]LogBlueprintUserMessages: [GMBP_MainGame_C_0] Time for the meeting with the boss!
+[2021.01.31-12.44.38:670][235]LogBlueprintUserMessages: [GMBP_MainGame_C_0] The car is in the garage today. So I need to get the bus!
+[2021.01.31-12.45.00:645][ 60]LogSlate: Window 'Message Log' being destroyed
+[2021.01.31-12.45.00:654][ 60]LogSlate: Window 'Message Log' being destroyed
+[2021.01.31-12.45.04:787][410]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-12.45.04:787][410]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_HouseTest
+[2021.01.31-12.45.04:787][410]LogWorld: UWorld::CleanupWorld for HouseTest, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-12.45.04:788][410]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-12.45.04:794][410]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.31-12.45.04:804][410]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-12.45.04:828][410]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.31-12.45.04:828][410]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.31-12.45.04:829][410]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.31-12.45.04:849][410]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-12.45.04:853][410]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2021.01.31-12.45.04:894][411]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2021.01.31-12.45.05:861][479]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.31-12.45.05:869][479]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.31-12.45.05:869][479]PIE: New page: PIE session: HouseTest (31 Jan 2021, 12:45:05)
+[2021.01.31-12.45.05:869][479]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_HouseTest
+[2021.01.31-12.45.05:882][479]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012915s)
+[2021.01.31-12.45.05:883][479]LogAIModule: Creating AISystem for world HouseTest
+[2021.01.31-12.45.05:883][479]LogPlayLevel: PIE: World Init took: (0.001045s)
+[2021.01.31-12.45.05:883][479]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/HouseTest.HouseTest to /Game/Levels/UEDPIE_0_HouseTest.HouseTest (0.014157s)
+[2021.01.31-12.45.05:910][479]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2021.01.31-12.45.05:911][479]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2021.01.31-12.45.05:911][479]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.31-12.45.05:911][479]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.31-12.45.05:911][479]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.31-12.45.05:911][479]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.31-12.45.05:911][479]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.31-12.45.05:911][479]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.31-12.45.05:911][479]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.31-12.45.05:911][479]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.31-12.45.05:911][479]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.31-12.45.05:911][479]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.31-12.45.05:918][479]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.31-12.45.05:918][479]LogAudioMixer: Display: 1: FrontRight
+[2021.01.31-12.45.05:934][479]LogAudioMixer: Display: Using Audio Device Headphones (Arctis 7 Game)
+[2021.01.31-12.45.05:934][479]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.31-12.45.05:934][479]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.31-12.45.05:934][479]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.31-12.45.05:935][479]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.31-12.45.05:935][479]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.31-12.45.05:935][479]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.31-12.45.05:951][479]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.31-12.45.05:951][479]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.31-12.45.05:951][479]LogInit: FAudioDevice initialized.
+[2021.01.31-12.45.05:951][479]LogAudio: Display: Audio Device (ID: 5) registered with world 'HouseTest'.
+[2021.01.31-12.45.05:959][479]LogLoad: Game class is 'GMBP_MainGame_C'
+[2021.01.31-12.45.05:964][479]LogWorld: Bringing World /Game/Levels/UEDPIE_0_HouseTest.HouseTest up for play (max tick rate 0) at 2021.01.31-12.45.05
+[2021.01.31-12.45.05:965][479]LogWorld: Bringing up level for play took: 0.005014
+[2021.01.31-12.45.05:965][479]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2021.01.31-12.45.05:970][479]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2021.01.31-12.45.05:970][479]LogScript: Warning: Script Msg: Attempted to access index 6 from array 'Pickups' of length 6 in '/Game/Levels/HouseTest.HouseTest_C'!
+[2021.01.31-12.45.05:970][479]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2021.01.31-12.45.05:971][479]PIE: Server logged in
+[2021.01.31-12.45.05:972][479]PIE: Play in editor total start time 0.104 seconds.
+[2021.01.31-12.45.05:972][479]LogInput: Error: Duplicate mapping of key Gamepad_LeftX for axis MoveRight
+[2021.01.31-12.45.05:972][479]LogInput: Error: Duplicate mapping of key Gamepad_LeftY for axis MoveForward
+[2021.01.31-12.45.05:972][479]LogInput: Error: Duplicate mapping of key Gamepad_LeftY for axis UIUp
+[2021.01.31-12.45.05:973][479]LogInput: Error: Duplicate mapping of key Gamepad_LeftX for axis UIRight
+[2021.01.31-12.45.11:945][ 57]LogBlueprintUserMessages: [GMBP_MainGame_C_0] Time for the meeting with the boss!
+[2021.01.31-12.45.11:945][ 57]LogBlueprintUserMessages: [GMBP_MainGame_C_0] You left your house and headded to your car.
+[2021.01.31-12.45.11:946][ 57]LogBlueprintUserMessages: [GMBP_MainGame_C_0] Its time for the weekly football game!
+[2021.01.31-12.45.11:946][ 57]LogBlueprintUserMessages: [GMBP_MainGame_C_0] I had so much work yesterday, I took my laptop home.
+[2021.01.31-12.45.18:927][707]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-12.45.18:927][707]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_HouseTest
+[2021.01.31-12.45.18:927][707]LogWorld: UWorld::CleanupWorld for HouseTest, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-12.45.18:929][707]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-12.45.18:940][707]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.31-12.45.18:951][707]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-12.45.18:976][707]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-12.45.18:976][707]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.31-12.45.18:977][707]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.31-12.45.18:999][707]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2021.01.31-12.45.19:037][708]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2021.01.31-12.45.41:489][229]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GMBP_MainGame" FILE="../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/GMBP_MainGame.uasset" SILENT=true
+[2021.01.31-12.45.41:564][229]LogSavePackage: Moving '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Saved/GMBP_MainGame931C573D4CA2D97A94BE6087CD000BC2.tmp' to '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/GMBP_MainGame.uasset'
+[2021.01.31-12.45.41:578][229]AssetCheck: New page: Asset Save: GMBP_MainGame
+[2021.01.31-12.45.41:578][229]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/GMBP_MainGame.GMBP_MainGame
+[2021.01.31-12.45.49:688][830]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GMBP_MainGame" FILE="../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/GMBP_MainGame.uasset" SILENT=true
+[2021.01.31-12.45.49:762][830]LogSavePackage: Moving '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Saved/GMBP_MainGame65B0B3B04E3CE7EC906748A87552FA7A.tmp' to '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/GMBP_MainGame.uasset'
+[2021.01.31-12.45.49:776][830]AssetCheck: New page: Asset Save: GMBP_MainGame
+[2021.01.31-12.45.49:776][830]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/GMBP_MainGame.GMBP_MainGame
+[2021.01.31-12.45.50:608][884]BlueprintLog: New page: Compile GMBP_MainGame
+[2021.01.31-12.45.50:693][884]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2021.01.31-12.45.55:787][224]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.31-12.45.55:794][224]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.31-12.45.55:794][224]PIE: New page: PIE session: HouseTest (31 Jan 2021, 12:45:55)
+[2021.01.31-12.45.55:794][224]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_HouseTest
+[2021.01.31-12.45.55:808][224]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013426s)
+[2021.01.31-12.45.55:809][224]LogAIModule: Creating AISystem for world HouseTest
+[2021.01.31-12.45.55:809][224]LogPlayLevel: PIE: World Init took: (0.001379s)
+[2021.01.31-12.45.55:809][224]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/HouseTest.HouseTest to /Game/Levels/UEDPIE_0_HouseTest.HouseTest (0.014944s)
+[2021.01.31-12.45.55:837][224]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2021.01.31-12.45.55:837][224]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2021.01.31-12.45.55:837][224]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.31-12.45.55:837][224]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.31-12.45.55:837][224]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.31-12.45.55:837][224]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.31-12.45.55:837][224]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.31-12.45.55:838][224]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.31-12.45.55:838][224]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.31-12.45.55:838][224]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.31-12.45.55:838][224]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.31-12.45.55:838][224]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.31-12.45.55:845][224]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.31-12.45.55:845][224]LogAudioMixer: Display: 1: FrontRight
+[2021.01.31-12.45.55:859][224]LogAudioMixer: Display: Using Audio Device Headphones (Arctis 7 Game)
+[2021.01.31-12.45.55:859][224]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.31-12.45.55:859][224]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.31-12.45.55:859][224]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.31-12.45.55:859][224]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.31-12.45.55:859][224]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.31-12.45.55:859][224]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.31-12.45.55:874][224]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.31-12.45.55:874][224]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.31-12.45.55:874][224]LogInit: FAudioDevice initialized.
+[2021.01.31-12.45.55:874][224]LogAudio: Display: Audio Device (ID: 6) registered with world 'HouseTest'.
+[2021.01.31-12.45.55:920][224]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-12.45.55:920][224]LogLoad: Game class is 'GMBP_MainGame_C'
+[2021.01.31-12.45.55:925][224]LogWorld: Bringing World /Game/Levels/UEDPIE_0_HouseTest.HouseTest up for play (max tick rate 0) at 2021.01.31-12.45.55
+[2021.01.31-12.45.55:926][224]LogWorld: Bringing up level for play took: 0.005299
+[2021.01.31-12.45.55:926][224]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2021.01.31-12.45.55:931][224]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2021.01.31-12.45.55:931][224]LogScript: Warning: Script Msg: Attempted to access index 6 from array 'Pickups' of length 6 in '/Game/Levels/HouseTest.HouseTest_C'!
+[2021.01.31-12.45.55:931][224]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2021.01.31-12.45.55:936][224]PIE: Server logged in
+[2021.01.31-12.45.55:939][224]PIE: Play in editor total start time 0.146 seconds.
+[2021.01.31-12.45.55:940][224]LogInput: Error: Duplicate mapping of key Gamepad_LeftX for axis MoveRight
+[2021.01.31-12.45.55:940][224]LogInput: Error: Duplicate mapping of key Gamepad_LeftY for axis MoveForward
+[2021.01.31-12.45.55:940][224]LogInput: Error: Duplicate mapping of key Gamepad_LeftY for axis UIUp
+[2021.01.31-12.45.55:940][224]LogInput: Error: Duplicate mapping of key Gamepad_LeftX for axis UIRight
+[2021.01.31-12.45.56:181][225]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2021.01.31-12.46.02:454][611]LogBlueprintUserMessages: [GMBP_MainGame_C_0] Time for the meeting with the boss!
+[2021.01.31-12.46.02:454][611]LogBlueprintUserMessages: [GMBP_MainGame_C_0] I dont know why. But I felt the urge to bring a bucket.
+[2021.01.31-12.46.02:455][611]LogBlueprintUserMessages: [GMBP_MainGame_C_0] Its time for the weekly football game!
+[2021.01.31-12.46.02:455][611]LogBlueprintUserMessages: [GMBP_MainGame_C_0] The kids are here already! I hope they wont be too distracting.
+[2021.01.31-12.46.10:127][ 69]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-12.46.10:127][ 69]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_HouseTest
+[2021.01.31-12.46.10:128][ 69]LogSlate: Window 'LateForWork Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.01.31-12.46.10:134][ 69]LogWorld: UWorld::CleanupWorld for HouseTest, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-12.46.10:135][ 69]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-12.46.10:142][ 69]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.31-12.46.10:153][ 69]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-12.46.10:179][ 69]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.31-12.46.10:179][ 69]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.31-12.46.10:180][ 69]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.31-12.46.10:204][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2021.01.31-12.46.10:231][ 70]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2021.01.31-12.46.40:206][147]BlueprintLog: New page: Compile GMBP_MainGame
+[2021.01.31-12.46.40:294][147]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2021.01.31-12.46.40:442][147]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GMBP_MainGame" FILE="../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/GMBP_MainGame.uasset" SILENT=true
+[2021.01.31-12.46.40:515][147]LogSavePackage: Moving '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Saved/GMBP_MainGameA4C0C40E4302DE69C2C059B8BB0B4727.tmp' to '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/GMBP_MainGame.uasset'
+[2021.01.31-12.46.40:530][147]AssetCheck: New page: Asset Save: GMBP_MainGame
+[2021.01.31-12.46.40:530][147]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/GMBP_MainGame.GMBP_MainGame
+[2021.01.31-12.46.40:926][159]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GMBP_MainGame" FILE="../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/GMBP_MainGame.uasset" SILENT=true
+[2021.01.31-12.46.40:999][159]LogSavePackage: Moving '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Saved/GMBP_MainGame99AB6DB746021EF9C58FFD81B17E49FA.tmp' to '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/GMBP_MainGame.uasset'
+[2021.01.31-12.46.41:018][159]AssetCheck: New page: Asset Save: GMBP_MainGame
+[2021.01.31-12.46.41:019][159]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/GMBP_MainGame.GMBP_MainGame
+[2021.01.31-12.46.41:617][198]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.31-12.46.41:624][198]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.31-12.46.41:624][198]PIE: New page: PIE session: HouseTest (31 Jan 2021, 12:46:41)
+[2021.01.31-12.46.41:624][198]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_HouseTest
+[2021.01.31-12.46.41:638][198]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013091s)
+[2021.01.31-12.46.41:638][198]LogAIModule: Creating AISystem for world HouseTest
+[2021.01.31-12.46.41:639][198]LogPlayLevel: PIE: World Init took: (0.001011s)
+[2021.01.31-12.46.41:639][198]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/HouseTest.HouseTest to /Game/Levels/UEDPIE_0_HouseTest.HouseTest (0.014248s)
+[2021.01.31-12.46.41:666][198]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2021.01.31-12.46.41:667][198]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2021.01.31-12.46.41:667][198]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.31-12.46.41:667][198]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.31-12.46.41:667][198]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.31-12.46.41:667][198]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.31-12.46.41:667][198]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.31-12.46.41:667][198]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.31-12.46.41:667][198]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.31-12.46.41:667][198]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.31-12.46.41:667][198]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.31-12.46.41:667][198]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.31-12.46.41:674][198]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.31-12.46.41:674][198]LogAudioMixer: Display: 1: FrontRight
+[2021.01.31-12.46.41:687][198]LogAudioMixer: Display: Using Audio Device Headphones (Arctis 7 Game)
+[2021.01.31-12.46.41:687][198]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.31-12.46.41:688][198]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.31-12.46.41:688][198]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.31-12.46.41:688][198]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.31-12.46.41:688][198]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.31-12.46.41:688][198]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.31-12.46.41:701][198]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.31-12.46.41:701][198]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.31-12.46.41:701][198]LogInit: FAudioDevice initialized.
+[2021.01.31-12.46.41:701][198]LogAudio: Display: Audio Device (ID: 7) registered with world 'HouseTest'.
+[2021.01.31-12.46.41:757][198]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-12.46.41:758][198]LogLoad: Game class is 'GMBP_MainGame_C'
+[2021.01.31-12.46.41:763][198]LogWorld: Bringing World /Game/Levels/UEDPIE_0_HouseTest.HouseTest up for play (max tick rate 0) at 2021.01.31-12.46.41
+[2021.01.31-12.46.41:763][198]LogWorld: Bringing up level for play took: 0.005265
+[2021.01.31-12.46.41:764][198]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2021.01.31-12.46.41:769][198]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2021.01.31-12.46.41:769][198]LogScript: Warning: Script Msg: Attempted to access index 6 from array 'Pickups' of length 6 in '/Game/Levels/HouseTest.HouseTest_C'!
+[2021.01.31-12.46.41:769][198]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2021.01.31-12.46.41:774][198]PIE: Server logged in
+[2021.01.31-12.46.41:778][198]PIE: Play in editor total start time 0.155 seconds.
+[2021.01.31-12.46.41:778][198]LogInput: Error: Duplicate mapping of key Gamepad_LeftX for axis MoveRight
+[2021.01.31-12.46.41:778][198]LogInput: Error: Duplicate mapping of key Gamepad_LeftY for axis MoveForward
+[2021.01.31-12.46.41:778][198]LogInput: Error: Duplicate mapping of key Gamepad_LeftY for axis UIUp
+[2021.01.31-12.46.41:778][198]LogInput: Error: Duplicate mapping of key Gamepad_LeftX for axis UIRight
+[2021.01.31-12.46.49:730][680]LogBlueprintUserMessages: [GMBP_MainGame_C_0] Work had a breach the other day, so we have to have our work IDs to get in.
+[2021.01.31-12.46.49:731][680]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_MacroInstance', from offset 28
+[2021.01.31-12.46.49:731][680]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Blueprints/Exit.Exit_C:ReceiveActorBeginOverlap
+	Function /Game/Blueprints/Exit.Exit_C:ExecuteUbergraph_Exit
+	Function /Game/Blueprints/GMBP_MainGame.GMBP_MainGame_C:GameOver
+	Function /Game/Blueprints/GMBP_MainGame.GMBP_MainGame_C:ExecuteUbergraph_GMBP_MainGame
+
+[2021.01.31-12.47.04:352][680]LogBlueprintUserMessages: [GMBP_MainGame_C_0] It's someone from the other teams birthday today.
+[2021.01.31-12.47.04:352][680]LogBlueprintUserMessages: [GMBP_MainGame_C_0] I had so much work yesterday, I took my laptop home.
+[2021.01.31-12.47.04:352][680]LogBlueprintUserMessages: [GMBP_MainGame_C_0] Its time for the weekly football game!
+[2021.01.31-12.47.04:377][680]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-12.47.04:377][680]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_HouseTest
+[2021.01.31-12.47.04:377][680]LogSlate: Window 'LateForWork Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.01.31-12.47.04:379][680]LogWorld: UWorld::CleanupWorld for HouseTest, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-12.47.04:380][680]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-12.47.04:387][680]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.31-12.47.04:398][680]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-12.47.04:425][680]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.31-12.47.04:426][680]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.31-12.47.04:427][680]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.31-12.47.04:449][680]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2021.01.31-12.47.04:478][681]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2021.01.31-12.47.07:326][878]BlueprintLog: New page: Compile GMBP_MainGame
+[2021.01.31-12.47.07:413][878]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2021.01.31-12.47.07:560][878]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GMBP_MainGame" FILE="../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/GMBP_MainGame.uasset" SILENT=true
+[2021.01.31-12.47.07:634][878]LogSavePackage: Moving '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Saved/GMBP_MainGame993B059C4CB4A908BD309297A8ED89DA.tmp' to '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/GMBP_MainGame.uasset'
+[2021.01.31-12.47.07:655][878]AssetCheck: New page: Asset Save: GMBP_MainGame
+[2021.01.31-12.47.07:655][878]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/GMBP_MainGame.GMBP_MainGame
+[2021.01.31-12.47.26:931][238]BlueprintLog: New page: Compile GMBP_MainGame
+[2021.01.31-12.47.27:023][238]LogUObjectHash: Compacting FUObjectHashTables data took   4.20ms
+[2021.01.31-12.47.27:162][238]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GMBP_MainGame" FILE="../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/GMBP_MainGame.uasset" SILENT=true
+[2021.01.31-12.47.27:235][238]LogSavePackage: Moving '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Saved/GMBP_MainGameDF93544242FFE5AD425FEA8D846241A4.tmp' to '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/GMBP_MainGame.uasset'
+[2021.01.31-12.47.27:248][238]AssetCheck: New page: Asset Save: GMBP_MainGame
+[2021.01.31-12.47.27:248][238]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/GMBP_MainGame.GMBP_MainGame
+[2021.01.31-12.47.27:761][260]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GMBP_MainGame" FILE="../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/GMBP_MainGame.uasset" SILENT=true
+[2021.01.31-12.47.27:836][260]LogSavePackage: Moving '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Saved/GMBP_MainGame506E5422480C3037216B398F2BB31A19.tmp' to '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/GMBP_MainGame.uasset'
+[2021.01.31-12.47.27:850][260]AssetCheck: New page: Asset Save: GMBP_MainGame
+[2021.01.31-12.47.27:850][260]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/GMBP_MainGame.GMBP_MainGame
+[2021.01.31-12.47.29:022][335]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.31-12.47.29:030][335]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.31-12.47.29:030][335]PIE: New page: PIE session: HouseTest (31 Jan 2021, 12:47:29)
+[2021.01.31-12.47.29:065][335]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_HouseTest
+[2021.01.31-12.47.29:078][335]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012428s)
+[2021.01.31-12.47.29:079][335]LogAIModule: Creating AISystem for world HouseTest
+[2021.01.31-12.47.29:079][335]LogPlayLevel: PIE: World Init took: (0.001284s)
+[2021.01.31-12.47.29:079][335]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/HouseTest.HouseTest to /Game/Levels/UEDPIE_0_HouseTest.HouseTest (0.013907s)
+[2021.01.31-12.47.29:107][335]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2021.01.31-12.47.29:107][335]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2021.01.31-12.47.29:107][335]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.31-12.47.29:107][335]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.31-12.47.29:107][335]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.31-12.47.29:107][335]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.31-12.47.29:107][335]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.31-12.47.29:107][335]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.31-12.47.29:107][335]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.31-12.47.29:108][335]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.31-12.47.29:108][335]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.31-12.47.29:108][335]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.31-12.47.29:115][335]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.31-12.47.29:115][335]LogAudioMixer: Display: 1: FrontRight
+[2021.01.31-12.47.29:129][335]LogAudioMixer: Display: Using Audio Device Headphones (Arctis 7 Game)
+[2021.01.31-12.47.29:130][335]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.31-12.47.29:130][335]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.31-12.47.29:130][335]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.31-12.47.29:130][335]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.31-12.47.29:130][335]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.31-12.47.29:130][335]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.31-12.47.29:144][335]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.31-12.47.29:144][335]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.31-12.47.29:144][335]LogInit: FAudioDevice initialized.
+[2021.01.31-12.47.29:144][335]LogAudio: Display: Audio Device (ID: 8) registered with world 'HouseTest'.
+[2021.01.31-12.47.29:151][335]LogLoad: Game class is 'GMBP_MainGame_C'
+[2021.01.31-12.47.29:157][335]LogWorld: Bringing World /Game/Levels/UEDPIE_0_HouseTest.HouseTest up for play (max tick rate 0) at 2021.01.31-12.47.29
+[2021.01.31-12.47.29:157][335]LogWorld: Bringing up level for play took: 0.005556
+[2021.01.31-12.47.29:157][335]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2021.01.31-12.47.29:162][335]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2021.01.31-12.47.29:162][335]LogScript: Warning: Script Msg: Attempted to access index 6 from array 'Pickups' of length 6 in '/Game/Levels/HouseTest.HouseTest_C'!
+[2021.01.31-12.47.29:162][335]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2021.01.31-12.47.29:163][335]PIE: Server logged in
+[2021.01.31-12.47.29:164][335]PIE: Play in editor total start time 0.136 seconds.
+[2021.01.31-12.47.29:164][335]LogInput: Error: Duplicate mapping of key Gamepad_LeftX for axis MoveRight
+[2021.01.31-12.47.29:164][335]LogInput: Error: Duplicate mapping of key Gamepad_LeftY for axis MoveForward
+[2021.01.31-12.47.29:164][335]LogInput: Error: Duplicate mapping of key Gamepad_LeftY for axis UIUp
+[2021.01.31-12.47.29:164][335]LogInput: Error: Duplicate mapping of key Gamepad_LeftX for axis UIRight
+[2021.01.31-12.47.35:529][956]LogScript: Warning: Accessed None trying to read property CallFunc_Create_ReturnValue
+	GMBP_MainGame_C /Game/Levels/UEDPIE_0_HouseTest.HouseTest:PersistentLevel.GMBP_MainGame_C_0
+	Function /Game/Blueprints/GMBP_MainGame.GMBP_MainGame_C:ExecuteUbergraph_GMBP_MainGame:1555
+[2021.01.31-12.47.35:529][956]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  GMBP_MainGame Function:  Execute Ubergraph GMBP Main Game Graph:  EventGraph Node:  Add to Viewport
+[2021.01.31-12.47.35:530][956]LogBlueprintUserMessages: [GMBP_MainGame_C_0] Today was share your food with work day!
+[2021.01.31-12.47.35:530][956]LogBlueprintUserMessages: [GMBP_MainGame_C_0] I dont know why. But I felt the urge to bring a bucket.
+[2021.01.31-12.47.35:530][956]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_MacroInstance', from offset 28
+[2021.01.31-12.47.35:530][956]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Blueprints/Exit.Exit_C:ReceiveActorBeginOverlap
+	Function /Game/Blueprints/Exit.Exit_C:ExecuteUbergraph_Exit
+	Function /Game/Blueprints/GMBP_MainGame.GMBP_MainGame_C:GameOver
+	Function /Game/Blueprints/GMBP_MainGame.GMBP_MainGame_C:ExecuteUbergraph_GMBP_MainGame
+
+[2021.01.31-12.47.40:971][956]LogBlueprintUserMessages: [GMBP_MainGame_C_0] Time for the meeting with the boss!
+[2021.01.31-12.47.40:971][956]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_MacroInstance', from offset 28
+[2021.01.31-12.47.40:971][956]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Blueprints/Exit.Exit_C:ReceiveActorBeginOverlap
+	Function /Game/Blueprints/Exit.Exit_C:ExecuteUbergraph_Exit
+	Function /Game/Blueprints/GMBP_MainGame.GMBP_MainGame_C:GameOver
+	Function /Game/Blueprints/GMBP_MainGame.GMBP_MainGame_C:ExecuteUbergraph_GMBP_MainGame
+
+[2021.01.31-12.47.42:877][956]LogBlueprintUserMessages: [GMBP_MainGame_C_0] The car is in the garage today. So I need to get the bus!
+[2021.01.31-12.47.42:877][956]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_MacroInstance', from offset 28
+[2021.01.31-12.47.42:877][956]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Blueprints/Exit.Exit_C:ReceiveActorBeginOverlap
+	Function /Game/Blueprints/Exit.Exit_C:ExecuteUbergraph_Exit
+	Function /Game/Blueprints/GMBP_MainGame.GMBP_MainGame_C:GameOver
+	Function /Game/Blueprints/GMBP_MainGame.GMBP_MainGame_C:ExecuteUbergraph_GMBP_MainGame
+
+[2021.01.31-12.47.44:363][956]LogScript: Warning: Accessed None trying to read property CallFunc_Create_ReturnValue
+	GMBP_MainGame_C /Game/Levels/UEDPIE_0_HouseTest.HouseTest:PersistentLevel.GMBP_MainGame_C_0
+	Function /Game/Blueprints/GMBP_MainGame.GMBP_MainGame_C:ExecuteUbergraph_GMBP_MainGame:04F9
+[2021.01.31-12.47.44:363][956]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  GMBP_MainGame Function:  Execute Ubergraph GMBP Main Game Graph:  EventGraph Node:  Bind Event to Call when Finished Displaying Text
+[2021.01.31-12.47.44:363][956]LogScript: Warning: Accessed None
+	GMBP_MainGame_C /Game/Levels/UEDPIE_0_HouseTest.HouseTest:PersistentLevel.GMBP_MainGame_C_0
+	Function /Game/Blueprints/GMBP_MainGame.GMBP_MainGame_C:ExecuteUbergraph_GMBP_MainGame:050E
+[2021.01.31-12.47.44:364][956]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  GMBP_MainGame Function:  Execute Ubergraph GMBP Main Game Graph:  EventGraph Node:  Bind Event to Call when Finished Displaying Text
+[2021.01.31-12.47.44:364][956]LogScript: Warning: Accessed None trying to read property CallFunc_Create_ReturnValue
+	GMBP_MainGame_C /Game/Levels/UEDPIE_0_HouseTest.HouseTest:PersistentLevel.GMBP_MainGame_C_0
+	Function /Game/Blueprints/GMBP_MainGame.GMBP_MainGame_C:ExecuteUbergraph_GMBP_MainGame:0539
+[2021.01.31-12.47.44:364][956]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  GMBP_MainGame Function:  Execute Ubergraph GMBP Main Game Graph:  EventGraph Node:  Set Text to Display
+[2021.01.31-12.47.44:364][956]LogScript: Warning: Accessed None
+	GMBP_MainGame_C /Game/Levels/UEDPIE_0_HouseTest.HouseTest:PersistentLevel.GMBP_MainGame_C_0
+	Function /Game/Blueprints/GMBP_MainGame.GMBP_MainGame_C:ExecuteUbergraph_GMBP_MainGame:054E
+[2021.01.31-12.47.44:364][956]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  GMBP_MainGame Function:  Execute Ubergraph GMBP Main Game Graph:  EventGraph Node:  Set Text to Display
+[2021.01.31-12.47.44:364][956]LogScript: Warning: Accessed None trying to read property CallFunc_Create_ReturnValue
+	GMBP_MainGame_C /Game/Levels/UEDPIE_0_HouseTest.HouseTest:PersistentLevel.GMBP_MainGame_C_0
+	Function /Game/Blueprints/GMBP_MainGame.GMBP_MainGame_C:ExecuteUbergraph_GMBP_MainGame:0586
+[2021.01.31-12.47.44:364][956]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  GMBP_MainGame Function:  Execute Ubergraph GMBP Main Game Graph:  EventGraph Node:  Game Over
+[2021.01.31-12.47.50:097][410]LogScript: Warning: Accessed None trying to read property CallFunc_Create_ReturnValue
+	GMBP_MainGame_C /Game/Levels/UEDPIE_0_HouseTest.HouseTest:PersistentLevel.GMBP_MainGame_C_0
+	Function /Game/Blueprints/GMBP_MainGame.GMBP_MainGame_C:ExecuteUbergraph_GMBP_MainGame:1555
+[2021.01.31-12.47.50:097][410]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  GMBP_MainGame Function:  Execute Ubergraph GMBP Main Game Graph:  EventGraph Node:  Add to Viewport
+[2021.01.31-12.47.50:097][410]LogBlueprintUserMessages: [GMBP_MainGame_C_0] Today was share your food with work day!
+[2021.01.31-12.47.50:097][410]LogBlueprintUserMessages: [GMBP_MainGame_C_0] I dont know why. But I felt the urge to bring a bucket.
+[2021.01.31-12.47.50:097][410]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_MacroInstance', from offset 28
+[2021.01.31-12.47.50:097][410]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Blueprints/Exit.Exit_C:ReceiveActorBeginOverlap
+	Function /Game/Blueprints/Exit.Exit_C:ExecuteUbergraph_Exit
+	Function /Game/Blueprints/GMBP_MainGame.GMBP_MainGame_C:GameOver
+	Function /Game/Blueprints/GMBP_MainGame.GMBP_MainGame_C:ExecuteUbergraph_GMBP_MainGame
+
+[2021.01.31-12.48.00:552][410]LogBlueprintUserMessages: [GMBP_MainGame_C_0] Time for the meeting with the boss!
+[2021.01.31-12.48.00:552][410]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_MacroInstance', from offset 28
+[2021.01.31-12.48.00:552][410]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Blueprints/Exit.Exit_C:ReceiveActorBeginOverlap
+	Function /Game/Blueprints/Exit.Exit_C:ExecuteUbergraph_Exit
+	Function /Game/Blueprints/GMBP_MainGame.GMBP_MainGame_C:GameOver
+	Function /Game/Blueprints/GMBP_MainGame.GMBP_MainGame_C:ExecuteUbergraph_GMBP_MainGame
+
+[2021.01.31-12.48.02:348][410]LogBlueprintUserMessages: [GMBP_MainGame_C_0] The car is in the garage today. So I need to get the bus!
+[2021.01.31-12.48.02:348][410]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_MacroInstance', from offset 28
+[2021.01.31-12.48.02:348][410]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Blueprints/Exit.Exit_C:ReceiveActorBeginOverlap
+	Function /Game/Blueprints/Exit.Exit_C:ExecuteUbergraph_Exit
+	Function /Game/Blueprints/GMBP_MainGame.GMBP_MainGame_C:GameOver
+	Function /Game/Blueprints/GMBP_MainGame.GMBP_MainGame_C:ExecuteUbergraph_GMBP_MainGame
+
+[2021.01.31-12.48.04:482][410]LogScript: Warning: Accessed None trying to read property CallFunc_Create_ReturnValue
+	GMBP_MainGame_C /Game/Levels/UEDPIE_0_HouseTest.HouseTest:PersistentLevel.GMBP_MainGame_C_0
+	Function /Game/Blueprints/GMBP_MainGame.GMBP_MainGame_C:ExecuteUbergraph_GMBP_MainGame:04F9
+[2021.01.31-12.48.04:482][410]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  GMBP_MainGame Function:  Execute Ubergraph GMBP Main Game Graph:  EventGraph Node:  Bind Event to Call when Finished Displaying Text
+[2021.01.31-12.48.04:483][410]LogScript: Warning: Accessed None
+	GMBP_MainGame_C /Game/Levels/UEDPIE_0_HouseTest.HouseTest:PersistentLevel.GMBP_MainGame_C_0
+	Function /Game/Blueprints/GMBP_MainGame.GMBP_MainGame_C:ExecuteUbergraph_GMBP_MainGame:050E
+[2021.01.31-12.48.04:483][410]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  GMBP_MainGame Function:  Execute Ubergraph GMBP Main Game Graph:  EventGraph Node:  Bind Event to Call when Finished Displaying Text
+[2021.01.31-12.48.04:483][410]LogScript: Warning: Accessed None trying to read property CallFunc_Create_ReturnValue
+	GMBP_MainGame_C /Game/Levels/UEDPIE_0_HouseTest.HouseTest:PersistentLevel.GMBP_MainGame_C_0
+	Function /Game/Blueprints/GMBP_MainGame.GMBP_MainGame_C:ExecuteUbergraph_GMBP_MainGame:0539
+[2021.01.31-12.48.04:483][410]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  GMBP_MainGame Function:  Execute Ubergraph GMBP Main Game Graph:  EventGraph Node:  Set Text to Display
+[2021.01.31-12.48.04:483][410]LogScript: Warning: Accessed None
+	GMBP_MainGame_C /Game/Levels/UEDPIE_0_HouseTest.HouseTest:PersistentLevel.GMBP_MainGame_C_0
+	Function /Game/Blueprints/GMBP_MainGame.GMBP_MainGame_C:ExecuteUbergraph_GMBP_MainGame:054E
+[2021.01.31-12.48.04:483][410]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  GMBP_MainGame Function:  Execute Ubergraph GMBP Main Game Graph:  EventGraph Node:  Set Text to Display
+[2021.01.31-12.48.04:483][410]LogScript: Warning: Accessed None trying to read property CallFunc_Create_ReturnValue
+	GMBP_MainGame_C /Game/Levels/UEDPIE_0_HouseTest.HouseTest:PersistentLevel.GMBP_MainGame_C_0
+	Function /Game/Blueprints/GMBP_MainGame.GMBP_MainGame_C:ExecuteUbergraph_GMBP_MainGame:0586
+[2021.01.31-12.48.04:483][410]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  GMBP_MainGame Function:  Execute Ubergraph GMBP Main Game Graph:  EventGraph Node:  Game Over
+[2021.01.31-12.48.06:788][568]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-12.48.06:788][568]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_HouseTest
+[2021.01.31-12.48.06:789][568]LogWorld: UWorld::CleanupWorld for HouseTest, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-12.48.06:790][568]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-12.48.06:795][568]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.31-12.48.06:805][568]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-12.48.06:830][568]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.31-12.48.06:831][568]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.31-12.48.06:832][568]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.31-12.48.06:848][568]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-12.48.06:852][568]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2021.01.31-12.48.06:998][569]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2021.01.31-12.48.11:319][874]LogSlate: Window 'Message Log' being destroyed
+[2021.01.31-12.48.11:329][874]LogSlate: Window 'Message Log' being destroyed
+[2021.01.31-12.48.37:848][371]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GMBP_MainGame" FILE="../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/GMBP_MainGame.uasset" SILENT=true
+[2021.01.31-12.48.37:924][371]LogSavePackage: Moving '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Saved/GMBP_MainGameA005C75A44801BA2528CA0803445BAC8.tmp' to '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/GMBP_MainGame.uasset'
+[2021.01.31-12.48.37:942][371]AssetCheck: New page: Asset Save: GMBP_MainGame
+[2021.01.31-12.48.37:942][371]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/GMBP_MainGame.GMBP_MainGame
+[2021.01.31-12.48.39:119][440]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.31-12.48.39:127][440]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.31-12.48.39:128][440]PIE: New page: PIE session: HouseTest (31 Jan 2021, 12:48:39)
+[2021.01.31-12.48.39:128][440]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_HouseTest
+[2021.01.31-12.48.39:141][440]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013100s)
+[2021.01.31-12.48.39:142][440]LogAIModule: Creating AISystem for world HouseTest
+[2021.01.31-12.48.39:143][440]LogPlayLevel: PIE: World Init took: (0.001563s)
+[2021.01.31-12.48.39:143][440]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/HouseTest.HouseTest to /Game/Levels/UEDPIE_0_HouseTest.HouseTest (0.014816s)
+[2021.01.31-12.48.39:170][440]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2021.01.31-12.48.39:171][440]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2021.01.31-12.48.39:171][440]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.31-12.48.39:171][440]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.31-12.48.39:171][440]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.31-12.48.39:171][440]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.31-12.48.39:171][440]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.31-12.48.39:171][440]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.31-12.48.39:171][440]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.31-12.48.39:171][440]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.31-12.48.39:171][440]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.31-12.48.39:171][440]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.31-12.48.39:178][440]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.31-12.48.39:178][440]LogAudioMixer: Display: 1: FrontRight
+[2021.01.31-12.48.39:191][440]LogAudioMixer: Display: Using Audio Device Headphones (Arctis 7 Game)
+[2021.01.31-12.48.39:191][440]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.31-12.48.39:191][440]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.31-12.48.39:191][440]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.31-12.48.39:192][440]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.31-12.48.39:192][440]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.31-12.48.39:192][440]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.31-12.48.39:204][440]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.31-12.48.39:204][440]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.31-12.48.39:204][440]LogInit: FAudioDevice initialized.
+[2021.01.31-12.48.39:204][440]LogAudio: Display: Audio Device (ID: 9) registered with world 'HouseTest'.
+[2021.01.31-12.48.39:264][440]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-12.48.39:264][440]LogLoad: Game class is 'GMBP_MainGame_C'
+[2021.01.31-12.48.39:269][440]LogWorld: Bringing World /Game/Levels/UEDPIE_0_HouseTest.HouseTest up for play (max tick rate 0) at 2021.01.31-12.48.39
+[2021.01.31-12.48.39:270][440]LogWorld: Bringing up level for play took: 0.005423
+[2021.01.31-12.48.39:270][440]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2021.01.31-12.48.39:275][440]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2021.01.31-12.48.39:275][440]LogScript: Warning: Script Msg: Attempted to access index 6 from array 'Pickups' of length 6 in '/Game/Levels/HouseTest.HouseTest_C'!
+[2021.01.31-12.48.39:275][440]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2021.01.31-12.48.39:281][440]PIE: Server logged in
+[2021.01.31-12.48.39:284][440]PIE: Play in editor total start time 0.158 seconds.
+[2021.01.31-12.48.39:285][440]LogInput: Error: Duplicate mapping of key Gamepad_LeftX for axis MoveRight
+[2021.01.31-12.48.39:285][440]LogInput: Error: Duplicate mapping of key Gamepad_LeftY for axis MoveForward
+[2021.01.31-12.48.39:285][440]LogInput: Error: Duplicate mapping of key Gamepad_LeftY for axis UIUp
+[2021.01.31-12.48.39:285][440]LogInput: Error: Duplicate mapping of key Gamepad_LeftX for axis UIRight
+[2021.01.31-12.48.49:413][987]LogBlueprintUserMessages: [GMBP_MainGame_C_0] I had so much work yesterday, I took my laptop home.
+[2021.01.31-12.48.49:413][987]LogBlueprintUserMessages: [GMBP_MainGame_C_0] Today was share your food with work day!
+[2021.01.31-12.48.49:413][987]LogBlueprintUserMessages: [GMBP_MainGame_C_0] Its time for the weekly football game!
+[2021.01.31-12.48.49:413][987]LogBlueprintUserMessages: [GMBP_MainGame_C_0] Work had a breach the other day, so we have to have our work IDs to get in.
+[2021.01.31-12.48.49:413][987]LogBlueprintDebug: Warning: Hit breakpoint on node 'CallFunc_Set TextToDisplay', from offset 1325
+[2021.01.31-12.48.49:413][987]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Blueprints/Exit.Exit_C:ReceiveActorBeginOverlap
+	Function /Game/Blueprints/Exit.Exit_C:ExecuteUbergraph_Exit
+	Function /Game/Blueprints/GMBP_MainGame.GMBP_MainGame_C:GameOver
+	Function /Game/Blueprints/GMBP_MainGame.GMBP_MainGame_C:ExecuteUbergraph_GMBP_MainGame
+
+[2021.01.31-12.49.08:028][987]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-12.49.08:029][987]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_HouseTest
+[2021.01.31-12.49.08:029][987]LogSlate: Window 'LateForWork Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.01.31-12.49.08:031][987]LogWorld: UWorld::CleanupWorld for HouseTest, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-12.49.08:032][987]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-12.49.08:037][987]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.31-12.49.08:048][987]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-12.49.08:074][987]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.31-12.49.08:074][987]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.31-12.49.08:075][987]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.31-12.49.08:099][987]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2021.01.31-12.49.08:133][988]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2021.01.31-12.49.10:500][138]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/Blueprints/DT_Scenario.DT_Scenario
+[2021.01.31-12.50.31:324][798]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/DT_Scenario" FILE="../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/DT_Scenario.uasset" SILENT=true
+[2021.01.31-12.50.31:330][798]LogSavePackage: Moving '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Saved/DT_ScenarioBAAB245D48A3B27F17FBE78AB93CD8D4.tmp' to '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/DT_Scenario.uasset'
+[2021.01.31-12.50.31:346][798]AssetCheck: New page: Asset Save: DT_Scenario
+[2021.01.31-12.50.31:346][798]LogContentValidation: Display: Validating DataTable /Game/Blueprints/DT_Scenario.DT_Scenario
+[2021.01.31-12.50.32:840][876]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.31-12.50.32:847][876]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.31-12.50.32:848][876]PIE: New page: PIE session: HouseTest (31 Jan 2021, 12:50:32)
+[2021.01.31-12.50.32:848][876]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_HouseTest
+[2021.01.31-12.50.32:861][876]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013132s)
+[2021.01.31-12.50.32:862][876]LogAIModule: Creating AISystem for world HouseTest
+[2021.01.31-12.50.32:862][876]LogPlayLevel: PIE: World Init took: (0.001303s)
+[2021.01.31-12.50.32:862][876]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/HouseTest.HouseTest to /Game/Levels/UEDPIE_0_HouseTest.HouseTest (0.014619s)
+[2021.01.31-12.50.32:890][876]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2021.01.31-12.50.32:892][876]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2021.01.31-12.50.32:892][876]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.31-12.50.32:892][876]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.31-12.50.32:892][876]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.31-12.50.32:892][876]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.31-12.50.32:892][876]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.31-12.50.32:892][876]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.31-12.50.32:892][876]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.31-12.50.32:892][876]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.31-12.50.32:893][876]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.31-12.50.32:893][876]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.31-12.50.32:900][876]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.31-12.50.32:900][876]LogAudioMixer: Display: 1: FrontRight
+[2021.01.31-12.50.32:913][876]LogAudioMixer: Display: Using Audio Device Headphones (Arctis 7 Game)
+[2021.01.31-12.50.32:913][876]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.31-12.50.32:913][876]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.31-12.50.32:913][876]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.31-12.50.32:913][876]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.31-12.50.32:913][876]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.31-12.50.32:913][876]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.31-12.50.32:926][876]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.31-12.50.32:926][876]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.31-12.50.32:926][876]LogInit: FAudioDevice initialized.
+[2021.01.31-12.50.32:927][876]LogAudio: Display: Audio Device (ID: 10) registered with world 'HouseTest'.
+[2021.01.31-12.50.32:936][876]LogLoad: Game class is 'GMBP_MainGame_C'
+[2021.01.31-12.50.32:941][876]LogWorld: Bringing World /Game/Levels/UEDPIE_0_HouseTest.HouseTest up for play (max tick rate 0) at 2021.01.31-12.50.32
+[2021.01.31-12.50.32:942][876]LogWorld: Bringing up level for play took: 0.005460
+[2021.01.31-12.50.32:942][876]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2021.01.31-12.50.32:946][876]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2021.01.31-12.50.32:947][876]LogScript: Warning: Script Msg: Attempted to access index 6 from array 'Pickups' of length 6 in '/Game/Levels/HouseTest.HouseTest_C'!
+[2021.01.31-12.50.32:947][876]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2021.01.31-12.50.32:948][876]PIE: Server logged in
+[2021.01.31-12.50.32:949][876]PIE: Play in editor total start time 0.103 seconds.
+[2021.01.31-12.50.32:950][876]LogInput: Error: Duplicate mapping of key Gamepad_LeftX for axis MoveRight
+[2021.01.31-12.50.32:950][876]LogInput: Error: Duplicate mapping of key Gamepad_LeftY for axis MoveForward
+[2021.01.31-12.50.32:950][876]LogInput: Error: Duplicate mapping of key Gamepad_LeftY for axis UIUp
+[2021.01.31-12.50.32:950][876]LogInput: Error: Duplicate mapping of key Gamepad_LeftX for axis UIRight
+[2021.01.31-12.50.39:488][317]LogBlueprintUserMessages: [GMBP_MainGame_C_0] Work had a breach the other day, so we have to have our work IDs to get in.
+[2021.01.31-12.50.39:488][317]LogBlueprintUserMessages: [GMBP_MainGame_C_0] The car is in the garage today. So I need to get the bus!
+[2021.01.31-12.50.39:488][317]LogBlueprintUserMessages: [GMBP_MainGame_C_0] Today was share your food with work day!
+[2021.01.31-12.50.39:489][317]LogBlueprintUserMessages: [GMBP_MainGame_C_0] I dont know why. But I felt the urge to bring a bucket.
+[2021.01.31-12.50.39:489][317]LogBlueprintDebug: Warning: Hit breakpoint on node 'CallFunc_Set TextToDisplay', from offset 1325
+[2021.01.31-12.50.39:489][317]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Blueprints/Exit.Exit_C:ReceiveActorBeginOverlap
+	Function /Game/Blueprints/Exit.Exit_C:ExecuteUbergraph_Exit
+	Function /Game/Blueprints/GMBP_MainGame.GMBP_MainGame_C:GameOver
+	Function /Game/Blueprints/GMBP_MainGame.GMBP_MainGame_C:ExecuteUbergraph_GMBP_MainGame
+
+[2021.01.31-12.51.37:136][861]PIE: Warning: The widget 'WBP_GameOver_C' was already added to the screen.
+[2021.01.31-12.51.44:329][336]LogNet: Browse: /Game/Levels/MainMenu
+[2021.01.31-12.51.44:329][336]LogLoad: LoadMap: /Game/Levels/MainMenu
+[2021.01.31-12.51.44:329][336]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_HouseTest
+[2021.01.31-12.51.44:330][336]LogWorld: UWorld::CleanupWorld for HouseTest, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-12.51.44:331][336]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-12.51.44:359][336]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.31-12.51.44:363][336]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2021.01.31-12.51.44:370][336]LogAudio: Display: Audio Device (ID: 10) registered with world 'MainMenu'.
+[2021.01.31-12.51.44:370][336]LogAIModule: Creating AISystem for world MainMenu
+[2021.01.31-12.51.44:371][336]LogLoad: Game class is 'GMBP_MainMenu_C'
+[2021.01.31-12.51.44:372][336]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2021.01.31-12.51.44
+[2021.01.31-12.51.44:372][336]LogWorld: Bringing up level for play took: 0.000488
+[2021.01.31-12.51.44:372][336]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.01.31-12.51.44:373][336]LogLoad: Took 0.044676 seconds to LoadMap(/Game/Levels/MainMenu)
+[2021.01.31-12.51.44:373][336]LogInput: Error: Duplicate mapping of key Gamepad_LeftX for axis MoveRight
+[2021.01.31-12.51.44:373][336]LogInput: Error: Duplicate mapping of key Gamepad_LeftY for axis MoveForward
+[2021.01.31-12.51.44:373][336]LogInput: Error: Duplicate mapping of key Gamepad_LeftY for axis UIUp
+[2021.01.31-12.51.44:373][336]LogInput: Error: Duplicate mapping of key Gamepad_LeftX for axis UIRight
+[2021.01.31-12.51.49:019][663]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-12.51.49:019][663]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainMenu
+[2021.01.31-12.51.49:019][663]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-12.51.49:019][663]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-12.51.49:027][663]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.31-12.51.49:037][663]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-12.51.49:061][663]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.31-12.51.49:061][663]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.31-12.51.49:062][663]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.31-12.51.49:080][663]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-12.51.49:083][663]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2021.01.31-12.51.49:162][664]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2021.01.31-12.52.18:346][142]BlueprintLog: New page: Compile GMBP_MainGame
+[2021.01.31-12.52.18:437][142]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2021.01.31-12.52.18:596][142]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GMBP_MainGame" FILE="../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/GMBP_MainGame.uasset" SILENT=true
+[2021.01.31-12.52.18:670][142]LogSavePackage: Moving '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Saved/GMBP_MainGameA96D726A49651EE453A859963CC405F7.tmp' to '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/GMBP_MainGame.uasset'
+[2021.01.31-12.52.18:688][142]AssetCheck: New page: Asset Save: GMBP_MainGame
+[2021.01.31-12.52.18:688][142]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/GMBP_MainGame.GMBP_MainGame
+[2021.01.31-12.52.18:996][148]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GMBP_MainGame" FILE="../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/GMBP_MainGame.uasset" SILENT=true
+[2021.01.31-12.52.19:070][148]LogSavePackage: Moving '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Saved/GMBP_MainGame726FA5E841B0B0956091E2AA08A90F9C.tmp' to '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/GMBP_MainGame.uasset'
+[2021.01.31-12.52.19:086][148]AssetCheck: New page: Asset Save: GMBP_MainGame
+[2021.01.31-12.52.19:086][148]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/GMBP_MainGame.GMBP_MainGame
+[2021.01.31-12.52.28:452][664]BlueprintLog: New page: Compile GMBP_MainGame
+[2021.01.31-12.52.28:544][664]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2021.01.31-12.52.28:696][664]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GMBP_MainGame" FILE="../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/GMBP_MainGame.uasset" SILENT=true
+[2021.01.31-12.52.28:769][664]LogSavePackage: Moving '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Saved/GMBP_MainGame2F56300E4EE27ECE134EDA82CD8B447D.tmp' to '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/GMBP_MainGame.uasset'
+[2021.01.31-12.52.28:786][664]AssetCheck: New page: Asset Save: GMBP_MainGame
+[2021.01.31-12.52.28:786][664]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/GMBP_MainGame.GMBP_MainGame
+[2021.01.31-12.52.29:314][683]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GMBP_MainGame" FILE="../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/GMBP_MainGame.uasset" SILENT=true
+[2021.01.31-12.52.29:388][683]LogSavePackage: Moving '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Saved/GMBP_MainGameDF385ED24FCFA8B9C1F32F8A5FB8FC69.tmp' to '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/GMBP_MainGame.uasset'
+[2021.01.31-12.52.29:403][683]AssetCheck: New page: Asset Save: GMBP_MainGame
+[2021.01.31-12.52.29:403][683]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/GMBP_MainGame.GMBP_MainGame
+[2021.01.31-12.52.31:423][796]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.31-12.52.31:432][796]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.31-12.52.31:432][796]PIE: New page: PIE session: HouseTest (31 Jan 2021, 12:52:31)
+[2021.01.31-12.52.31:432][796]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_HouseTest
+[2021.01.31-12.52.31:445][796]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012999s)
+[2021.01.31-12.52.31:446][796]LogAIModule: Creating AISystem for world HouseTest
+[2021.01.31-12.52.31:447][796]LogPlayLevel: PIE: World Init took: (0.001474s)
+[2021.01.31-12.52.31:447][796]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/HouseTest.HouseTest to /Game/Levels/UEDPIE_0_HouseTest.HouseTest (0.014620s)
+[2021.01.31-12.52.31:474][796]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2021.01.31-12.52.31:474][796]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2021.01.31-12.52.31:475][796]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.31-12.52.31:475][796]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.31-12.52.31:475][796]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.31-12.52.31:475][796]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.31-12.52.31:475][796]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.31-12.52.31:475][796]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.31-12.52.31:475][796]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.31-12.52.31:475][796]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.31-12.52.31:475][796]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.31-12.52.31:475][796]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.31-12.52.31:482][796]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.31-12.52.31:482][796]LogAudioMixer: Display: 1: FrontRight
+[2021.01.31-12.52.31:495][796]LogAudioMixer: Display: Using Audio Device Headphones (Arctis 7 Game)
+[2021.01.31-12.52.31:495][796]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.31-12.52.31:495][796]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.31-12.52.31:495][796]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.31-12.52.31:495][796]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.31-12.52.31:496][796]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.31-12.52.31:496][796]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.31-12.52.31:509][796]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.31-12.52.31:509][796]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.31-12.52.31:509][796]LogInit: FAudioDevice initialized.
+[2021.01.31-12.52.31:509][796]LogAudio: Display: Audio Device (ID: 11) registered with world 'HouseTest'.
+[2021.01.31-12.52.31:561][796]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-12.52.31:561][796]LogLoad: Game class is 'GMBP_MainGame_C'
+[2021.01.31-12.52.31:566][796]LogWorld: Bringing World /Game/Levels/UEDPIE_0_HouseTest.HouseTest up for play (max tick rate 0) at 2021.01.31-12.52.31
+[2021.01.31-12.52.31:567][796]LogWorld: Bringing up level for play took: 0.005088
+[2021.01.31-12.52.31:567][796]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2021.01.31-12.52.31:572][796]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2021.01.31-12.52.31:572][796]LogScript: Warning: Script Msg: Attempted to access index 6 from array 'Pickups' of length 6 in '/Game/Levels/HouseTest.HouseTest_C'!
+[2021.01.31-12.52.31:572][796]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2021.01.31-12.52.31:578][796]PIE: Server logged in
+[2021.01.31-12.52.31:582][796]PIE: Play in editor total start time 0.152 seconds.
+[2021.01.31-12.52.31:583][796]LogInput: Error: Duplicate mapping of key Gamepad_LeftX for axis MoveRight
+[2021.01.31-12.52.31:583][796]LogInput: Error: Duplicate mapping of key Gamepad_LeftY for axis MoveForward
+[2021.01.31-12.52.31:583][796]LogInput: Error: Duplicate mapping of key Gamepad_LeftY for axis UIUp
+[2021.01.31-12.52.31:583][796]LogInput: Error: Duplicate mapping of key Gamepad_LeftX for axis UIRight
+[2021.01.31-12.52.38:362][114]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  GMBP_MainGame Function:  Execute Ubergraph GMBP Main Game Graph:  EventGraph Node:  Add to Viewport
+[2021.01.31-12.52.38:362][114]LogBlueprintUserMessages: [GMBP_MainGame_C_0] Today was share your food with work day!
+[2021.01.31-12.52.38:362][114]LogBlueprintUserMessages: [GMBP_MainGame_C_0] Its time for the weekly football game!
+[2021.01.31-12.52.38:362][114]LogBlueprintUserMessages: [GMBP_MainGame_C_0] The car is in the garage today. So I need to get the bus!
+[2021.01.31-12.52.38:362][114]LogBlueprintUserMessages: [GMBP_MainGame_C_0] I had so much work yesterday, I took my laptop home.
+[2021.01.31-12.52.38:362][114]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  GMBP_MainGame Function:  Execute Ubergraph GMBP Main Game Graph:  EventGraph Node:  Bind Event to Call when Finished Displaying Text
+[2021.01.31-12.52.38:362][114]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  GMBP_MainGame Function:  Execute Ubergraph GMBP Main Game Graph:  EventGraph Node:  Bind Event to Call when Finished Displaying Text
+[2021.01.31-12.52.38:362][114]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  GMBP_MainGame Function:  Execute Ubergraph GMBP Main Game Graph:  EventGraph Node:  Set Text to Display
+[2021.01.31-12.52.38:362][114]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  GMBP_MainGame Function:  Execute Ubergraph GMBP Main Game Graph:  EventGraph Node:  Set Text to Display
+[2021.01.31-12.52.38:362][114]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  GMBP_MainGame Function:  Execute Ubergraph GMBP Main Game Graph:  EventGraph Node:  Game Over
+[2021.01.31-12.52.40:760][228]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  GMBP_MainGame Function:  Execute Ubergraph GMBP Main Game Graph:  EventGraph Node:  Add to Viewport
+[2021.01.31-12.52.40:760][228]LogBlueprintUserMessages: [GMBP_MainGame_C_0] Today was share your food with work day!
+[2021.01.31-12.52.40:760][228]LogBlueprintUserMessages: [GMBP_MainGame_C_0] Its time for the weekly football game!
+[2021.01.31-12.52.40:760][228]LogBlueprintUserMessages: [GMBP_MainGame_C_0] The car is in the garage today. So I need to get the bus!
+[2021.01.31-12.52.40:760][228]LogBlueprintUserMessages: [GMBP_MainGame_C_0] I had so much work yesterday, I took my laptop home.
+[2021.01.31-12.52.40:760][228]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  GMBP_MainGame Function:  Execute Ubergraph GMBP Main Game Graph:  EventGraph Node:  Bind Event to Call when Finished Displaying Text
+[2021.01.31-12.52.40:760][228]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  GMBP_MainGame Function:  Execute Ubergraph GMBP Main Game Graph:  EventGraph Node:  Bind Event to Call when Finished Displaying Text
+[2021.01.31-12.52.40:760][228]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  GMBP_MainGame Function:  Execute Ubergraph GMBP Main Game Graph:  EventGraph Node:  Set Text to Display
+[2021.01.31-12.52.40:761][228]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  GMBP_MainGame Function:  Execute Ubergraph GMBP Main Game Graph:  EventGraph Node:  Set Text to Display
+[2021.01.31-12.52.40:761][228]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  GMBP_MainGame Function:  Execute Ubergraph GMBP Main Game Graph:  EventGraph Node:  Game Over
+[2021.01.31-12.52.42:148][293]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  GMBP_MainGame Function:  Execute Ubergraph GMBP Main Game Graph:  EventGraph Node:  Add to Viewport
+[2021.01.31-12.52.42:149][293]LogBlueprintUserMessages: [GMBP_MainGame_C_0] Today was share your food with work day!
+[2021.01.31-12.52.42:149][293]LogBlueprintUserMessages: [GMBP_MainGame_C_0] Its time for the weekly football game!
+[2021.01.31-12.52.42:149][293]LogBlueprintUserMessages: [GMBP_MainGame_C_0] The car is in the garage today. So I need to get the bus!
+[2021.01.31-12.52.42:149][293]LogBlueprintUserMessages: [GMBP_MainGame_C_0] I had so much work yesterday, I took my laptop home.
+[2021.01.31-12.52.42:149][293]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  GMBP_MainGame Function:  Execute Ubergraph GMBP Main Game Graph:  EventGraph Node:  Bind Event to Call when Finished Displaying Text
+[2021.01.31-12.52.42:149][293]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  GMBP_MainGame Function:  Execute Ubergraph GMBP Main Game Graph:  EventGraph Node:  Bind Event to Call when Finished Displaying Text
+[2021.01.31-12.52.42:149][293]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  GMBP_MainGame Function:  Execute Ubergraph GMBP Main Game Graph:  EventGraph Node:  Set Text to Display
+[2021.01.31-12.52.42:149][293]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  GMBP_MainGame Function:  Execute Ubergraph GMBP Main Game Graph:  EventGraph Node:  Set Text to Display
+[2021.01.31-12.52.42:149][293]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  GMBP_MainGame Function:  Execute Ubergraph GMBP Main Game Graph:  EventGraph Node:  Game Over
+[2021.01.31-12.52.46:337][475]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  GMBP_MainGame Function:  Execute Ubergraph GMBP Main Game Graph:  EventGraph Node:  Add to Viewport
+[2021.01.31-12.52.46:338][475]LogBlueprintUserMessages: [GMBP_MainGame_C_0] Today was share your food with work day!
+[2021.01.31-12.52.46:338][475]LogBlueprintUserMessages: [GMBP_MainGame_C_0] Its time for the weekly football game!
+[2021.01.31-12.52.46:338][475]LogBlueprintUserMessages: [GMBP_MainGame_C_0] The car is in the garage today. So I need to get the bus!
+[2021.01.31-12.52.46:338][475]LogBlueprintUserMessages: [GMBP_MainGame_C_0] I had so much work yesterday, I took my laptop home.
+[2021.01.31-12.52.46:338][475]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  GMBP_MainGame Function:  Execute Ubergraph GMBP Main Game Graph:  EventGraph Node:  Bind Event to Call when Finished Displaying Text
+[2021.01.31-12.52.46:338][475]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  GMBP_MainGame Function:  Execute Ubergraph GMBP Main Game Graph:  EventGraph Node:  Bind Event to Call when Finished Displaying Text
+[2021.01.31-12.52.46:338][475]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  GMBP_MainGame Function:  Execute Ubergraph GMBP Main Game Graph:  EventGraph Node:  Set Text to Display
+[2021.01.31-12.52.46:338][475]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  GMBP_MainGame Function:  Execute Ubergraph GMBP Main Game Graph:  EventGraph Node:  Set Text to Display
+[2021.01.31-12.52.46:338][475]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Blueprint:  GMBP_MainGame Function:  Execute Ubergraph GMBP Main Game Graph:  EventGraph Node:  Game Over
+[2021.01.31-12.52.50:069][643]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-12.52.50:069][643]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_HouseTest
+[2021.01.31-12.52.50:070][643]LogSlate: Window 'LateForWork Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.01.31-12.52.50:078][643]LogWorld: UWorld::CleanupWorld for HouseTest, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-12.52.50:079][643]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-12.52.50:088][643]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.31-12.52.50:100][643]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-12.52.50:125][643]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.31-12.52.50:126][643]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.31-12.52.50:127][643]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.31-12.52.50:149][643]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2021.01.31-12.52.50:229][644]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2021.01.31-12.53.42:702][202]BlueprintLog: New page: Compile GMBP_MainGame
+[2021.01.31-12.53.42:791][202]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2021.01.31-12.53.42:951][202]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GMBP_MainGame" FILE="../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/GMBP_MainGame.uasset" SILENT=true
+[2021.01.31-12.53.43:028][202]LogSavePackage: Moving '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Saved/GMBP_MainGameD9E28D884A9B2D46834F409B80C5C13B.tmp' to '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/GMBP_MainGame.uasset'
+[2021.01.31-12.53.43:045][202]AssetCheck: New page: Asset Save: GMBP_MainGame
+[2021.01.31-12.53.43:045][202]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/GMBP_MainGame.GMBP_MainGame
+[2021.01.31-12.53.43:467][212]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GMBP_MainGame" FILE="../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/GMBP_MainGame.uasset" SILENT=true
+[2021.01.31-12.53.43:545][212]LogSavePackage: Moving '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Saved/GMBP_MainGameAE0AD516499B84907451D790107FC15C.tmp' to '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/GMBP_MainGame.uasset'
+[2021.01.31-12.53.43:565][212]AssetCheck: New page: Asset Save: GMBP_MainGame
+[2021.01.31-12.53.43:565][212]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/GMBP_MainGame.GMBP_MainGame
+[2021.01.31-12.53.45:421][307]LogSlate: Window 'Message Log' being destroyed
+[2021.01.31-12.53.45:431][307]LogSlate: Window 'Message Log' being destroyed
+[2021.01.31-12.53.46:192][352]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.31-12.53.46:200][352]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.31-12.53.46:200][352]PIE: New page: PIE session: HouseTest (31 Jan 2021, 12:53:46)
+[2021.01.31-12.53.46:201][352]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_HouseTest
+[2021.01.31-12.53.46:214][352]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013108s)
+[2021.01.31-12.53.46:215][352]LogAIModule: Creating AISystem for world HouseTest
+[2021.01.31-12.53.46:215][352]LogPlayLevel: PIE: World Init took: (0.001137s)
+[2021.01.31-12.53.46:215][352]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/HouseTest.HouseTest to /Game/Levels/UEDPIE_0_HouseTest.HouseTest (0.014402s)
+[2021.01.31-12.53.46:243][352]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2021.01.31-12.53.46:244][352]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2021.01.31-12.53.46:244][352]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.31-12.53.46:244][352]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.31-12.53.46:244][352]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.31-12.53.46:244][352]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.31-12.53.46:244][352]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.31-12.53.46:244][352]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.31-12.53.46:244][352]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.31-12.53.46:244][352]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.31-12.53.46:244][352]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.31-12.53.46:244][352]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.31-12.53.46:251][352]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.31-12.53.46:251][352]LogAudioMixer: Display: 1: FrontRight
+[2021.01.31-12.53.46:264][352]LogAudioMixer: Display: Using Audio Device Headphones (Arctis 7 Game)
+[2021.01.31-12.53.46:264][352]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.31-12.53.46:264][352]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.31-12.53.46:264][352]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.31-12.53.46:265][352]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.31-12.53.46:265][352]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.31-12.53.46:265][352]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.31-12.53.46:279][352]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.31-12.53.46:279][352]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.31-12.53.46:279][352]LogInit: FAudioDevice initialized.
+[2021.01.31-12.53.46:279][352]LogAudio: Display: Audio Device (ID: 12) registered with world 'HouseTest'.
+[2021.01.31-12.53.46:332][352]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-12.53.46:332][352]LogLoad: Game class is 'GMBP_MainGame_C'
+[2021.01.31-12.53.46:338][352]LogWorld: Bringing World /Game/Levels/UEDPIE_0_HouseTest.HouseTest up for play (max tick rate 0) at 2021.01.31-12.53.46
+[2021.01.31-12.53.46:338][352]LogWorld: Bringing up level for play took: 0.005510
+[2021.01.31-12.53.46:339][352]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2021.01.31-12.53.46:344][352]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2021.01.31-12.53.46:344][352]LogScript: Warning: Script Msg: Attempted to access index 6 from array 'Pickups' of length 6 in '/Game/Levels/HouseTest.HouseTest_C'!
+[2021.01.31-12.53.46:344][352]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2021.01.31-12.53.46:350][352]PIE: Server logged in
+[2021.01.31-12.53.46:354][352]PIE: Play in editor total start time 0.155 seconds.
+[2021.01.31-12.53.46:354][352]LogInput: Error: Duplicate mapping of key Gamepad_LeftX for axis MoveRight
+[2021.01.31-12.53.46:354][352]LogInput: Error: Duplicate mapping of key Gamepad_LeftY for axis MoveForward
+[2021.01.31-12.53.46:354][352]LogInput: Error: Duplicate mapping of key Gamepad_LeftY for axis UIUp
+[2021.01.31-12.53.46:354][352]LogInput: Error: Duplicate mapping of key Gamepad_LeftX for axis UIRight
+[2021.01.31-12.53.52:667][656]LogBlueprintUserMessages: [GMBP_MainGame_C_0] I dont know why. But I felt the urge to bring a bucket.
+[2021.01.31-12.53.52:667][656]LogBlueprintUserMessages: [GMBP_MainGame_C_0] You left your house and headded to your car.
+[2021.01.31-12.53.52:667][656]LogBlueprintUserMessages: [GMBP_MainGame_C_0] Work had a breach the other day, so we have to have our work IDs to get in.
+[2021.01.31-12.53.52:667][656]LogBlueprintUserMessages: [GMBP_MainGame_C_0] Time for the meeting with the boss!
+[2021.01.31-12.54.46:213][398]PIE: Warning: The widget 'WBP_GameOver_C' was already added to the screen.
+[2021.01.31-12.55.23:990][329]LogNet: Browse: /Game/Levels/MainMenu
+[2021.01.31-12.55.23:990][329]LogLoad: LoadMap: /Game/Levels/MainMenu
+[2021.01.31-12.55.23:990][329]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_HouseTest
+[2021.01.31-12.55.23:991][329]LogWorld: UWorld::CleanupWorld for HouseTest, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-12.55.23:992][329]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-12.55.24:019][329]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.31-12.55.24:024][329]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2021.01.31-12.55.24:031][329]LogAudio: Display: Audio Device (ID: 12) registered with world 'MainMenu'.
+[2021.01.31-12.55.24:032][329]LogAIModule: Creating AISystem for world MainMenu
+[2021.01.31-12.55.24:032][329]LogLoad: Game class is 'GMBP_MainMenu_C'
+[2021.01.31-12.55.24:033][329]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2021.01.31-12.55.24
+[2021.01.31-12.55.24:033][329]LogWorld: Bringing up level for play took: 0.000499
+[2021.01.31-12.55.24:033][329]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.01.31-12.55.24:034][329]LogLoad: Took 0.043991 seconds to LoadMap(/Game/Levels/MainMenu)
+[2021.01.31-12.55.24:034][329]LogInput: Error: Duplicate mapping of key Gamepad_LeftX for axis MoveRight
+[2021.01.31-12.55.24:034][329]LogInput: Error: Duplicate mapping of key Gamepad_LeftY for axis MoveForward
+[2021.01.31-12.55.24:034][329]LogInput: Error: Duplicate mapping of key Gamepad_LeftY for axis UIUp
+[2021.01.31-12.55.24:034][329]LogInput: Error: Duplicate mapping of key Gamepad_LeftX for axis UIRight
+[2021.01.31-12.55.32:690][792]LogSlate: Window 'LateForWork Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.01.31-12.55.32:703][792]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainMenu
+[2021.01.31-12.55.32:703][792]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-12.55.32:703][792]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-12.55.32:710][792]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.31-12.55.32:721][792]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-12.55.32:744][792]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.31-12.55.32:745][792]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.31-12.55.32:745][792]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.31-12.55.32:765][792]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2021.01.31-12.55.32:896][793]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2021.01.31-12.55.34:201][858]LogSlate: Window 'Message Log' being destroyed
+[2021.01.31-12.55.34:211][858]LogSlate: Window 'Message Log' being destroyed
+[2021.01.31-12.55.50:393][829]BlueprintLog: New page: Compile GMBP_MainGame
+[2021.01.31-12.55.50:481][829]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2021.01.31-12.55.50:627][829]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GMBP_MainGame" FILE="../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/GMBP_MainGame.uasset" SILENT=true
+[2021.01.31-12.55.50:704][829]LogSavePackage: Moving '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Saved/GMBP_MainGame0DE3146B42E5BEA598B69099133DAA64.tmp' to '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/GMBP_MainGame.uasset'
+[2021.01.31-12.55.50:720][829]AssetCheck: New page: Asset Save: GMBP_MainGame
+[2021.01.31-12.55.50:720][829]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/GMBP_MainGame.GMBP_MainGame
+[2021.01.31-12.55.51:209][847]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GMBP_MainGame" FILE="../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/GMBP_MainGame.uasset" SILENT=true
+[2021.01.31-12.55.51:285][847]LogSavePackage: Moving '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Saved/GMBP_MainGame1021E1684D54CCF5EC162C8E39B43A18.tmp' to '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/GMBP_MainGame.uasset'
+[2021.01.31-12.55.51:301][847]AssetCheck: New page: Asset Save: GMBP_MainGame
+[2021.01.31-12.55.51:301][847]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/GMBP_MainGame.GMBP_MainGame
+[2021.01.31-12.56.33:503][364]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2021.01.31-12.56.33:607][364]LogSavePackage: Moving '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Saved/HouseTest_Auto3840E31B94122A9F5859FAEB16B69546B.tmp' to '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Saved/Autosaves/Game/Levels/HouseTest_Auto3.umap'
+[2021.01.31-12.56.33:609][364]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/HouseTest' took 0.147
+[2021.01.31-12.56.33:609][364]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.147
