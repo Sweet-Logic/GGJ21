@@ -1,9 +1,9 @@
-E:\Users\ash\Dev\Unreal\GGJ21\LateForWork\Intermediate\Build\Win64\UE4Editor\Development\LateForWork\Definitions.LateForWork.h
-E:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-E:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-E:\Users\ash\Dev\Unreal\GGJ21\LateForWork\Source\LateForWork/LateForWorkGameMode.h
-E:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
-E:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
-E:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
-E:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
-E:\Users\ash\Dev\Unreal\GGJ21\LateForWork\Intermediate\Build\Win64\UE4Editor\Inc\LateForWork\LateForWorkGameMode.generated.h
+C:\Users\KIWe\Projects\GGJ\2021\GGJ21\LateForWork\Intermediate\Build\Win64\UE4Editor\Development\LateForWork\Definitions.LateForWork.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\KIWe\Projects\GGJ\2021\GGJ21\LateForWork\Source\LateForWork/LateForWorkGameMode.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\Users\KIWe\Projects\GGJ\2021\GGJ21\LateForWork\Intermediate\Build\Win64\UE4Editor\Inc\LateForWork\LateForWorkGameMode.generated.h
