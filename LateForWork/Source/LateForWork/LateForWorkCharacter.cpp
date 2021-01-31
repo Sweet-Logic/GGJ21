@@ -88,21 +88,17 @@ void ALateForWorkCharacter::InteractButtonPressed_Implementation()
 //Action Mappings
 void ALateForWorkCharacter::InteractPressed()
 {
-	GEngine->AddOnScreenDebugMessage(-1, 5.f, FColor::Cyan, TEXT("Interact Pressed, But there is no functionality yet!"));
 }
 
 //Input handlers for Pause
 void ALateForWorkCharacter::PausePressed()
 {
-	GEngine->AddOnScreenDebugMessage(-1, 5.f, FColor::Cyan, TEXT("Pause Pressed, But there is no functionality yet!"));
 
 }
 
 //Input handlers for Display List
 void ALateForWorkCharacter::DisplayListPressed()
 {
-	GEngine->AddOnScreenDebugMessage(-1, 5.f, FColor::Cyan, TEXT("DisplayListPressed, But there is no functionality yet!"));
-
 }
 
 //Axis Mappings
@@ -125,5 +121,4 @@ void ALateForWorkCharacter::OnMoveRightPressed(float Value)
 		GetActorForwardVector();
 		AddMovementInput(m_rightVector, Value* m_movementSpeed);
 	}
-
 }

@@ -35,12 +35,10 @@ protected:
 	
 	//Axis Mappings	
 	//Input handlers for UI Up
-	void OnUIUpPressed();
-	void OnUIUpReleased();
+	void OnUIUpPressed(float Value);
 	
 	//Input handlers for UI Right
-	void OnUIRightPressed();
-	void OnUIRightRealease();
+	void OnUIRightPressed(float Value);
 };
 
 
