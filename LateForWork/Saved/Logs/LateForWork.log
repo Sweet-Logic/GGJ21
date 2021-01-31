@@ -6284,3 +6284,42 @@ Would you like to reload these packages? This will revert any changes you have m
 [2021.01.31-03.39.55:821][414]Cmd: MAP CHECKDEP NOCLEARLOG
 [2021.01.31-03.39.55:823][414]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.77ms to complete.
 [2021.01.31-03.39.55:823][414]LogFileHelpers: Loading map 'HouseTest' took 0.358
+[2021.01.31-03.44.39:333][361]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2021.01.31-03.44.45:074][361]LogSlate: Window 'Save Content' being destroyed
+[2021.01.31-03.44.45:282][361]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/S_Scenerio" FILE="../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/S_Scenerio.uasset" SILENT=true
+[2021.01.31-03.44.45:296][361]LogSavePackage: Moving '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Saved/S_Scenerio1CB54A16405D7704AEC14FB138D47F1F.tmp' to '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/S_Scenerio.uasset'
+[2021.01.31-03.44.46:049][361]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-03.44.46:049][361]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-03.44.46:101][361]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-03.44.46:101][361]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-03.44.46:736][361]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-03.44.46:736][361]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-03.44.46:774][361]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-03.44.46:774][361]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-03.44.47:437][361]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-03.44.47:438][361]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-03.44.48:654][361]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.01.31-03.44.48:654][361]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-03.44.48:654][361]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-03.44.49:473][361]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-03.44.49:474][361]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-03.44.49:915][361]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-03.44.49:916][361]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-03.44.49:926][361]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-03.44.49:926][361]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-03.44.50:193][361]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.01.31-03.44.50:194][361]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-03.44.50:194][361]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-03.44.50:618][361]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.01.31-03.44.50:618][361]LogWorld: UWorld::CleanupWorld for World_48, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-03.44.50:618][361]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-03.44.50:952][361]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.01.31-03.44.50:952][361]LogWorld: UWorld::CleanupWorld for World_49, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-03.44.50:952][361]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-03.44.51:164][361]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.01.31-03.44.51:164][361]LogWorld: UWorld::CleanupWorld for World_50, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-03.44.51:164][361]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-03.44.51:420][361]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.01.31-03.44.51:420][361]LogWorld: UWorld::CleanupWorld for World_52, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-03.44.51:420][361]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-03.44.51:767][361]LogSlate: Window 'DT_Scenario' being destroyed
