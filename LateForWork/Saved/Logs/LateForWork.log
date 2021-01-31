@@ -800,3 +800,81 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.01.31-11.59.34:317][942]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0104 seconds. Added 3604 classes and 861 folders.
 [2021.01.31-11.59.34:589][942]Display: HotReload took  0.8s.
 [2021.01.31-11.59.35:346][945]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.01.31-12.03.44:669][104]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/GMBP_MainGame.GMBP_MainGame
+[2021.01.31-12.03.45:077][104]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 126 classes and 0 folders.
+[2021.01.31-12.03.46:130][104]LogSlate: Took 0.001859 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.01.31-12.03.46:318][105]LogSlate: Took 0.000804 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.01.31-12.03.51:839][586]BlueprintLog: New page: Compile GMBP_MainGame
+[2021.01.31-12.03.51:923][586]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2021.01.31-12.03.52:089][586]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GMBP_MainGame" FILE="../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/GMBP_MainGame.uasset" SILENT=true
+[2021.01.31-12.03.52:146][586]LogSavePackage: Moving '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Saved/GMBP_MainGame565A6ABE40B6C7329A8760B5F52E95BE.tmp' to '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/GMBP_MainGame.uasset'
+[2021.01.31-12.03.52:166][586]AssetCheck: New page: Asset Save: GMBP_MainGame
+[2021.01.31-12.03.52:166][586]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/GMBP_MainGame.GMBP_MainGame
+[2021.01.31-12.03.52:242][586]LogSlate: Took 0.001284 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.01.31-12.03.52:536][595]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GMBP_MainGame" FILE="../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/GMBP_MainGame.uasset" SILENT=true
+[2021.01.31-12.03.52:582][595]LogSavePackage: Moving '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Saved/GMBP_MainGame20FDD54647D0B68F9395DC9EE2086F44.tmp' to '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/GMBP_MainGame.uasset'
+[2021.01.31-12.03.52:599][595]AssetCheck: New page: Asset Save: GMBP_MainGame
+[2021.01.31-12.03.52:599][595]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/GMBP_MainGame.GMBP_MainGame
+[2021.01.31-12.03.54:510][750]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-12.03.54:510][750]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-12.04.47:723][618]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/Blueprints/S_Outcome.S_Outcome
+[2021.01.31-12.04.50:469][819]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_S_Scenerio_1' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_S_Scenerio_1' is empty
+[2021.01.31-12.04.50:627][830]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_S_Scenerio_5' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_S_Scenerio_5' is empty
+[2021.01.31-12.05.06:176][176]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_S_Scenerio_9' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_S_Scenerio_9' is empty
+[2021.01.31-12.05.07:655][293]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_S_Scenerio_13' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_S_Scenerio_13' is empty
+[2021.01.31-12.05.08:350][343]LogSlate: Took 0.001020 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.01.31-12.05.10:007][477]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_S_Scenerio_17' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_S_Scenerio_17' is empty
+[2021.01.31-12.05.24:639][740]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_S_Scenerio_21' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_S_Scenerio_21' is empty
+[2021.01.31-12.05.27:852][990]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_S_Scenerio_25' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_S_Scenerio_25' is empty
+[2021.01.31-12.05.28:744][ 43]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/S_Outcome" FILE="../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/S_Outcome.uasset" SILENT=true
+[2021.01.31-12.05.28:746][ 43]LogSavePackage: Moving '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Saved/S_Outcome0F3C94AD4D9B8B0717401291AE0D25A2.tmp' to '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/S_Outcome.uasset'
+[2021.01.31-12.05.28:760][ 43]AssetCheck: New page: Asset Save: S_Outcome
+[2021.01.31-12.05.28:760][ 43]LogContentValidation: Display: Validating UserDefinedStruct /Game/Blueprints/S_Outcome.S_Outcome
+[2021.01.31-12.05.30:659][191]LogSlate: Window 'S_Outcome' being destroyed
+[2021.01.31-12.05.35:658][650]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/GMBP_MainGame.GMBP_MainGame
+[2021.01.31-12.05.49:360][726]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/Blueprints/S_Objective.S_Objective
+[2021.01.31-12.05.55:674][198]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_S_Scenerio_29' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_S_Scenerio_29' is empty
+[2021.01.31-12.05.57:083][302]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_S_Scenerio_33' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_S_Scenerio_33' is empty
+[2021.01.31-12.06.02:402][700]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_S_Scenerio_37' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_S_Scenerio_37' is empty
+[2021.01.31-12.06.05:196][895]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/S_Objective" FILE="../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/S_Objective.uasset" SILENT=true
+[2021.01.31-12.06.05:199][895]LogSavePackage: Moving '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Saved/S_ObjectiveA54D86474726E70C2DC4C1AF8055DDC4.tmp' to '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/S_Objective.uasset'
+[2021.01.31-12.06.05:216][895]AssetCheck: New page: Asset Save: S_Objective
+[2021.01.31-12.06.05:216][895]LogContentValidation: Display: Validating UserDefinedStruct /Game/Blueprints/S_Objective.S_Objective
+[2021.01.31-12.06.12:783][423]BlueprintLog: New page: Compile GMBP_MainGame
+[2021.01.31-12.06.12:988][423]LogUObjectHash: Compacting FUObjectHashTables data took  12.39ms
+[2021.01.31-12.06.13:146][423]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GMBP_MainGame" FILE="../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/GMBP_MainGame.uasset" SILENT=true
+[2021.01.31-12.06.13:192][423]LogSavePackage: Moving '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Saved/GMBP_MainGame1A1436604EE80593A9A6CCA1495FD7C5.tmp' to '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/GMBP_MainGame.uasset'
+[2021.01.31-12.06.13:205][423]AssetCheck: New page: Asset Save: GMBP_MainGame
+[2021.01.31-12.06.13:205][423]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/GMBP_MainGame.GMBP_MainGame
+[2021.01.31-12.08.04:517][647]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/S_Objective" FILE="../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/S_Objective.uasset" SILENT=true
+[2021.01.31-12.08.04:520][647]LogSavePackage: Moving '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Saved/S_Objective8B02DC6D4874A9D9BF14E498AB57FF63.tmp' to '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/S_Objective.uasset'
+[2021.01.31-12.08.04:537][647]AssetCheck: New page: Asset Save: S_Objective
+[2021.01.31-12.08.04:537][647]LogContentValidation: Display: Validating UserDefinedStruct /Game/Blueprints/S_Objective.S_Objective
+[2021.01.31-12.09.22:882][514]BlueprintLog: New page: Compile GMBP_MainGame
+[2021.01.31-12.09.22:948][514]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2021.01.31-12.09.23:107][514]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GMBP_MainGame" FILE="../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/GMBP_MainGame.uasset" SILENT=true
+[2021.01.31-12.09.23:161][514]LogSavePackage: Moving '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Saved/GMBP_MainGame08F381014E7E5C26C2C3D484A379F0AF.tmp' to '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/GMBP_MainGame.uasset'
+[2021.01.31-12.09.23:176][514]AssetCheck: New page: Asset Save: GMBP_MainGame
+[2021.01.31-12.09.23:176][514]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/GMBP_MainGame.GMBP_MainGame
+[2021.01.31-12.09.23:737][535]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GMBP_MainGame" FILE="../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/GMBP_MainGame.uasset" SILENT=true
+[2021.01.31-12.09.23:788][535]LogSavePackage: Moving '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Saved/GMBP_MainGame98DF24304F29B8B0E7D464865F9C7775.tmp' to '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Content/Blueprints/GMBP_MainGame.uasset'
+[2021.01.31-12.09.23:799][535]AssetCheck: New page: Asset Save: GMBP_MainGame
+[2021.01.31-12.09.23:799][535]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/GMBP_MainGame.GMBP_MainGame
+[2021.01.31-12.10.14:176][492]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2021.01.31-12.10.14:179][492]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDownCPP/Maps/TopDownExampleMap' took 0.032
+[2021.01.31-12.10.14:180][492]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownCPP/Blueprints/TopDownCharacter] ([1] browsable assets)...
+[2021.01.31-12.10.14:263][492]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter]
+[2021.01.31-12.10.14:263][492]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownCPP/Blueprints/TopDownCharacter]
+[2021.01.31-12.10.14:373][492]LogSavePackage: Moving '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Saved/TopDownCharacter_Auto1DDC948344BBEB07DF64068BBD7E5EBEE.tmp' to '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Saved/Autosaves/Game/TopDownCPP/Blueprints/TopDownCharacter_Auto1.uasset'
+[2021.01.31-12.10.14:375][492]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/S_Scenerio] ([1] browsable assets)...
+[2021.01.31-12.10.14:375][492]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/S_Scenerio]
+[2021.01.31-12.10.14:378][492]LogSavePackage: Moving '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Saved/S_Scenerio_Auto1924B76AE45FAF0A1545B55BF1B85B542.tmp' to '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Saved/Autosaves/Game/Blueprints/S_Scenerio_Auto1.uasset'
+[2021.01.31-12.10.14:380][492]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/DT_Scenario] ([1] browsable assets)...
+[2021.01.31-12.10.14:380][492]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/DT_Scenario]
+[2021.01.31-12.10.14:387][492]LogSavePackage: Moving '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Saved/DT_Scenario_Auto15EE7056D4C1160A9540105918D0F5908.tmp' to '../../../../../../Users/KIWe/Projects/GGJ/2021/GGJ21/LateForWork/Saved/Autosaves/Game/Blueprints/DT_Scenario_Auto1.uasset'
+[2021.01.31-12.10.14:388][492]LogFileHelpers: Auto-saving content packages took 0.209
+[2021.01.31-12.10.23:510][520]LogSlate: Window 'S_Objective' being destroyed
+[2021.01.31-12.10.26:659][757]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/Blueprints/S_Outcome.S_Outcome
+[2021.01.31-12.10.29:610][979]LogSlate: Window 'S_Outcome' being destroyed
+[2021.01.31-12.10.31:241][112]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/Blueprints/S_Objective.S_Objective
+[2021.01.31-12.10.34:964][365]LogSlate: Window 'S_Objective' being destroyed
