@@ -72,7 +72,6 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(ALateForWorkCharacter); \
 #define LateForWork_Source_LateForWork_LateForWorkCharacter_h_14_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__TopDownCameraComponent() { return STRUCT_OFFSET(ALateForWorkCharacter, TopDownCameraComponent); } \
 	FORCEINLINE static uint32 __PPO__CameraBoom() { return STRUCT_OFFSET(ALateForWorkCharacter, CameraBoom); } \
-	FORCEINLINE static uint32 __PPO__CursorToWorld() { return STRUCT_OFFSET(ALateForWorkCharacter, CursorToWorld); } \
 	FORCEINLINE static uint32 __PPO__m_movementSpeed() { return STRUCT_OFFSET(ALateForWorkCharacter, m_movementSpeed); }
 
 

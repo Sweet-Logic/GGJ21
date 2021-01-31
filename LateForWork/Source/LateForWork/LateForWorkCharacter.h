@@ -26,8 +26,6 @@ public:
 	FORCEINLINE class UCameraComponent* GetTopDownCameraComponent() const { return TopDownCameraComponent; }
 	/** Returns CameraBoom subobject **/
 	FORCEINLINE class USpringArmComponent* GetCameraBoom() const { return CameraBoom; }
-	/** Returns CursorToWorld subobject **/
-	FORCEINLINE class UDecalComponent* GetCursorToWorld() { return CursorToWorld; }
 
 	UFUNCTION(BlueprintNativeEvent, Category = "C++ Functions")
 		void InteractButtonPressed();
@@ -42,10 +40,6 @@ private:
 	/** Camera boom positioning the camera above the character */
 	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = Camera, meta = (AllowPrivateAccess = "true"))
 	class USpringArmComponent* CameraBoom;
-
-	/** A decal that projects to the cursor location. */
-	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = Camera, meta = (AllowPrivateAccess = "true"))
-	class UDecalComponent* CursorToWorld;
 
 	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = Movement, meta = (AllowPrivateAccess = "true"))
 	float m_movementSpeed = 20.f;
